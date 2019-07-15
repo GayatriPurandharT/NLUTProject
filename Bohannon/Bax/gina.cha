@@ -9,8 +9,9 @@
 @ID:	eng|Bohannon|MAR|||||Adult|||
 @ID:	eng|Bohannon|TOY|||||Media|||
 @Situation:	at BAX's house
-*GIN:	hey Bax , do you have a spiral like mine ?
-%mor:	co|hey n:prop|Bax cm|cm v|do pro:per|you v|have det:art|a n|spiral
+*GIN:	mor
+%hey Bax , do you have a spiral like mine ?:	
+%mor:   co|hey n:prop|Bax cm|cm v|do pro:per|you v|have det:art|a n|spiral
 	prep|like pro:poss|mine ?
 %gra:	1|2|COM 2|4|SUBJ 3|2|LP 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|OBJ
 	9|8|NJCT 10|9|POBJ 11|4|PUNCT
