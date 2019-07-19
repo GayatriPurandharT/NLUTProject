@@ -1,40 +1,104 @@
 n''t	1044
-gonna	578
-oh	542
-xxx	493
+gonna	578 VBG 'Going to' "
+oh	542 UH  ''
+xxx	493 NNP
 like	466
-one	441
-know	427
-make	426
-wanna	393
-get	313
+like    93  IN
+like    20  VB
+like    49  VBP
+like    4   VBZ likes
+like    93  IN 
+like    2   JJ
+one 24  PRP
+one 5   NNS
+one 104 CD  
+know	66  VB
+know    62  VBP
+make	123 VB
+make    22  VBP
+make    8   VBZ makes
+make    21  VBG making
+make    15  VBD made
+wanna	109 VBP
+wanna   46  VB
+get 57  VB
+get 14  VBP
+get VBD got
+get VBN got
 uhhuh	276
-play	268
-let	252
-want	241
-see	241
-good	237
-right	216
-house	193
-big	188
-think	188
-us	187
-look	186
-got	185
-ca	178
-yes	168
-little	163
-birthday	158
-party	151
-come	147
-hafta	145
-else	143
-well	139
-something	137
-eat	133
-goes	131
-blow	130
-tell	128
+play	52  VB
+play    38  NN
+play    5   VBP
+play    6   VBG
+play    6   VBD
+let VB
+let VBD
+let VBG
+let VBZ
+let VBP
+want    VBP
+want    VB
+see VB
+see VBP
+good JJ
+good NN
+good RB 
+right   NN	
+right   JJ
+right   RB
+house   NN
+house   VB  
+big JJ
+think   VBP
+think   VB
+us  PRP
+look    VBP
+look    NN
+look    VB
+can NN
+can VB 
+can MD  could
+yes NN
+yes VB
+yes RB
+yes UH   
+little	RB
+little  JJ
+birthday    NN
+party   NN
+party   JJ	
+hafta	NN
+hafta   NNS
+hafta   VBG
+come    VBP
+come    VB
+come    VBN
+come    VBZ
+come    VBG
+well	RBR better
+well    RB
+something   NN
+something   RB
+eat VB
+eat VBP
+eat VBZ eats
+eat VBG eating
+eat VBN eaten
+go  VBG going
+go  VBN gon
+go  VBD went
+go  VBG going
+go  VBZ goes
+blow    VB  
+blow    VBP 
+blow    VBZ blows
+blow    VBG blowing
+blow    VBN blown
+blow    VBD blew
+tell    VB	
+tell    VBP
+tell    VBD told
+tell    VBG telling
 playdough	124
 bed	120
 bubbles	120
