@@ -49,19 +49,27 @@ right   RB
 house   NN
 house   VB  
 big JJ
-think   VBP
 think   VB
+think   VBD thought
+think   VBN thought
+think   VBZ thinks
+think   VBG thinking 
+think   VBP think
 us  PRP
 look    VBP
 look    NN
 look    VB
+look    VBZ looks
+look    NNS looks
 can NN
 can VB 
 can MD  could
 yes NN
 yes VB
 yes RB
-yes UH   
+yes UH
+yes UH  yeah
+yes UH  yep   
 little	RB
 little  JJ
 birthday    NN
@@ -95,93 +103,195 @@ blow    VBZ blows
 blow    VBG blowing
 blow    VBN blown
 blow    VBD blew
-tell    VB	
-tell    VBP
+tell    VB  tell
 tell    VBD told
+tell    VBN told
+tell    VBZ tells
 tell    VBG telling
-playdough	124
-bed	120
-bubbles	120
-koolaid	120
-take	116
-need	115
-blue	110
-baby	109
-hey	109
-time	96
-cake	96
+tell    VBP tell
+playdough	NN
+bed	NN
+bubbtakesle NN
+bubbles NNS
+koolaid	NN
+take	VB
+take    VBD took
+take    VBN taken
+take    VBG taking 
+take    VBP take
+need	VBP
+needta  NNS
+blue	JJ
+blue    NN
+baby	NN
+hey	UH
+time	NN
+time	VB
+cake	NN
+cake	VB
 hello	92
 home	87
-call	86
-uhuh	85
-thing	85
-back	85
-frog	84
-room	76
-maybe	73
-could	72
-making	72
-bring	72
-pretty	71
-chair	70
-another	70
-school	69
-made	69
-hair	68
-help	68
-yep	66
-people	66
-tv	64
-stuff	64
-hi	63
-going	62
-breakfast	62
-farm	61
-cow	60
-hard	58
-huh	58
-gotta	57
-real	57
-better	57
-outside	57
-juice	56
-ever	56
-say	56
-looks	55
-today	55
-thank	55
-happened	55
-horse	54
-table	54
-red	54
-bathtub	52
-bathroom	52
-two	52
-white	52
-dog	51
-ready	51
-yet	49
-kitchen	49
-anything	48
-build	47
-popped	46
-use	45
-watch	45
-wo	45
-oops	45
-thought	45
-bye	45
-sposta	44
-kind	44
-first	44
-fell	44
-sleep	43
-close	43
-orange	43
-open	42
-food	42
-drink	42
-broken	42
+call	NN
+call	JJ
+call	VB
+call	VBP
+uhuh	UH
+thing	NN
+thing	NNS
+back    RB	
+back    NN	
+back    VB	
+frog	NN
+frog	NNS
+frog	VB
+frog	VBP
+room	NN
+room	NNS
+maybe	RB
+bring	VB
+bring	VBD brought
+bring	VBN brought
+bring	VBZ brings
+bring	VBG bringing
+bring	VBP bring
+pretty	JJ
+pretty	RB
+chair	NN
+chair	NNS chairs
+chair	VB
+chair	VBZ
+another	DT
+school	NN
+school	VB
+hair	NN
+help	NN
+help	VB
+help	VBZ helps
+help	VBP help
+people	NNS
+tv	NN
+stuff	NN
+stuff	VB
+stuff	VBP
+hi	UH
+breakfast	NN
+breakfast	VB
+breakfast	VBP
+farm	NN
+farm    VB
+cow NN
+cow NNS cows
+cow VB
+hard	JJ
+hard	RB
+huh	UH
+gotta	VB
+gotta VBN
+real	JJ
+real	RB
+better	NN
+better	VB
+outside	RB
+outside	JJ
+outside	NN
+outside	IN
+juice	NN
+ever	RB
+say VB
+say VBD said
+say VBN said
+say VBZ says 
+say VBG saying
+say VBP say
+today	NN
+today RB
+thank	VB
+thank	VBP
+thank	NNS
+happen	VB
+happen	VBD happened
+happen	VBZ happens
+happen	VBN happened
+horse	NN
+horse	NNS horses
+horse	VB
+table	NN
+red	NN
+red	JJ
+bathtub	NN
+bathroom	NN
+two	CD
+white	NN
+white	JJ
+dog	NN
+ready	JJ
+ready	RB
+yet	RB
+kitchen	NN
+anything	NN
+build	VB
+build   VBD built
+build   VBN built
+build   VBZ builds
+build   VBG building
+build   VBP build
+pop	VB
+pop	VBP pop
+pop	VBN popped
+pop VBD popped
+pop JJ
+pop NN
+use	NN
+use	VB
+use	VBP use
+watch   VB
+watch   VBP watch
+watch   VBN watched
+watch   VBD watched
+watch   VBG watching 
+watch   VBZ watches
+watch   NNS watches
+oops	NNP
+bye	NN
+sposta	VB
+kind	NN
+kind	NNS kinds
+first	JJ
+first RB
+fall    VB
+fall    VBD fell
+fall    VBN fallen
+fall    VBZ falls
+fall    VBG falling
+fall    VBP fall
+sleep	VB
+sleep   VBD slept
+sleep   VBN slept
+sleep   VBZ sleeps
+sleep   VBG sleeping
+sleep   VBP sleep
+close	JJ
+close	VB
+close	RB
+orange	JJ
+open	RP
+open	VB
+open	VBP open
+open	VBD opened
+food	NN
+drink	VB
+drink	VBD drank
+drink	VBP drunk
+drink	VBN drinks
+drink	VBG drinking
+drink	VBP drink
+broken	JJ
+break   VB
+break   VBD broke
+break   VBN broken
+break   VBZ breaks
+break   VBG breaking
+break   VBP break
 yellow	42
 sit	41
 somebody	41
