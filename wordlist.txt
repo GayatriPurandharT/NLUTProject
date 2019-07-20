@@ -93,7 +93,7 @@ eat VBZ eats
 eat VBG eating
 eat VBN eaten
 go  VBG going
-go  VBN gon
+go  VBN gone
 go  VBD went
 go  VBG going
 go  VBZ goes
@@ -292,21 +292,49 @@ break   VBN broken
 break   VBZ breaks
 break   VBG breaking
 break   VBP break
-yellow	42
-sit	41
-somebody	41
-show	41
-fix	41
-gone	41
-sure	41
-wrong	41
-mine	40
-hurt	40
-farmer	40
-amy	40
-name	39
-pretend	39
-pop	39
+yellow	NN
+yellow JJ
+sit	VB
+sit	VBD sat
+sit	VBN sat
+sit	VBZ sits
+sit	VBG sitting
+sit	VBP sit
+sit NN
+somebody    NN
+show    VB
+show    VBD  showed
+show    VBN  shown
+show    VBZ shows
+show    VBG showing
+show    VBP show
+show    NN
+show    NNS shows
+fix NN
+fix VB
+fix VBN fixed 
+fix VBD fixed
+sure	RB
+sure	JJ  surely
+wrong	RB
+wrong	JJ
+mine	PRP$
+mine    NN
+mine    VBP
+mine    PRP
+mine    JJ
+hurt	VB
+hurt	VBD  hurt
+hurt	VBN  hurt
+hurt	VBZ  hurts
+hurt	VBG hurting
+hurt	VBP hurt
+farmer	NN
+name	NN
+name    VBN named
+pretend	JJ
+pretend	VB
+pretend	VBG pretending
 mess	39
 head	38
 guess	38
