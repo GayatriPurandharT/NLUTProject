@@ -10,8 +10,7 @@ oh	UH	oh-x
 Amy	NNP	Amy-n
 know    VBP    know-v 
 goodness	NN	goodness-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 play	VB	play-v
 tractor	NN	tractor-n 
 wagon	NN	wagon-n
@@ -35,16 +34,14 @@ make	VB	make-v
 balls	NNS	ball-n
 want    VBP    want-v 
 help	VB	help-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 Amy's	NNP	Amy-n
 face	NN	face-n
 want    VBP    want-v 
 something	NN	something-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 gonna    VBG    gonna-v
 make	VB	make-v
@@ -56,8 +53,7 @@ wrong	RB	wrong-j
 want    VBP    want-v 
 xxx	NN	xxx-n
 think    VBP    think-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 call	VB	call-v
 Amy	NNP	Amy-n
@@ -88,35 +84,30 @@ play	VB	play-v
 party	NN	party-n
 well	RB	well-a
 come	VB	come-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 waiting    VBG    wait-v  
 bye	NN	bye-n 
 xxx	NN	xxx-n
 want    VBP    want-v   'Have a desire to possess or do (something)' 
 ride	NN	ride-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 mother	NN	mother-n  
 wanna    VBP    wanna-v
 mother	NN	mother-n  
 gonna    VBG    gonna-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 farmer	NN	farmer-n  
 honey	NN	honey-n
 lunch	NN	lunch-n
 ready	JJ	ready-j
 say    VBP    say-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 hurt    JJ    hurt-j  
 fell    VBD    fall-v 
 tractor	NN	tractor-n 
 sure	RB	sure-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 back	RB	back-a
 house	NN	house-n
 wait    VBP    wait-v 
@@ -130,8 +121,7 @@ oh	UH	oh-x
 sick	JJ	sick-j
 look	NN	look-n
 leg	NN	leg-n 
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 truck	NN	truck-n
 carry	VB	carry-v
@@ -142,12 +132,10 @@ broken    VBN    break-v
 fix	VB	fix-v 
 thank    VBP    thank-v
 people	NNS	people-n  
-<g/>
-n't	RB	not-a 
+<g/>n't	RB	not-a 
 wanna	VB	wanna-v
 inside	RB	inside-a  
-<g/>
-make	VB	make-v
+<g/>make	VB	make-v
 please	VB	please-v  
 nothing	NN	nothing-n 
 wanna    VBP    wanna-v
@@ -155,12 +143,10 @@ look	VB	look-v
 think    VBP    think-v
 duck	NN	duck-n
 sounds    VBZ    sound-v  
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 lock	VB	lock-v
-<g/>
-n't	RB	not-a 
+<g/>n't	RB	not-a 
 fix	VB	fix-v 
 stuff	NN	stuff-n
 need    VBP    need-v 
@@ -201,10 +187,8 @@ sad	JJ	sad-j
 alright	RB	alright-a
 ice	NN	ice-n 
 cream	NN	cream-n
-<g/>
-friends	NNS	friend-n  
-<g/>
-hafta	NNS	hafta-n
+<g/>friends	NNS	friend-n  
+<g/>hafta	NNS	hafta-n
 get    VBP    get-v
 hello	NN	hello-n
 come	VB	come-v
@@ -218,8 +202,7 @@ come    VBN    come-v
 bring	VB	bring-v
 anything	NN	anything-n
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 present	NN	present-n
 want    VBP    want-v
@@ -228,13 +211,11 @@ Sesamestreet	NNP	Sesamestreet-n
 cup	NN	cup-n
 else	RB	else-a
 want    VBP    want-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 Sesamestreet	NNP	Sesamestreet-n
 cup	NN	cup-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 party	NN	party-n
 byebye	NN	byebye-n
 oh	UH	oh-x
@@ -257,8 +238,7 @@ xxx	NN	xxx-n
 bet    VBD    bet-v
 Amy	NNP	Amy-n
 might	MD	might-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 call	VB	call-v
 Amy	NNP	Amy-n
 Amy	NNP	Amy-n
@@ -268,8 +248,7 @@ wanna    VBP    wanna-v
 come	VB	come-v
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 well	RB	well-a
 call    VBP    call-v
 talk	VB	talk-v
@@ -290,8 +269,7 @@ somebody	NN	somebody-n
 else	JJ	else-j
 oh	UH	oh-x
 forgot    VBD    forget-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 minute	NN	minute-n
 bye	NN	bye-n
 hi	UH	hi-x
@@ -328,8 +306,7 @@ xxx	NNP	xxx-n
 play	VB	play-v
 xxx	NN	xxx-n
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 either	CC	either-c
 want    VBP    want-v
@@ -386,8 +363,7 @@ uhhuh	RB	uhhuh-a
 like	IN	like-i
 farm	NN	farm-n
 well	RB	well-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 play	NN	play-n
 house	NN	house-n
@@ -406,8 +382,7 @@ man	NN	man-n
 drive    VBP    drive-v
 wagon	NN	wagon-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fit	VB	fit-v
 xxx	NN	xxx-n
 tractor	NN	tractor-n
@@ -422,8 +397,7 @@ one	CD	one-m
 red	JJ	red-j
 one	CD	one-m
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 building    VBG    build-v
 house	NN	house-n
 oh	UH	oh-x
@@ -468,8 +442,7 @@ wheeler	NN	wheeler-n
 oh	UH	oh-x
 bye	NN	bye-n
 Amy	NNP	Amy-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 call	VB	call-v
 sure	RB	sure-a
@@ -503,8 +476,7 @@ see	VB	see-v
 fix	VB	fix-v
 animals	NNS	animal-n
 well	RB	well-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 build	VB	build-v
 fence	NN	fence-n
@@ -552,8 +524,7 @@ went    VBD    go-v
 house	NN	house-n
 stuck	JJ	stuck-j
 blow	NN	blow-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 making    VBG    make-v
 million	CD	million-m
 bubbles	NNS	bubble-n
@@ -564,8 +535,7 @@ bubbles	NNS	bubble-n
 house	NN	house-n
 uhhuh    VBZ    uhhuh-v
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 small	JJ	small-j
 bigger	JJR	big-j
 one	CD	one-m
@@ -575,8 +545,7 @@ kinds	NNS	kind-n
 blowing    VBG    blow-v
 kind	NN	kind-n
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 big	JJ	big-j
 oh	UH	oh-x
 Amy	NNP	Amy-n
@@ -595,22 +564,18 @@ forth	RB	forth-a
 wanna	VB	wanna-v
 play	NN	play-n
 helicopter	NN	helicopter-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 play	NN	play-n
 truck	NN	truck-n
 high	JJ	high-j
 sky	NN	sky-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 reach	VB	reach-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 tall	JJ	tall-j
 Amy	NNP	Amy-n
 tall	JJ	tall-j
@@ -620,8 +585,7 @@ else	RB	else-a
 gonna    VBG    gonna-v
 take	VB	take-v
 upside	RB	upside-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 let	VB	let-v
 fly	VB	fly-v
@@ -659,8 +623,7 @@ pick	VB	pick-v
 kind	NN	kind-n
 sit    VBP    sit-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want    VBP    want-v
 opened    VBD    open-v
 stove	NN	stove-n
@@ -675,8 +638,7 @@ iced	JJ	iced-j
 tea	NN	tea-n
 gonna    VBG    gonna-v
 need	NN	need-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 show	VB	show-v
 playdough	NNS	playdough-n
@@ -685,12 +647,10 @@ make	VB	make-v
 tea	NN	tea-n
 oh	UH	oh-x
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ice	NN	ice-n
 cream	NN	cream-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 take	VB	take-v
 whole	JJ	whole-j
@@ -721,8 +681,7 @@ Amy	NNP	Amy-n
 uh	UH	uh-x
 oh	UH	oh-x
 caught    VBD    catch-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 Amy	NNP	Amy-n
@@ -732,13 +691,11 @@ flower	NN	flower-n
 alright	RB	alright-a
 easy	RB	easy-a
 huh	JJ	huh-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 finished    VBN    finish-v
 smashed    VBD    smash-v
 flat	JJ	flat-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 making    VBG    make-v
 pretty	RB	pretty-a
 Amy	NNP	Amy-n
@@ -748,8 +705,7 @@ fall	VB	fall-v
 happened    VBD    happen-v
 wanna    VBP    wanna-v
 cover	VB	cover-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 cookie	NN	cookie-n
@@ -762,8 +718,7 @@ cookies	NNS	cookie-n
 ice	NN	ice-n
 cream	NN	cream-n
 Amy	NNP	Amy-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 break	VB	break-v
 big	JJ	big-j
@@ -776,16 +731,13 @@ build	VB	build-v
 good	JJ	good-j
 start	NN	start-n
 uhoh	NN	uhoh-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 making    VBG    make-v
 hard	JJ	hard-j
 oops	NNP	oops-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 knocked    VBN    knock-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 tall	JJ	tall-j
@@ -828,8 +780,7 @@ home	NN	home-n
 ever	RB	ever-a
 play    VBP    play-v
 games	NNS	game-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 blow	VB	blow-v
 instead	RB	instead-a
 wiping    VBG    wipe-v
@@ -866,8 +817,7 @@ one	CD	one-m
 popped    VBD    pop-v
 tell	VB	tell-v
 want    VBP    want-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 try	VB	try-v
 big	JJ	big-j
 one	CD	one-m
@@ -881,8 +831,7 @@ farm	NN	farm-n
 !	SENT	!-x
 see    VBP    see-v
 bubbles	NNS	bubble-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 popped    VBN    pop-v
 bubbles	NNS	bubble-n
 pop    VBP    pop-v
@@ -893,8 +842,7 @@ say    VBP    say-v
 wanted    VBD    want-v
 play	VB	play-v
 farm	NN	farm-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 play	VB	play-v
 whatever	WDT	whatever-x
 Andrew	NNP	Andrew-n
@@ -903,12 +851,10 @@ play	VB	play-v
 wanna	VB	wanna-v
 blocks	NNS	block-n
 happened    VBD    happen-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 threw    VBD    throw-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 loud	RB	loud-a
 better	RBR	well-a
 get	VB	get-v
@@ -924,8 +870,7 @@ pink	NN	pink-n
 make	VB	make-v
 stuff	NN	stuff-n
 mine	NN	mine-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 snowman	NN	snowman-n
@@ -936,19 +881,16 @@ uhuh	NNP	uhuh-n
 ever	RB	ever-a
 seen    VBN    see-v
 one	CD	one-m
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 either	RB	either-a
 oh	UH	oh-x
 little	JJ	little-j
 one	CD	one-m
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 carrot	NN	carrot-n
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 carrot	NN	carrot-n
 either	CC	either-c
 mine	PRP	mine-d
@@ -970,8 +912,7 @@ huh	NNS	huh-n
 lady	NN	lady-n
 lady	NN	lady-n
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 know	VB	know-v
 story	NN	story-n
@@ -1006,8 +947,7 @@ party	NN	party-n
 tell	VB	tell-v
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 never	RB	never-a
 three	CD	three-m
 tell	VB	tell-v
@@ -1037,8 +977,7 @@ good	JJ	good-j
 blow	NN	blow-n
 blow	NN	blow-n
 good	JJ	good-j
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 stuffy	JJ	stuffy-j
 nose	NN	nose-n
@@ -1052,8 +991,7 @@ harder	RBR	harder-a
 alright	RB	alright-a
 !	SENT	!-x
 Andrew	NNP	Andrew-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 getting    VBG    get-v
 good	JJ	good-j
 nose	NN	nose-n
@@ -1066,8 +1004,7 @@ birthday	NN	birthday-n
 partys	NNS	party-n
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 never	RB	never-a
 play	VB	play-v
 anything	NN	anything-n
@@ -1078,8 +1015,7 @@ paper	VB	paper-v
 oh	UH	oh-x
 string	NN	string-n
 making    VBG    make-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 park	NN	park-n
@@ -1091,8 +1027,7 @@ oh	UH	oh-x
 oh	UH	oh-x
 right	RB	right-a
 gonna    VBG    gonna-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 heart	RB	heart-a
 shaped    VBN    shape-v
@@ -1101,8 +1036,7 @@ smart	JJ	smart-j
 look    VBP    look-v
 made    VBD    make-v
 right	RB	right-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 snakes	NNS	snake-n
 rat	NN	rat-n
@@ -1129,8 +1063,7 @@ tiger	NN	tiger-n
 jumping    VBG    jump-v
 fire	NN	fire-n
 !	SENT	!-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 round	NN	round-n
 thing	NN	thing-n
 else	RB	else-a
@@ -1140,27 +1073,22 @@ circus	NN	circus-n
 lions	NNS	lion-n
 lions	NNS	lion-n
 fire	NN	fire-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 lions	NNS	lion-n
 growl	VB	growl-v
 people	NNS	people-n
 sometimes	RB	sometimes-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 uhhuh	VB	uhhuh-v
 copy	VB	copy-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 stuff	NN	stuff-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 copying    VBG    copy-v
 huh	RB	huh-a
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 copy	VB	copy-v
 tell	VB	tell-v
 circus	NN	circus-n
@@ -1188,8 +1116,7 @@ uhhuh    VBD    uhhuh-v
 tried    VBD    try-v
 white	NN	white-n
 yellow	NN	yellow-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 know	VB	know-v
 colors	NNS	color-n
@@ -1204,26 +1131,21 @@ us	PRP	us-d
 playdough	NN	playdough-n
 first	JJ	first-j
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 dry	JJ	dry-j
 icky	JJ	icky-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 one	CD	one-m
 behind	IN	behind-i
 blue	JJ	blue-j
 jar	NN	jar-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hard	JJ	hard-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 call	VB	call-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 holding    VBG    hold-v
 uhhuh	NNP	uhhuh-n
 Janice	NNP	Janice-n
@@ -1246,15 +1168,13 @@ please	UH	please-x
 tell	VB	tell-v
 saw    VBD    see-v
 zoo	NN	zoo-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 lion	NN	lion-n
 jumping    VBG    jump-v
 fire	NN	fire-n
 die	VB	die-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 die	VB	die-v
 might	MD	might-x
 die	VB	die-v
@@ -1263,22 +1183,18 @@ fire	VB	fire-v
 hi	UH	hi-x
 want    VBP    want-v
 truck	NN	truck-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 decide    VBP    decide-v
 making    VBG    make-v
 house	NN	house-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 furniture	NN	furniture-n
 wanna    VBP    wanna-v
 dump	VB	dump-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 dump	VB	dump-v
 want    VBP    want-v
@@ -1291,8 +1207,7 @@ Andrew's	NNP	Andrew-n
 room	NN	room-n
 gonna    VBG    gonna-v
 room	NN	room-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 bathroom	NN	bathroom-n
@@ -1303,8 +1218,7 @@ live    VBP    live-v
 bathroom	NN	bathroom-n
 home	NN	home-n
 else	RB	else-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 bed	NN	bed-n
 oh	UH	oh-x
@@ -1313,8 +1227,7 @@ wall	NN	wall-n
 fell    VBD    fall-v
 wall	NN	wall-n
 falls    VBZ    fall-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 bathroom	NN	bathroom-n
 Andrew	NNP	Andrew-n
@@ -1322,36 +1235,28 @@ gonna    VBG    gonna-v
 living    VBG    live-v
 room	NN	room-n
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 make	VB	make-v
 come    VBP    come-v
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 hafta	NN	hafta-n
 tell	VB	tell-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 kitchen	NN	kitchen-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	NN	good-n
 tell	VB	tell-v
 house	NN	house-n
 house	NN	house-n
 like	IN	like-i
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 littler	JJR	little-j
-<g/>
-n't	RB	not-a
-<g/>
-'s	VBZ	be-v
+<g/>n't	RB	not-a
+<g/>'s	VBZ	be-v
 round	JJ	round-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 big	JJ	big-j
 enough	NN	enough-n
@@ -1388,8 +1293,7 @@ dad	NN	dad-n
 need	NN	need-n
 thing	NN	thing-n
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 see	VB	see-v
 oh	UH	oh-x
 like    VBP    like-v
@@ -1397,8 +1301,7 @@ really	RB	really-a
 looks    VBZ    look-v
 good	JJ	good-j
 like    VBP    like-v  
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 else	RB	else-a
 mom	NN	mom-n
@@ -1427,23 +1330,19 @@ tv	NN	tv-n
 gets    VBZ    get-v
 tv	NN	tv-n
 kitchen	NN	kitchen-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 living    VBG    live-v
 room	NN	room-n
 living    VBG    live-v
 room	NN	room-n
 gonna    VBG    gonna-v
 fix	VB	fix-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 blocks	NNS	block-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 say    VBP    say-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 let	VB	let-v
 us	PRP	us-d
@@ -1453,8 +1352,7 @@ room	NN	room-n
 bed	NN	bed-n
 kitchen	NN	kitchen-n
 need    VBP    need-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 tv	NN	tv-n
 see    VBP    see-v
 found    VBD    find-v
@@ -1473,12 +1371,10 @@ Jetsons	NNS	Jetson-n
 like    VBP    like-v
 bestest	JJ	bestest-j
 cartoon	NN	cartoon-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 watch	VB	watch-v
 cartoons	NNS	cartoon-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 pulling    VBG    pull-v
 leg	NN	leg-n
 huh    VBZ    huh-v
@@ -1492,14 +1388,11 @@ room	NN	room-n
 mommy	NN	mommy-n
 daddy's	NN	daddy-n
 room	NN	room-n
-<g/>
-'ll	MD	will-x
-<g/>
-'s	VBZ	be-v
+<g/>'ll	MD	will-x
+<g/>'s	VBZ	be-v
 car	NN	car-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fool	VB	fool-v
 know    VBP    know-v
 car	NN	car-n
@@ -1510,11 +1403,9 @@ blue	JJ	blue-j
 station	NN	station-n
 wagon	VB	wagon-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 garage	NN	garage-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 ever	RB	ever-a
 taken    VBN    take-v
@@ -1528,22 +1419,18 @@ broken	JJ	broken-j
 see    VBP    see-v
 fix	VB	fix-v
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 shower	NN	shower-n
 alright	RB	alright-a
 Andrew	NNP	Andrew-n
 gonna    VBG    gonna-v
 make	VB	make-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 show    VBP    show-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 either	DT	either-x
 Andrew	NNP	Andrew-n
@@ -1582,19 +1469,16 @@ find	VB	find-v
 kitchen	NN	kitchen-n
 stuff	NN	stuff-n
 thing	NN	thing-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 know	VB	know-v
 oven	NN	oven-n
 thing	NN	thing-n
 well	RB	well-a
 good	JJ	good-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 stool	NN	stool-n
 wall	NN	wall-n
 fell    VBD    fall-v
@@ -1605,8 +1489,7 @@ another	DT	another-x
 couch	NN	couch-n
 oh	UH	oh-x
 good	NN	good-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
 green	JJ	green-j
@@ -1622,8 +1505,7 @@ microwave	NN	microwave-n
 oven	NN	oven-n
 anything	NN	anything-n
 know    VBP    know-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	RB	right-a
 silly	JJ	silly-j
 refrigerator	NN	refrigerator-n
@@ -1632,14 +1514,12 @@ bathroom	NN	bathroom-n
 never	RB	never-a
 sneeze    VBP    sneeze-v
 Andrew	NNP	Andrew-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sneeze	NN	sneeze-n
 tell	VB	tell-v
 know    VBP    know-v
 uhhuh	NN	uhhuh-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 washing	NN	washing-n
 machine	NN	machine-n
@@ -1657,18 +1537,15 @@ table	NN	table-n
 right	NN	right-n
 one	PRP	one-d
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 oh	UH	oh-x
 good	NN	good-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
 mother	NN	mother-n
-<g/>
-'s	Z	's-x
+<g/>'s	Z	's-x
 somebody	NN	somebody-n
 else	RB	else-a
 xxx	NNP	xxx-n
@@ -1678,8 +1555,7 @@ better	RBR	well-a
 make	VB	make-v
 door	NN	door-n
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 use	VB	use-v
 stuff	NN	stuff-n
 tractor	NN	tractor-n
@@ -1701,8 +1577,7 @@ slide	NN	slide-n
 know    VBP    know-v
 rescue	NN	rescue-n
 slide	NN	slide-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 know    VBP    know-v
 Andrew	NNP	Andrew-n
@@ -1710,8 +1585,7 @@ game	NN	game-n
 rescue	NN	rescue-n
 slide	NN	slide-n
 saddle	NN	saddle-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 sit	VB	sit-v
 think    VBP    think-v
@@ -1735,8 +1609,7 @@ shall	MD	shall-x
 towel	NN	towel-n
 hanger	NN	hanger-n
 towel	NN	towel-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 funny	JJ	funny-j
 today	NN	today-n
 still	RB	still-a
@@ -1769,43 +1642,36 @@ doggie	NN	doggie-n
 fell    VBD    fall-v
 huh	NNS	huh-n
 fence    VBP    fence-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 kick	VB	kick-v
 gonna    VBG    gonna-v
 fence	NN	fence-n
 well	RB	well-a
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 people	NNS	people-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 ideas	NNS	idea-n
 gonna    VBG    gonna-v
 keep	VB	keep-v
 animals	NNS	animal-n
 get	VB	get-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 run    VBN    run-v
 away	RP	away-x
 pig	NN	pig-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bathtub	NN	bathtub-n
 stuff	NN	stuff-n
 anything	NN	anything-n
 else	RB	else-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 think	VB	think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 duck	NN	duck-n
 wonder    VBP    wonder-v
 one	CD	one-m
@@ -1814,15 +1680,13 @@ cowboys	NNS	cowboy-n
 indians	NNS	Indian-n
 uhhuh    VBP    uhhuh-v
 horses	NNS	horse-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 laying    VBG    lay-v
 horses	NNS	horse-n
 say    VBP    say-v
 maheeg	NN	maheeg-n
 horses	NNS	horse-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 surprise	NN	surprise-n
 hand	NN	hand-n
 wanna    VBP    wanna-v
@@ -1833,24 +1697,20 @@ chickens	NNS	chicken-n
 horse	VB	horse-v
 oh	UH	oh-x
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fit	VB	fit-v
 cows	NNS	cow-n
 cows	NNS	cow-n
 bed	NN	bed-n
 making    VBG    make-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 see	VB	see-v
 nose	NN	nose-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 need	VB	need-v
 blowing    VBG    blow-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 real	RB	real-a
 good	JJ	good-j
 says    VBZ    say-v
@@ -1872,8 +1732,7 @@ get    VBP    get-v
 inside	IN	inside-i
 fence	NN	fence-n
 hide	VB	hide-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 seen    VBN    see-v
 movies	NNS	movie-n
 bet    VBP    bet-v
@@ -1883,8 +1742,7 @@ killed    VBN    kill-v
 skyrocket	NN	skyrocket-n
 cut    VBD    cut-v
 arm	NN	arm-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 Starwars	NNP	Starwars-n
 bad	JJ	bad-j
 playing    VBG    play-v
@@ -1898,8 +1756,7 @@ afraid	JJ	afraid-j
 dinosaurs	NNS	dinosaur-n
 stuff	NN	stuff-n
 like	IN	like-i
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 kidding    VBG    kid-v
 dinosaurs	NNS	dinosaur-n
 alive	RB	alive-a
@@ -1908,8 +1765,7 @@ restroom	NN	restroom-n
 checking    VBG    check-v
 dinosaurs	NNS	dinosaur-n
 huh    VBP    huh-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 kidding    VBG    kid-v
 must	MD	must-x
 real	JJ	real-j
@@ -1919,8 +1775,7 @@ bronchosaurus	NN	bronchosaurus-n
 bigger	JJR	big-j
 house	NN	house-n
 Flintstones	NNP	Flintstones-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 kidding    VBG    kid-v
 swimming	NN	swimming-n
 pool	NN	pool-n
@@ -1928,8 +1783,7 @@ right	RB	right-a
 read	VB	read-v
 lots	NNS	lot-n
 books	NNS	book-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 one	CD	one-m
 dinosaur	NN	dinosaur-n
@@ -1947,26 +1801,22 @@ play	VB	play-v
 like	IN	like-i
 see	VB	see-v
 something	NN	something-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 like	VB	like-v
 play	VB	play-v
 playdough	VB	playdough-v
 yes	UH	yes-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
 gonna    VBG    gonna-v
 make	VB	make-v
 playdough	NN	playdough-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 either	DT	either-x
 flower	VB	flower-v
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sposta	NNS	sposta-n
 make    VBP    make-v
 lieing	JJ	lieing-j
@@ -1976,8 +1826,7 @@ favor	NN	favor-n
 play	VB	play-v
 playdough	NN	playdough-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 thank    VBP    thank-v
 use	VB	use-v
@@ -1985,36 +1834,29 @@ box	NN	box-n
 want    VBP    want-v
 play	VB	play-v
 playdough	NN	playdough-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 know    VBP    know-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 strong	JJ	strong-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 make	VB	make-v
 mine	NN	mine-n
 tell	VB	tell-v
 make	VB	make-v
 mine	PRP	mine-d
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 gonna    VBG    gonna-v
 make	VB	make-v
 pancakes	NNS	pancake-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 play    VBP    play-v
 like	IN	like-i
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 breakfast	NN	breakfast-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let    VBN    let-v
 us	PRP	us-d
 see    VBP    see-v
@@ -2024,18 +1866,14 @@ oh	UH	oh-x
 eat	VB	eat-v
 twinkies	NNS	twinkie-n
 stuff    VBP    stuff-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 bad	JJ	bad-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 mom	NN	mom-n
 says    VBZ    say-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pancake	NN	pancake-n
 make	VB	make-v
 make	VB	make-v
@@ -2070,19 +1908,16 @@ pancakes	NNS	pancake-n
 else	RB	else-a
 gonna    VBG    gonna-v
 make	VB	make-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 anything	NN	anything-n
 else	RB	else-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 really	RB	really-a
 hungry	JJ	hungry-j
 oh	UH	oh-x
 great	JJ	great-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 minute	NN	minute-n
 thing	NN	thing-n
 else	RB	else-a
@@ -2090,8 +1925,7 @@ bring	VB	bring-v
 bring	VB	bring-v
 well	RB	well-a
 guess    VBP    guess-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 macaroni	NN	macaroni-n
 cheese	NN	cheese-n
@@ -2105,8 +1939,7 @@ gonna    VBG    gonna-v
 eat    VBP    eat-v
 bubbles    VBZ    bubble-v
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 play	VB	play-v
 bye	NN	bye-n
@@ -2116,20 +1949,17 @@ nose	NN	nose-n
 kinda	RB	kinda-a
 thought    VBD    think-v
 wipe    VBP    wipe-v
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 bubbles	NNS	bubble-n
 hafta	NNS	hafta-n
 make    VBP    make-v
 eat    VBP    eat-v
 bubbles	NNS	bubble-n
 play    VBP    play-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 uhhuh	RB	uhhuh-a
 look    VBP    look-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 making    VBG    make-v
 little	JJ	little-j
 eggs	NNS	egg-n
@@ -2143,11 +1973,9 @@ eggs	NNS	egg-n
 needta	NNS	needta-n
 get	VB	get-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hard	JJ	hard-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 cold	JJ	cold-j
 anywhere	RB	anywhere-a
 christmas	NNS	christma-n
@@ -2159,8 +1987,7 @@ get	VB	get-v
 anything	NN	anything-n
 bring    VBP    bring-v
 school	NN	school-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 garbage	NN	garbage-n
 get	VB	get-v
 garbage	NN	garbage-n
@@ -2190,8 +2017,7 @@ hafta	NN	hafta-n
 let	VB	let-v
 drip	VB	drip-v
 watch    VBP    watch-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 blow	NN	blow-n
 real	JJ	real-j
@@ -2206,8 +2032,7 @@ oh	UH	oh-x
 oh	UH	oh-x
 baby	NN	baby-n
 bubble	NN	bubble-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 try	VB	try-v
 one	PRP	one-d
@@ -2216,15 +2041,13 @@ hafta	NNS	hafta-n
 let    VBP    let-v
 drip    VBP    drip-v
 slow	VB	slow-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 hard	JJ	hard-j
 blower	NN	blower-n
 blow	NN	blow-n
 real	RB	real-a
 slow	JJ	slow-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 wanna    VBP    wanna-v
 look	VB	look-v
@@ -2232,8 +2055,7 @@ high	JJ	high-j
 oh	UH	oh-x
 phooey	NN	phooey-n
 thank    VBP    thank-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 call	NN	call-n
 someone	NN	someone-n
@@ -2242,14 +2064,11 @@ good	JJ	good-j
 ones	NNS	one-n
 get    VBP    get-v
 get	VB	get-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 many	JJ	many-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 everywhere	RB	everywhere-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 one	CD	one-m
 dump	VB	dump-v
@@ -2260,16 +2079,13 @@ hey	UH	hey-x
 let	VB	let-v
 us	PRP	us-d
 please	VB	please-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 help	VB	help-v
 move	VB	move-v
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 forget	VB	forget-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 build	VB	build-v
 right	RB	right-a
@@ -2280,8 +2096,7 @@ ready	RB	ready-a
 chairs	NNS	chair-n
 couch	NN	couch-n
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
 kitchen	NN	kitchen-n
 looks    VBZ    look-v
@@ -2295,36 +2110,30 @@ refrigerator	NN	refrigerator-n
 home	NN	home-n
 uhhuh	NN	uhhuh-n
 hey	UH	hey-x
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 idea	NN	idea-n
 fix	VB	fix-v
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 broken    VBN    break-v
 know	VB	know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 one	CD	one-m
 home	NN	home-n
 good	NN	good-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 bathroom	NN	bathroom-n
 gonna    VBG    gonna-v
 bathroom	NN	bathroom-n
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 thing	NN	thing-n
 !	SENT	!-x
 !	SENT	!-x
 well	RB	well-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 well    VBP    well-v
 room	NN	room-n
 thing	NN	thing-n
@@ -2345,24 +2154,20 @@ thing	NN	thing-n
 oh	UH	oh-x
 think    VBP    think-v
 table	NN	table-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 something	NN	something-n
 eat	VB	eat-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think    VBP    think-v
 table	NN	table-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 one	CD	one-m
 see    VBP    see-v
 find	VB	find-v
 hey	UH	hey-x
 match    VBP    match-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 broken    VBN    break-v
 part	NN	part-n
 looks    VBZ    look-v
@@ -2370,34 +2175,29 @@ wonder    VBP    wonder-v
 happened    VBD    happen-v
 broken    VBN    break-v
 step	VB	step-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hafta	NN	hafta-n
 use	NN	use-n
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bathtub	NN	bathtub-n
 bathroom	NN	bathroom-n
 oh	UH	oh-x
 good	JJ	good-j
 place	NN	place-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bed	NN	bed-n
 goes    VBZ    go-v
 bathtub	NN	bathtub-n
 chair	NN	chair-n
 matter	NN	matter-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 way	NN	way-n
 house	NN	house-n
 house	NN	house-n
 bed	NN	bed-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 bathtub	NN	bathtub-n
 guess    VBP    guess-v
 oh	UH	oh-x
@@ -2423,8 +2223,7 @@ dog	NN	dog-n
 bathtub	NN	bathtub-n
 thought    VBD    think-v
 water	VB	water-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 give	VB	give-v
 dog	NN	dog-n
@@ -2434,39 +2233,32 @@ need    VBP    need-v
 wrong	JJ	wrong-j
 xxx	NN	xxx-n
 see	NN	see-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 towel	NN	towel-n
 rack	NN	rack-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hang    VBP    hang-v
 towels	NNS	towel-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 smart	RB	smart-a
 let	VB	let-v
 us	PRP	us-d
 leave	VB	leave-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 thing	NN	thing-n
 know    VBP    know-v
 way	NN	way-n
 Jose	NNP	Jose-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 joker	NN	joker-n
 hey	UH	hey-x
 think    VBP    think-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 right	JJ	right-j
 idea	NN	idea-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	JJ	right-j
 oh	UH	oh-x
 close	JJ	close-j
@@ -2491,12 +2283,10 @@ oh	UH	oh-x
 better	RBR	well-a
 help	VB	help-v
 fire	NN	fire-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 another	DT	another-x
 fireman	NN	fireman-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 grandma	NN	grandma-n
 little	JJ	little-j
 girl	NN	girl-n
@@ -2505,8 +2295,7 @@ house	NN	house-n
 fire	NN	fire-n
 get	VB	get-v
 save	VB	save-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 get	VB	get-v
 take    VBP    take-v
@@ -2516,8 +2305,7 @@ played    VBD    play-v
 play	VB	play-v
 house	NN	house-n
 yesterday	NN	yesterday-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna    VBP    wanna-v
 something	NN	something-n
 different	JJ	different-j
@@ -2526,27 +2314,23 @@ us	PRP	us-d
 make	VB	make-v
 different	JJ	different-j
 gonna    VBG    gonna-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 block	NN	block-n
 else	RB	else-a
 uhhuh    VBN    uhhuh-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 play	NN	play-n
 playdough	NN	playdough-n
 wait	NN	wait-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 needta	NN	needta-n
 build	VB	build-v
 house	NN	house-n
 first	RB	first-a
 come    VBP    come-v
 play	VB	play-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 little	JJ	little-j
 house	NN	house-n
 xxx	NN	xxx-n
@@ -2562,20 +2346,17 @@ kitchen	NN	kitchen-n
 uhhuh	NNS	uhhuh-n
 look    VBP    look-v
 xxx	NNP	xxx-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bathtub	NN	bathtub-n
 fix	VB	fix-v
 like	IN	like-i
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 see	VB	see-v
 hafta	NN	hafta-n
 tell	VB	tell-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 see	VB	see-v
 saying    VBG    say-v
 make	VB	make-v
@@ -2596,14 +2377,12 @@ Santa	NNP	Santa-n
 Claus	NNP	Claus-n
 brought    VBD    bring-v
 helicopter	NN	helicopter-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 know	VB	know-v
 uhhuh	RB	uhhuh-a
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 know	VB	know-v
 gonna    VBG    gonna-v
@@ -2613,13 +2392,11 @@ tell	VB	tell-v
 tv	NN	tv-n
 huh	VB	huh-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 tv	NN	tv-n
 get	VB	get-v
 idea	NN	idea-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
 let	VB	let-v
@@ -2635,48 +2412,39 @@ gonna    VBG    gonna-v
 living	JJ	living-j
 room	NN	room-n
 happened    VBD    happen-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'ll	MD	will-x
+<g/>'s	VBZ	be-v
+<g/>'ll	MD	will-x
 like	IN	like-i
 chairs	NNS	chair-n
 see	VB	see-v
 tv	NN	tv-n
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 great	JJ	great-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 idea	NN	idea-n
 oh	UH	oh-x
 think    VBP    think-v
 goes    VBZ    go-v
 bathtub	NN	bathtub-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 oh	UH	oh-x
 yes	UH	yes-x
 home	NN	home-n
 mine	NN	mine-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bathtub	NN	bathtub-n
 bathtub	NN	bathtub-n
 bedroom	NN	bedroom-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 silly	RB	silly-a
 see	VB	see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wash    VBP    wash-v
 hands	NNS	hand-n
 face	VB	face-v
@@ -2684,17 +2452,13 @@ good	JJ	good-j
 idea	NN	idea-n
 oh	UH	oh-x
 crawl	VB	crawl-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 thought    VBN    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 great	JJ	great-j
 idea	NN	idea-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 friend	NN	friend-n
 horse	NN	horse-n
 bet    VBD    bet-v
@@ -2708,8 +2472,7 @@ already	RB	already-a
 gets    VBZ    get-v
 bath	NN	bath-n
 way	NN	way-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 chairs	NNS	chair-n
 table	NN	table-n
 still	RB	still-a
@@ -2724,18 +2487,15 @@ happen	VB	happen-v
 somebody	NN	somebody-n
 sat    VBN    sit-v
 chair	NN	chair-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 many	JJ	many-j
 chairs	NNS	chair-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 walk	VB	walk-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 great	RB	great-a
 let    VBP    let-v
@@ -2747,8 +2507,7 @@ better	RBR	well-a
 see	VB	see-v
 like	IN	like-i
 horses	NNS	horse-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 use	VB	use-v
 towel	NN	towel-n
 well	RB	well-a
@@ -2775,8 +2534,7 @@ fork	NN	fork-n
 know    VBP    know-v
 horses	NNS	horse-n
 eat    VBP    eat-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 horses	NNS	horse-n
 like	IN	like-i
 dinosaurs	NNS	dinosaur-n
@@ -2787,8 +2545,7 @@ thought    VBD    think-v
 horses	NNS	horse-n
 little	RB	little-a
 bitty	JJ	bitty-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 almost	RB	almost-a
 blocks	NNS	block-n
 wanna	VB	wanna-v
@@ -2797,30 +2554,23 @@ something	NN	something-n
 else	RB	else-a
 wanna    VBP    wanna-v
 play	VB	play-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 decide	VB	decide-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 stuff	NN	stuff-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 play	VB	play-v
 farm	NN	farm-n
 matter	NN	matter-n
 uhoh    VBP    uhoh-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 lot	NN	lot-n
 stuff	NN	stuff-n
-<g/>
-n't	RB	not-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
+<g/>n't	RB	not-a
 almost	RB	almost-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 uhhuh	NNP	uhhuh-n
 uhhuh	NNP	uhhuh-n
 sound	VB	sound-v
@@ -2830,48 +2580,37 @@ sound	NN	sound-n
 sounds    VBZ    sound-v
 like	IN	like-i
 duck	NN	duck-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna    VBP    wanna-v
 get	VB	get-v
 play	VB	play-v
-<g/>
-'s	Z	's-x
+<g/>'s	Z	's-x
 light	JJ	light-j
 outside	NN	outside-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 sposta	NN	sposta-n
 getting    VBG    get-v
 everything	NN	everything-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 garden	NN	garden-n
 gonna    VBG    gonna-v
 wrong	JJ	wrong-j
-<g/>
-n't	RB	not-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
+<g/>n't	RB	not-a
 turn    VBP    turn-v
 around	RB	around-a
 see    VBP    see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 real	RB	real-a
 easy	RB	easy-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 needta	NN	needta-n
 break	VB	break-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 need	VB	need-v
 tell	VB	tell-v
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 something	NN	something-n
 bathe	VB	bathe-v
 take	VB	take-v
@@ -2880,11 +2619,9 @@ fell    VBD    fall-v
 going    VBG    go-v
 oh	UH	oh-x
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 asleep	JJ	asleep-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 taking    VBG    take-v
 nap	NN	nap-n
 people	NNS	people-n
@@ -2902,22 +2639,19 @@ door	NN	door-n
 well	RB	well-a
 maybe	RB	maybe-a
 know    VBP    know-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 let	VB	let-v
 us	PRP	us-d
 blow	VB	blow-v
 bubbles	NNS	bubble-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wanna    VBP    wanna-v
 sure	RB	sure-a
 big	JJ	big-j
 help	NN	help-n
 oh	UH	oh-x
 well	UH	well-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 tire	VB	tire-v
 brush	VB	brush-v
@@ -2933,8 +2667,7 @@ thought    VBD    think-v
 said    VBD    say-v
 sitting    VBG    sit-v
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 farm	NN	farm-n
 oh	UH	oh-x
@@ -2944,8 +2677,7 @@ house	NN	house-n
 getting    VBG    get-v
 ready	JJ	ready-j
 somewhere	RB	somewhere-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 going    VBG    go-v
 farm	VB	farm-v
 oh	UH	oh-x
@@ -2961,8 +2693,7 @@ missed    VBD    miss-v
 hafta	NNS	hafta-n
 around	RB	around-a
 thank	VB	thank-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 sposta	NNS	sposta-n
 get    VBP    get-v
 happened    VBD    happen-v
@@ -2979,11 +2710,9 @@ ones	NNS	one-n
 catch    VBP    catch-v
 let    VBP    let-v
 see    VBP    see-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 catch	VB	catch-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 huh	NNS	huh-n
 pants	NNS	pant-n
 big	JJ	big-j
@@ -2993,8 +2722,7 @@ needta	NN	needta-n
 bathroom	NN	bathroom-n
 bet	VB	bet-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 catch	VB	catch-v
 happened    VBD    happen-v
 Ben	NNP	Ben-n
@@ -3017,8 +2745,7 @@ help	VB	help-v
 toys	NNS	toy-n
 hey	UH	hey-x
 hey	UH	hey-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 let	VB	let-v
 us	PRP	us-d
 quiet	NN	quiet-n
@@ -3026,16 +2753,14 @@ bet    VBP    bet-v
 quieter	JJR	quiet-j
 cha	NN	cha-n
 looking    VBG    look-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	JJ	pretty-j
 ribbon	NN	ribbon-n
 hair	NN	hair-n
 like    VBP    like-v
 christmas	NNS	christma-n
 tree    VBP    tree-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 birthday	NN	birthday-n
 party	NN	party-n
@@ -3066,8 +2791,7 @@ good	NN	good-n
 needta	NNS	needta-n
 make    VBP    make-v
 bigger	JJR	big-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 else	RB	else-a
 goes    VBZ    go-v
@@ -3076,13 +2800,11 @@ xxx	NN	xxx-n
 sink	NN	sink-n
 goes    VBZ    go-v
 bathroom	NN	bathroom-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 else	RB	else-a
 maybe	RB	maybe-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 towel	NN	towel-n
 hanger	NN	hanger-n
 towel	NN	towel-n
@@ -3098,16 +2820,14 @@ let	VB	let-v
 us	PRP	us-d
 see    VBP    see-v
 maybe	RB	maybe-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 like	IN	like-i
 maybe	RB	maybe-a
 show	VB	show-v
 oh	UH	oh-x
 oops	NNP	oops-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 work	VB	work-v
 let	VB	let-v
@@ -3119,17 +2839,14 @@ bedroom	NN	bedroom-n
 stuff	NN	stuff-n
 like	IN	like-i
 want    VBP    want-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 clothes	NNS	clothes-n
 chest	NN	chest-n
 drawers	NNS	drawer-n
 look    VBP    look-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 neat	NN	neat-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 makeup	NN	makeup-n
 like	JJ	like-j
 mom	NN	mom-n
@@ -3164,8 +2881,7 @@ know    VBP    know-v
 story	NN	story-n
 Frostythesnowman	NNP	Frostythesnowman-n
 xxx	NNP	xxx-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 new	JJ	new-j
 room	NN	room-n
 new	JJ	new-j
@@ -3174,24 +2890,20 @@ want    VBP    want-v
 good	JJ	good-j
 new	JJ	new-j
 room	NN	room-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 right	RB	right-a
 else	RB	else-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 kitchen	NN	kitchen-n
 think    VBP    think-v
 need	VB	need-v
 kitchen	NN	kitchen-n
 need    VBP    need-v
 kitchen	NN	kitchen-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 open	VB	open-v
 door	NN	door-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 kitchen	NN	kitchen-n
 thank	VB	thank-v
@@ -3218,8 +2930,7 @@ nobody	NN	nobody-n
 else	RB	else-a
 know    VBP    know-v
 fix	VB	fix-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 one	CD	one-m
 new	JJ	new-j
 kitchen	NN	kitchen-n
@@ -3227,8 +2938,7 @@ right	RB	right-a
 find	VB	find-v
 anything	NN	anything-n
 kitchen	NN	kitchen-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 kitchen	NN	kitchen-n
 see    VBP    see-v
 kitchen	NN	kitchen-n
@@ -3240,20 +2950,16 @@ one	CD	one-m
 house	NN	house-n
 boo	VB	boo-v
 !	SENT	!-x
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 playing    VBG    play-v
 goes    VBZ    go-v
 want    VBP    want-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 mean    VBP    mean-v
 show	VB	show-v
-<g/>
-'ll	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>'ll	MD	will-x
+<g/>n't	RB	not-a
 like	VB	like-v
 stuff	NN	stuff-n
 refrigerator	NN	refrigerator-n
@@ -3261,17 +2967,14 @@ looking    VBG    look-v
 Bree	NNP	Bree-n
 looking    VBG    look-v
 silly	RB	silly-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 something	RB	something-a
 else	RB	else-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 know	VB	know-v
 though	IN	though-i
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think    VBP    think-v
 maybe	RB	maybe-a
 wash    VBP    wash-v
@@ -3300,19 +3003,16 @@ use    VBP    use-v
 people	NNS	people-n
 still	RB	still-a
 sit    VBP    sit-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 get	VB	get-v
 hurt	VB	hurt-v
 one	PRP	one-d
 right	RB	right-a
 throw	VB	throw-v
 away	RP	away-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 chairs    VBZ    chair-v
 best	JJS	good-j
 place	NN	place-n
@@ -3321,16 +3021,13 @@ fixed    VBN    fix-v
 make	VB	make-v
 one	CD	one-m
 place	NN	place-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 best	JJS	good-j
 place	NN	place-n
 dishes	NNS	dish-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 call    VBP    call-v
 people	NNS	people-n
 birthday	NN	birthday-n
@@ -3349,19 +3046,16 @@ wanna    VBP    wanna-v
 blow	VB	blow-v
 bubbles	NNS	bubble-n
 instead	RB	instead-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 going    VBG    go-v
 oh	UH	oh-x
 kicked    VBD    kick-v
 house	NN	house-n
 house	NN	house-n
 mess	NN	mess-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 mess	NN	mess-n
 Bree	NNP	Bree-n
@@ -3373,11 +3067,9 @@ gonna    VBG    gonna-v
 pop	JJ	pop-j
 oh	UH	oh-x
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 work	VB	work-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sure	RB	sure-a
 good	JJ	good-j
 bubble	NN	bubble-n
@@ -3385,35 +3077,29 @@ popper	NN	popper-n
 airplane	NN	airplane-n
 !	SENT	!-x
 jet	NN	jet-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 never	RB	never-a
 airplane	NN	airplane-n
 ever	RB	ever-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 airplane	NN	airplane-n
 like	IN	like-i
 inside	RB	inside-a
 though	RB	though-a
 inside	NN	inside-n
 sit    VBP    sit-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 never	RB	never-a
 one	CD	one-m
 huh    VBG    huh-v
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 visit	VB	visit-v
 grandma	NN	grandma-n
 Nonoke	NNP	Nonoke-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bubbles	NNS	bubble-n
 uhhuh	RB	uhhuh-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 whole	JJ	whole-j
 bunch	NN	bunch-n
 Bree	NNP	Bree-n
@@ -3437,22 +3123,18 @@ red	JJ	red-j
 panties	NNS	panties-n
 got    VBD    get-v
 one	CD	one-m
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 play	NN	play-n
 yuck	NN	yuck-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 sure	RB	sure-a
 contrary	JJ	contrary-j
 morning	NN	morning-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 brush    VBP    brush-v
 hair	NN	hair-n
 know    VBP    know-v
@@ -3460,8 +3142,7 @@ let	VB	let-v
 us	PRP	us-d
 make	VB	make-v
 believe    VBP    believe-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 got    VBN    get-v
 school	VB	school-v
 hafta	NN	hafta-n
@@ -3472,12 +3153,10 @@ hafta	NN	hafta-n
 send	VB	send-v
 first	RB	first-a
 morning	NN	morning-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 ready	JJ	ready-j
 uhhuh	VB	uhhuh-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	RB	right-a
 yay	NN	yay-n
 gonna    VBG    gonna-v
@@ -3488,15 +3167,13 @@ car	NN	car-n
 forgot    VBD    forget-v
 bow	NN	bow-n
 hair	NN	hair-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 bow	NN	bow-n
 hair	NN	hair-n
 need    VBP    need-v
 bottle	NN	bottle-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think    VBP    think-v
 needs    VBZ    need-v
 breakfast	NN	breakfast-n
@@ -3516,39 +3193,32 @@ real	JJ	real-j
 food	NN	food-n
 want    VBP    want-v
 coffee	NN	coffee-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 getting    VBG    get-v
 baby	NN	baby-n
 ready	JJ	ready-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 coffee	NN	coffee-n
 Bree	NNP	Bree-n
 drink    VBP    drink-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pitcher	NN	pitcher-n
 want    VBP    want-v
 box	NN	box-n
 alright	RB	alright-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 toast	NN	toast-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 eggs	NNS	egg-n
 baby	NN	baby-n
 wanna    VBP    wanna-v
 feed	VB	feed-v
 says    VBZ    say-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	IN	like-i
 say    VBP    say-v
 baby	NN	baby-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 xxx	NN	xxx-n
 better	RBR	well-a
@@ -3559,15 +3229,13 @@ party	NN	party-n
 wanna    VBP    wanna-v
 still	RB	still-a
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 let	VB	let-v
 us	PRP	us-d
 party	NN	party-n
 dog	NN	dog-n
 come	VB	come-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 grandma	NN	grandma-n
 uhhuh    VBD    uhhuh-v
 ruffruffg	VB	ruffruffg-v
@@ -3576,8 +3244,7 @@ uhuh	VB	uhuh-v
 oh	UH	oh-x
 see    VBP    see-v
 stand	VB	stand-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 little	JJ	little-j
 baby	NN	baby-n
 xxx	NN	xxx-n
@@ -3589,8 +3256,7 @@ Bree	NNP	Bree-n
 ever	RB	ever-a
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 party	NN	party-n
 chicken	NN	chicken-n
 coop    VBP    coop-v
@@ -3603,8 +3269,7 @@ know    VBP    know-v
 pig	NN	pig-n
 come	VB	come-v
 good	NN	good-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 glad	JJ	glad-j
 horse	NN	horse-n
 gonna    VBG    gonna-v
@@ -3612,21 +3277,17 @@ come	VB	come-v
 pig	NN	pig-n
 uhhuh	NNP	uhhuh-n
 xxx	NNP	xxx-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 funny	JJ	funny-j
 last	JJ	last-j
 least	JJS	least-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 fat	JJ	fat-j
 cow	NN	cow-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 yellow	JJ	yellow-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 smart	JJ	smart-j
 know    VBP    know-v
 colors	NNS	color-n
@@ -3634,10 +3295,8 @@ wanna    VBP    wanna-v
 stuff	NN	stuff-n
 well	RB	well-a
 wanna    VBP    wanna-v
-<g/>
-n't	RB	not-a
-<g/>
-'re	VBP	be-v
+<g/>n't	RB	not-a
+<g/>'re	VBP	be-v
 looking    VBG    look-v
 situation	NN	situation-n
 huh    VBZ    huh-v
@@ -3648,37 +3307,30 @@ huh	NNP	Huh-n
 uhuh	NN	uhuh-n
 new	JJ	new-j
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 baby	NN	baby-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 happened    VBD    happen-v
 bottle	NN	bottle-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 lost    VBD    lose-v
 think    VBP    think-v
 could	MD	could-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 find	VB	find-v
 today	RB	today-a
 thank    VBP    thank-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 baby's	NN	baby-n
 blanket	NN	blanket-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 make    VBP    make-v
 one	PRP	one-d
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 little	JJ	little-j
 bed	NN	bed-n
 happened    VBD    happen-v
@@ -3689,33 +3341,28 @@ hide	VB	hide-v
 buy	VB	buy-v
 use	VB	use-v
 wanna    VBP    wanna-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 brush	VB	brush-v
 baby's	NN	baby-n
 hair	NN	hair-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 maybe	RB	maybe-a
 make	VB	make-v
 breakfast	NN	breakfast-n
 baby	NN	baby-n
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 animals	NNS	animal-n
 house	NN	house-n
 oh	UH	oh-x
 look	VB	look-v
 found    VBD    find-v
 know	VB	know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 match	VB	match-v
 well	RB	well-a
 match    VBP    match-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 let	VB	let-v
 us	PRP	us-d
 make	VB	make-v
@@ -3729,20 +3376,17 @@ seen    VBN    see-v
 one	PRP	one-d
 helps    VBZ    help-v
 shoes	NNS	shoe-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 think    VBP    think-v
 goes    VBZ    go-v
 bathtub	NN	bathtub-n
 uhhuh    VBZ    uhhuh-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 long	RB	long-a
 enough	RB	enough-a
 goes    VBZ    go-v
 like	VB	like-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 shower	NN	shower-n
 maybe	RB	maybe-a
 look    VBP    look-v
@@ -3750,8 +3394,7 @@ farmer	NN	farmer-n
 take	VB	take-v
 shower	NN	shower-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 take	VB	take-v
 shower	NN	shower-n
 hat	NN	hat-n
@@ -3770,53 +3413,43 @@ dog	NN	dog-n
 goes    VBZ    go-v
 first	JJ	first-j
 clothes	NNS	clothes-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hafta	NN	hafta-n
 wear	NN	wear-n
 something	NN	something-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 pretend	VB	pretend-v
 clothes	NNS	clothes-n
 cow	NN	cow-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 clothes	NNS	clothes-n
 give	VB	give-v
 milk	NN	milk-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 shower	NN	shower-n
 call    VBP    call-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 strong	JJ	strong-j
 head	VB	head-v
 oh	UH	oh-x
 hurt    VBD    hurt-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 see	VB	see-v
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 got    VBD    get-v
 clean	VB	clean-v
 house	NN	house-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 made    VBN    make-v
 let    VBP    let-v
 us	PRP	us-d
@@ -3824,16 +3457,14 @@ hurry    VBP    hurry-v
 quick	RB	quick-a
 fix	VB	fix-v
 inside	NN	inside-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 outside	JJ	outside-j
 uhhuh	NNP	uhhuh-n
 uhhuh	NNP	uhhuh-n
 fork	NN	fork-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 uhuh	VB	uhuh-v
 lid	NN	lid-n
 tight	RB	tight-a
@@ -3846,31 +3477,26 @@ good	JJ	good-j
 idea	NN	idea-n
 must	MD	must-x
 big	JJ	big-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna    VBP    wanna-v
 fence	NN	fence-n
 around	IN	around-i
 yard	NN	yard-n
 uhhuh	NNP	uhhuh-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 horse	NN	horse-n
 come	VB	come-v
 inside	RB	inside-a
 lick	VB	lick-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 puppy	NN	puppy-n
 dirty	JJ	dirty-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 rooster	NN	rooster-n
 come	VB	come-v
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 dirty	JJ	dirty-j
 wanna    VBP    wanna-v
 call	NN	call-n
@@ -3882,35 +3508,28 @@ new	JJ	new-j
 house	NN	house-n
 wanna    VBP    wanna-v
 pretend	VB	pretend-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 answer	VB	answer-v
 hello	NN	hello-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 speaking    VBG    speak-v
 yes	RB	yes-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 new	JJ	new-j
 look	VB	look-v
 like	IN	like-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 ready	JJ	ready-j
 yet	RB	yet-a
 tell	VB	tell-v
 something	NN	something-n
 else	RB	else-a
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 got    VBN    get-v
 three	CD	three-m
 people	NNS	people-n
-<g/>
-n't	RB	not-a
-<g/>
-'ve    VBP    have-v
+<g/>n't	RB	not-a
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 bathtub	NN	bathtub-n
 like    VBP    like-v
@@ -3921,8 +3540,7 @@ bring	VB	bring-v
 anything	NN	anything-n
 house	NN	house-n
 hung    VBD    hang-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 talk	VB	talk-v
 phone	NN	phone-n
@@ -3934,40 +3552,32 @@ hafta	NN	hafta-n
 tell	VB	tell-v
 horse's	NN	horse-n
 house	NN	house-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 chicken	NN	chicken-n
 lays    VBZ    lay-v
 bed	NN	bed-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 terrible	JJ	terrible-j
 horse	NN	horse-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 little	JJ	little-j
 baby	NN	baby-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 dishes	NNS	dish-n
 well	RB	well-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 horse	NN	horse-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 kiss	VB	kiss-v
 baby	NN	baby-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 garage	NN	garage-n
 nice	JJ	nice-j
 hey	UH	hey-x
 ever	RB	ever-a
 airplane	NN	airplane-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 moves    VBZ    move-v
 around	IN	around-i
@@ -3975,17 +3585,14 @@ lot	NN	lot-n
 huh    VBD    huh-v
 looks    VBZ    look-v
 like	IN	like-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 dog	NN	dog-n
 people	NNS	people-n
 really	RB	really-a
 think    VBP    think-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 tear	VB	tear-v
 hey	UH	hey-x
 ever	RB	ever-a
@@ -4003,31 +3610,25 @@ like	IN	like-i
 spinach	NN	spinach-n
 Popeye	NNP	Popeye-n
 likes    VBZ    like-v
-<g/>
-n't	RB	not-a
-<g/>
-'s	VBZ	be-v
+<g/>n't	RB	not-a
+<g/>'s	VBZ	be-v
 strong	JJ	strong-j
 else	RB	else-a
 like    VBP    like-v
 Popeye	NNP	Popeye-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 Oliveoil	NN	Oliveoil-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 say	VB	say-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 say	VB	say-v
 either	CC	either-c
 sure	RB	sure-a
 mean	JJ	mean-j
 horse	NN	horse-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mad	JJ	mad-j
 need    VBP    need-v
 something	NN	something-n
@@ -4037,8 +3638,7 @@ wanna    VBP    wanna-v
 make	VB	make-v
 something	NN	something-n
 playdough	JJ	playdough-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 food	NN	food-n
@@ -4049,19 +3649,16 @@ blue	NN	blue-n
 goes    VBZ    go-v
 scrambled	JJ	scrambled-j
 eggs	NNS	egg-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 hungry	JJ	hungry-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 peas	NNS	pea-n
 peas	NNS	pea-n
 eggs	NNS	egg-n
 good	JJ	good-j
 together	RB	together-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 make    VBP    make-v
 carrots	NNS	carrot-n
 like    VBP    like-v
@@ -4074,19 +3671,16 @@ mom	NN	mom-n
 make	VB	make-v
 playdough	NN	playdough-n
 watched    VBD    watch-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bowl	NN	bowl-n
 stuff	NN	stuff-n
 bowl	NN	bowl-n
 pretend	VB	pretend-v
 make	VB	make-v
 food	NN	food-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 made    VBN    make-v
 wanna    VBP    wanna-v
 call	VB	call-v
@@ -4110,8 +3704,7 @@ want    VBP    want-v
 come	VB	come-v
 help	VB	help-v
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 help	VB	help-v
 wanna    VBP    wanna-v
@@ -4125,22 +3718,18 @@ make    VBP    make-v
 oh	UH	oh-x
 make	VB	make-v
 spinach	NN	spinach-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 right	RB	right-a
 gonna    VBG    gonna-v
 eggs	NNS	egg-n
 come    VBN    come-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 chicken	NN	chicken-n
 hey	UH	hey-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 rooster	NN	rooster-n
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 rooster	NN	rooster-n
 see    VBP    see-v
 sits    VBZ    sit-v
@@ -4159,21 +3748,17 @@ gonna    VBG    gonna-v
 gonna    VBG    gonna-v
 bacon	NN	bacon-n
 sure	RB	sure-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 blow	VB	blow-v
 hard	RB	hard-a
 tell	VB	tell-v
-<g/>
-'m	VBP	be-v
-<g/>
-'s    VBZ    have-v
+<g/>'m	VBP	be-v
+<g/>'s    VBZ    have-v
 got    VBN    get-v
 oops	NNP	oops-n
 popped    VBD    pop-v
 nose	NN	nose-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want	VB	want-v
 drip	VB	drip-v
 new	JJ	new-j
@@ -4183,8 +3768,7 @@ wrong	RB	wrong-a
 let	VB	let-v
 us	PRP	us-d
 use	VB	use-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 mess	VB	mess-v
 well	RB	well-a
 wanna    VBP    wanna-v
@@ -4202,8 +3786,7 @@ leg	NN	leg-n
 oven	NN	oven-n
 oh	UH	oh-x
 good	JJ	good-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 right	NN	right-n
 ever	RB	ever-a
 made    VBD    make-v
@@ -4217,16 +3800,14 @@ puzzle	NN	puzzle-n
 dump	VB	dump-v
 back	RB	back-a
 mix	VB	mix-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 tough	JJ	tough-j
 hm	NN	hm-n
 drink    VBP    drink-v
 grape	NN	grape-n
 juice	NN	juice-n
 breakfast	NN	breakfast-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 purple	JJ	purple-j
 moustache	NN	moustache-n
@@ -4234,8 +3815,7 @@ try	VB	try-v
 part	NN	part-n
 !	SENT	!-x
 mouth	NN	mouth-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 wanna    VBP    wanna-v
 next	JJ	next-j
@@ -4277,8 +3857,7 @@ brothers	NNS	brother-n
 sisters	NNS	sister-n
 kind	JJ	kind-j
 fun	NN	fun-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna    VBP    wanna-v
 hm	NN	hm-n
 wanna    VBP    wanna-v
@@ -4296,8 +3875,7 @@ box	NN	box-n
 box	NN	box-n
 blocks	NNS	block-n
 careful	JJ	careful-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 heavy	JJ	heavy-j
 push	NN	push-n
 way	NN	way-n
@@ -4323,22 +3901,18 @@ fit    VBP    fit-v
 try	VB	try-v
 xxx	NN	xxx-n
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 looks    VBZ    look-v
 like	IN	like-i
 beep    VBP    beep-v
 beep	NN	beep-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 xxx	NN	xxx-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 bridge	NN	bridge-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 xxx	NN	xxx-n
 wanna    VBP    wanna-v
 start	NN	start-n
@@ -4346,26 +3920,21 @@ wanna    VBP    wanna-v
 away	RP	away-x
 kind	NN	kind-n
 boots	NNS	boot-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 cowboy	NN	cowboy-n
 boots	NNS	boot-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think    VBP    think-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 fit	NN	fit-n
 back	RB	back-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 either	DT	either-x
 xxx	NN	xxx-n
 got    VBD    get-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 people	NNS	people-n
 fit    VBP    fit-v
@@ -4429,8 +3998,7 @@ pretty	RB	pretty-a
 nice	JJ	nice-j
 spanks    VBZ    spank-v
 know    VBP    know-v
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 make	VB	make-v
 spank	NN	spank-n
 get	VB	get-v
@@ -4447,8 +4015,7 @@ away	RB	away-a
 Texas	NNP	Texas-n
 live    VBP    live-v
 Texas	NNP	Texas-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 live    VBP    live-v
 silly	RB	silly-a
 live	VB	live-v
@@ -4458,8 +4025,7 @@ wanna    VBP    wanna-v
 play	NN	play-n
 decide    VBP    decide-v
 surprise	VB	surprise-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 close	VB	close-v
 eyes	NNS	eye-n
 hurry	NN	hurry-n
@@ -4471,19 +4037,16 @@ bambi	NN	bambi-n
 play	NN	play-n
 dough	NN	dough-n
 try    VBP    try-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 crumbly	JJ	crumbly-j
 play	NN	play-n
 dough	NN	dough-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 could	MD	could-x
 make	VB	make-v
 pretend	JJ	pretend-j
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hard	JJ	hard-j
 work	VB	work-v
 crumbles    VBZ    crumble-v
@@ -4496,8 +4059,7 @@ trips	NNS	trip-n
 went    VBD    go-v
 fire	NN	fire-n
 station	NN	station-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 see	VB	see-v
 else	RB	else-a
 let    VBD    let-v
@@ -4509,8 +4071,7 @@ let	VB	let-v
 play	VB	play-v
 tell	VB	tell-v
 caught    VBD    catch-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 bridge	NN	bridge-n
 xxx	NN	xxx-n
@@ -4521,8 +4082,7 @@ maybe	RB	maybe-a
 river	NN	river-n
 xxx	NN	xxx-n
 boom	NN	boom-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 knock	VB	knock-v
 bridge	NN	bridge-n
@@ -4533,8 +4093,7 @@ oh	UH	oh-x
 almost	RB	almost-a
 real	JJ	real-j
 crash	NN	crash-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fell    VBD    fall-v
 mountain	NN	mountain-n
 xxx	NNP	xxx-n
@@ -4563,8 +4122,7 @@ bit	NN	bit-n
 look	NN	look-n
 good	JJ	good-j
 think    VBP    think-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 knock	VB	knock-v
 sure	RB	sure-a
@@ -4584,12 +4142,10 @@ think    VBP    think-v
 better	RBR	well-a
 build	VB	build-v
 back	VB	back-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 silly	JJ	silly-j
 goose	NN	goose-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 finished    VBN    finish-v
 finished    VBN    finish-v
 take    VBP    take-v
@@ -4599,22 +4155,18 @@ boats	NNS	boat-n
 see    VBP    see-v
 swimming    VBG    swim-v
 motors	NNS	motor-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 else	RB	else-a
 big	JJ	big-j
 old	JJ	old-j
 sails	NNS	sail-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 maybe	RB	maybe-a
 pig	NN	pig-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hungry	JJ	hungry-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 nothing	NN	nothing-n
 plate	NN	plate-n
 eat	VB	eat-v
@@ -4634,8 +4186,7 @@ dough	NN	dough-n
 pigs	NNS	pig-n
 eat    VBP    eat-v
 anything	NN	anything-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 eat    VBP    eat-v
 mud	NN	mud-n
 ever	RB	ever-a
@@ -4648,20 +4199,16 @@ mud	NN	mud-n
 cakes	NNS	cake-n
 good	JJ	good-j
 though	RB	though-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ever	RB	ever-a
 make    VBP    make-v
 mud	NN	mud-n
 pie	NN	pie-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 messy	JJ	messy-j
 eaters	NNS	eater-n
-<g/>
-n't	RB	not-a
-<g/>
-'ve    VBP    have-v
+<g/>n't	RB	not-a
+<g/>'ve    VBP    have-v
 seen    VBN    see-v
 real	JJ	real-j
 pigs	NNS	pig-n
@@ -4686,8 +4233,7 @@ uh	UH	uh-x
 oh	UH	oh-x
 pig's	NN	pig-n
 stomach	NN	stomach-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 either	RB	either-a
 grandmother	NN	grandmother-n
 pigs	NNS	pig-n
@@ -4704,8 +4250,7 @@ red	JJ	red-j
 dog	NN	dog-n
 yum	NN	yum-n
 mine	NN	mine-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 goned	JJ	goned-j
 like	IN	like-i
 eating    VBG    eat-v
@@ -4726,8 +4271,7 @@ nice	JJ	nice-j
 pig	NN	pig-n
 ah	NN	ah-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 xxx	NN	xxx-n
 quick	RB	quick-a
@@ -4763,8 +4307,7 @@ messy	JJ	messy-j
 last	JJ	last-j
 time	NN	time-n
 maybe	RB	maybe-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 tired	JJ	tired-j
 sleep	VB	sleep-v
 good	JJ	good-j
@@ -4774,26 +4317,21 @@ ever	RB	ever-a
 seen    VBN    see-v
 airplane	NN	airplane-n
 airport	NN	airport-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 one	CD	one-m
 ah	NN	ah-n
 !	SENT	!-x
-<g/>
-'d	MD	would-x
-<g/>
-'ve    VBP    have-v
+<g/>'d	MD	would-x
+<g/>'ve    VBP    have-v
 never	RB	never-a
 seen    VBN    see-v
 pink	JJ	pink-j
 frog	NN	frog-n
 make    VBP    make-v
 hop    VBP    hop-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 heavy	JJ	heavy-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 throw    VBP    throw-v
 ribbitg	NN	ribbitg-n
 ribbitg	NN	ribbitg-n
@@ -4828,8 +4366,7 @@ necklace	NN	necklace-n
 like	IN	like-i
 colors	NNS	color-n
 come    VBP    come-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 necklace	NN	necklace-n
@@ -4838,8 +4375,7 @@ push	NN	push-n
 uhhuh	NNS	uhhuh-n
 mixing    VBG    mix-v
 together	RB	together-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 play	NN	play-n
 ball	NN	ball-n
@@ -4850,24 +4386,19 @@ big	JJ	big-j
 monster	NN	monster-n
 like	IN	like-i
 sandwich	NN	sandwich-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 eat	VB	eat-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 eat	VB	eat-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 eat	VB	eat-v
 playdough	NN	playdough-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bad	JJ	bad-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 look	NN	look-n
 made    VBD    make-v
 boat	NN	boat-n
@@ -4885,16 +4416,13 @@ red	NN	red-n
 gonna    VBG    gonna-v
 need	NN	need-n
 help	NN	help-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	NN	blue-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 red	NN	red-n
 oh	UH	oh-x
 see    VBP    see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 yellow	JJ	yellow-j
 one	CD	one-m
 yep	NNS	yep-n
@@ -4907,27 +4435,20 @@ ever	RB	ever-a
 made    VBD    make-v
 mess	NN	mess-n
 home	NN	home-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 white	NN	white-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	NN	blue-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pink	JJ	pink-j
 red	JJ	red-j
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 yellow	NN	yellow-n
 play	VB	play-v
 farm	NN	farm-n
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 like	VB	like-v
 come	VB	come-v
 later	RBR	later-a
@@ -4940,34 +4461,29 @@ really	RB	really-a
 fell    VBD    fall-v
 maybe	RB	maybe-a
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 xxx	NN	xxx-n
 xxx	NNP	xxx-n
 xxx	NNP	xxx-n
 wanna    VBP    wanna-v
 ride	VB	ride-v
 xxx	NN	xxx-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 take	VB	take-v
 care	NN	care-n
 cow	NN	cow-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 ride	NN	ride-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 take	VB	take-v
 care	NN	care-n
 everything	NN	everything-n
 oops	NNP	oops-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 stop	VB	stop-v
 oh	UH	oh-x
 stop	VB	stop-v
@@ -5019,8 +4535,7 @@ table	NN	table-n
 real	JJ	real-j
 good	NN	good-n
 napkins	NNS	napkin-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 three	CD	three-m
 napkins	NNS	napkin-n
 wanna    VBP    wanna-v
@@ -5039,8 +4554,7 @@ us	PRP	us-d
 fix	VB	fix-v
 straighten	VB	straighten-v
 pull	VB	pull-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 fix	VB	fix-v
 farm	NN	farm-n
@@ -5053,16 +4567,14 @@ tennis	NN	tennis-n
 shoes	NNS	shoe-n
 like	IN	like-i
 square	NN	square-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	JJ	right-j
 oh	UH	oh-x
 good	JJ	good-j
 idea	NN	idea-n
 right	RB	right-a
 good	JJ	good-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 another	DT	another-x
 one	CD	one-m
@@ -5071,13 +4583,11 @@ give	VB	give-v
 knife	NN	knife-n
 eat	VB	eat-v
 knife	NN	knife-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 oh	UH	oh-x
 uhhuh	RB	uhhuh-a
 really	RB	really-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 sposta    VBG    sposta-v
 sposta	NNS	sposta-n
@@ -5094,8 +4604,7 @@ food	NN	food-n
 playdough	NNS	playdough-n
 get    VBP    get-v
 playdough	JJ	playdough-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 eat	VB	eat-v
 blue	JJ	blue-j
 food	NN	food-n
@@ -5105,21 +4614,18 @@ messed    VBD    mess-v
 oh	UH	oh-x
 sure	RB	sure-a
 gonna    VBG    gonna-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 eggs	NNS	egg-n
 bacon	NN	bacon-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 egg	NN	egg-n
 oh	UH	oh-x
 food	NN	food-n
 mixed    VBN    mix-v
 Mandms	NNS	Mandm-n
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bacon	NN	bacon-n
 bacon	NN	bacon-n
 eggs    VBZ    egg-v
@@ -5142,8 +4648,7 @@ big	JJ	big-j
 egg	NN	egg-n
 big	JJ	big-j
 person	NN	person-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 give	VB	give-v
 uhhuh	RB	uhhuh-a
 make    VBP    make-v
@@ -5152,8 +4657,7 @@ doughnut	NN	doughnut-n
 one	PRP	one-d
 big	JJ	big-j
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 eat	VB	eat-v
 food	NN	food-n
@@ -5178,8 +4682,7 @@ doughnuts	NNS	doughnut-n
 mother	NN	mother-n
 daughter	NN	daughter-n
 come	VB	come-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 minute	JJ	minute-j
 bye	NN	bye-n
 hello	NN	hello-n
@@ -5192,24 +4695,21 @@ eggs    VBZ    egg-v
 oh	UH	oh-x
 goodie	NN	goodie-n
 goodie	NN	goodie-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 lucky	JJ	lucky-j
 doughnut	NN	doughnut-n
 one	CD	one-m
 fell    VBD    fall-v
 like	IN	like-i
 ring	NN	ring-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	RB	right-a
 wanna    VBP    wanna-v
 make	VB	make-v
 ring	NN	ring-n
 make	VB	make-v
 another	DT	another-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 mine	JJ	mine-j
 want    VBP    want-v
 one	CD	one-m
@@ -5219,19 +4719,16 @@ cookies	NNS	cookie-n
 oh	UH	oh-x
 red	JJ	red-j
 food	NN	food-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 one	CD	one-m
 uhhuh	NNS	uhhuh-n
 want    VBP    want-v
 open	VB	open-v
 got    VBD    get-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 looks    VBZ    look-v
 pretty	RB	pretty-a
 neat	JJ	neat-j
@@ -5245,11 +4742,9 @@ big	JJ	big-j
 basketball	NN	basketball-n
 matter	NN	matter-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 food	NN	food-n
 gonna    VBG    gonna-v
@@ -5261,8 +4756,7 @@ cookies	NNS	cookie-n
 candy	NN	candy-n
 blue	NN	blue-n
 koolaid    VBD    koolaid-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 koolaid	JJ	koolaid-j
 want    VBP    want-v
@@ -5279,13 +4773,11 @@ refrigerator	NN	refrigerator-n
 wanna    VBP    wanna-v
 refrigerator	NN	refrigerator-n
 refrigerator	NN	refrigerator-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 freeze	VB	freeze-v
 got    VBD    get-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 popsicle	NN	popsicle-n
 pretty	RB	pretty-a
 good	JJ	good-j
@@ -5304,8 +4796,7 @@ matter	NN	matter-n
 want    VBP    want-v
 much	JJ	much-j
 milk	NN	milk-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 need    VBP    need-v
 new	JJ	new-j
 bracelet	NN	bracelet-n
@@ -5333,33 +4824,27 @@ said    VBD    say-v
 one	CD	one-m
 chair	NN	chair-n
 happened    VBD    happen-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gone    VBN    go-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 blowing    VBG    blow-v
 away	RB	away-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wanna    VBP    wanna-v
 pop	VB	pop-v
 happened    VBD    happen-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gone    VBN    go-v
 pop	JJ	pop-j
 got    VBD    get-v
 pantsuit	NN	pantsuit-n
 decide    VBP    decide-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 toys	NNS	toy-n
 played    VBD    play-v
 last	JJ	last-j
 year	NN	year-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 still	RB	still-a
 mixed    VBN    mix-v
 messed    VBD    mess-v
@@ -5367,8 +4852,7 @@ last	RB	last-a
 time	VB	time-v
 oh	UH	oh-x
 mess	NN	mess-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 care	VB	care-v
 playdough	NNS	playdough-n
 thank    VBP    thank-v
@@ -5381,8 +4865,7 @@ mix	VB	mix-v
 like	IN	like-i
 last	JJ	last-j
 year	NN	year-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 fine	JJ	fine-j
 paint	NN	paint-n
 xxx	NNP	xxx-n
@@ -5396,8 +4879,7 @@ one	CD	one-m
 still	RB	still-a
 mixed	JJ	mixed-j
 said    VBD    say-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	NN	blue-n
 mixed	JJ	mixed-j
 let	VB	let-v
@@ -5407,8 +4889,7 @@ blue	NN	blue-n
 like	IN	like-i
 blue	NN	blue-n
 pretty	RB	pretty-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 David's	NNP	David-n
 ear	NN	ear-n
@@ -5416,60 +4897,49 @@ let    VBD    let-v
 us	PRP	us-d
 leave    VBP    leave-v
 blue	JJ	blue-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 favorite	NN	favorite-n
 ran    VBD    run-v
 away	RB	away-a
 knee	NN	knee-n
 silly	RB	silly-a
 playdough	JJ	playdough-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 finger	VB	finger-v
 pretty	RB	pretty-a
 mine	PRP	mine-d
 ugly	JJ	ugly-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 broken    VBN    break-v
 playdough	NN	playdough-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 broken    VBN    break-v
 see	VB	see-v
 see	VB	see-v
 see	VB	see-v
 happened    VBD    happen-v
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 broken    VBN    break-v
 gonna    VBG    gonna-v
 fix	NN	fix-n
 fix	VB	fix-v
 let    VBP    let-v
 us	PRP	us-d
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 mix	VB	mix-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 say    VBP    say-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 oh	UH	oh-x
 little	JJ	little-j
 bit	NN	bit-n
 time	NN	time-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 need	VB	need-v
 much	RB	much-a
 blue	JJ	blue-j
@@ -5489,8 +4959,7 @@ cup	NN	cup-n
 thank    VBP    thank-v
 silly	JJ	silly-j
 dolly	NN	dolly-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 dolly	NN	dolly-n
 fixed    VBD    fix-v
 thank    VBP    thank-v
@@ -5498,13 +4967,11 @@ thirsty	JJ	thirsty-j
 David	NNP	David-n
 want    VBP    want-v
 koolaid	JJ	koolaid-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 yucky	JJ	yucky-j
 white	NN	white-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 mind	VB	mind-v
 still	RB	still-a
 want    VBP    want-v
@@ -5515,8 +4982,7 @@ uhuh	NNP	uhuh-n
 big	JJ	big-j
 blob	NN	blob-n
 blue	NN	blue-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 look	VB	look-v
 like	IN	like-i
 anything	NN	anything-n
@@ -5526,16 +4992,14 @@ sausage	NN	sausage-n
 silly	JJ	silly-j
 sausage	NN	sausage-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fit	VB	fit-v
 big	JJ	big-j
 like	IN	like-i
 made    VBD    make-v
 David	NNP	David-n
 hat	NN	hat-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 looks    VBZ    look-v
 ugly	JJ	ugly-j
@@ -5553,43 +5017,34 @@ white	NN	white-n
 blue	NN	blue-n
 right	RB	right-a
 blue	NN	blue-n
-<g/>
-'s	VBZ	be-v
-<g/>
-n't	RB	not-a
+<g/>'s	VBZ	be-v
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 mess	NN	mess-n
 blue	NN	blue-n
 blue	NN	blue-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 koolaid	JJ	koolaid-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 almost	RB	almost-a
 fixed    VBN    fix-v
 white	NN	white-n
 blue	JJ	blue-j
 together	RB	together-a
-<g/>
-'s	Z	's-x
+<g/>'s	Z	's-x
 uhhuh	NN	uhhuh-n
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	JJ	blue-j
 yellow	JJ	yellow-j
 like	IN	like-i
 bracelet	NN	bracelet-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
 want    VBP    want-v
 bracelet	NN	bracelet-n
@@ -5597,53 +5052,41 @@ gone    VBN    go-v
 went    VBD    go-v
 outside	RB	outside-a
 outside	IN	outside-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	JJ	blue-j
 red	JJ	red-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bracelet	NN	bracelet-n
 want    VBP    want-v
 tore    VBD    tear-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 start	NN	start-n
 crying    VBG    cry-v
-<g/>
-'s	VBZ	be-v
-<g/>
-n't	RB	not-a
+<g/>'s	VBZ	be-v
+<g/>n't	RB	not-a
 like	VB	like-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 take	VB	take-v
 back	VB	back-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 broken    VBN    break-v
 broke    VBD    break-v
 koolaid    VBD    koolaid-v
 head	NN	head-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 mad	JJ	mad-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 mad	JJ	mad-j
 poured    VBD    pour-v
 koolaid	JJ	koolaid-j
 head	NN	head-n
 good	JJ	good-j
 time	NN	time-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like    VBP    like-v
-<g/>
-'s	VBZ	be-v
-<g/>
-'m	VBP	be-v
+<g/>'s	VBZ	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 anymore	RB	anymore-a
@@ -5651,17 +5094,14 @@ bracelets	NNS	bracelet-n
 hello	NN	hello-n
 hello	NN	hello-n
 happened    VBD    happen-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 playing    VBG    play-v
 trick	NN	trick-n
 well    VBP    well-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 glad	JJ	glad-j
 know	VB	know-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 time	NN	time-n
 David	NNP	David-n
@@ -5672,25 +5112,20 @@ David	NNP	David-n
 nobody's	NN	nobody-n
 home	NN	home-n
 hello	NN	hello-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 nobody	NN	nobody-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 see	VB	see-v
 anybody	NN	anybody-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 wild	JJ	wild-j
 today	NN	today-n
 David	NNP	David-n
 gonna    VBG    gonna-v
 happened    VBN    happen-v
 happened    VBD    happen-v
-<g/>
-'re	VBP	be-v
-<g/>
-n't	RB	not-a
+<g/>'re	VBP	be-v
+<g/>n't	RB	not-a
 color	NN	color-n
 David	NNP	David-n
 help	VB	help-v
@@ -5699,8 +5134,7 @@ blue	NN	blue-n
 koolaid    VBD    koolaid-v
 matter	NN	matter-n
 today	NN	today-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 tangled    VBN    tangle-v
 art	NN	art-n
 came    VBD    come-v
@@ -5713,11 +5147,9 @@ tangled    VBD    tangle-v
 David	NNP	David-n
 let    VBD    let-v
 us	PRP	us-d
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 tear	VB	tear-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
 gonna    VBG    gonna-v
 make	VB	make-v
@@ -5737,8 +5169,7 @@ David	NNP	David-n
 get	VB	get-v
 playdough	NN	playdough-n
 inside	RB	inside-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 blanket	NN	blanket-n
 sure	RB	sure-a
@@ -5756,46 +5187,38 @@ think    VBP    think-v
 somebody	NN	somebody-n
 open	VB	open-v
 gate	NN	gate-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 xxx	NNP	xxx-n
 gonna    VBG    gonna-v
 sign	NN	sign-n
 spells    VBZ    spell-v
-<g/>
-'s    VBZ    have-v
+<g/>'s    VBZ    have-v
 locked    VBN    lock-v
 let	VB	let-v
 let    VBP    let-v
 let    VBP    let-v
 let	VB	let-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 puppy	NN	puppy-n
 sad	JJ	sad-j
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 fell    VBD    fall-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 work	VB	work-v
 airplane	NN	airplane-n
 happened    VBD    happen-v
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 face	NN	face-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 play	NN	play-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 cowboy	NN	cowboy-n
 gonna    VBG    gonna-v
 play	NN	play-n
@@ -5817,8 +5240,7 @@ drive	VB	drive-v
 fell    VBD    fall-v
 tractor	NN	tractor-n
 !	SENT	!-x
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 road	NN	road-n
@@ -5826,31 +5248,25 @@ blocks    VBZ    block-v
 oh	UH	oh-x
 roosters	NNS	rooster-n
 chickens	NNS	chicken-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sitting    VBG    sit-v
 gate	VB	gate-v
 oh	UH	oh-x
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 got    VBN    get-v
 tall	JJ	tall-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 farmer	NN	farmer-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 let	VB	let-v
 build	VB	build-v
 show	VB	show-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 tall	JJ	tall-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 boom	VB	boom-v
 uhoh	NNS	uhoh-n
 wanna    VBP    wanna-v
@@ -5862,8 +5278,7 @@ make	VB	make-v
 house	NN	house-n
 blocks    VBZ    block-v
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 making    VBG    make-v
 tunnel	NN	tunnel-n
 see    VBP    see-v
@@ -5872,16 +5287,13 @@ think    VBP    think-v
 big	JJ	big-j
 wheel	NN	wheel-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 farmer's	NN	farmer-n
 hat	NN	hat-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 drive	VB	drive-v
 let	VB	let-v
 us	PRP	us-d
@@ -5892,28 +5304,23 @@ farmer	NN	farmer-n
 fell    VBD    fall-v
 get    VBP    get-v
 hurt    VBN    hurt-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hurt    VBN    hurt-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 strong	JJ	strong-j
 going    VBG    go-v
 farmer	NN	farmer-n
 oh	UH	oh-x
 forgot    VBD    forget-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 farmer	NN	farmer-n
 remember    VBP    remember-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 son	NN	son-n
 forgot    VBD    forget-v
 son	NN	son-n
 going    VBG    go-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 going    VBG    go-v
 milk	VB	milk-v
 cow	NN	cow-n
@@ -5924,8 +5331,7 @@ milk	VB	milk-v
 cow	NN	cow-n
 open	VB	open-v
 gate	NN	gate-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 milk	VB	milk-v
 cow	NN	cow-n
@@ -5942,25 +5348,20 @@ tunnel	NN	tunnel-n
 still	RB	still-a
 milking    VBG    milk-v
 cow	NN	cow-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 finished    VBN    finish-v
 gonna    VBG    gonna-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 mad	JJ	mad-j
 blocks	NNS	block-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hafta	NN	hafta-n
 close	RB	close-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 nighttime	NN	nighttime-n
 use	VB	use-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 skinny	JJ	skinny-j
 car	NN	car-n
@@ -5968,11 +5369,9 @@ get	VB	get-v
 oh	UH	oh-x
 cars	NNS	car-n
 nighttime	NN	nighttime-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 making    VBG    make-v
 road	NN	road-n
 hafta	NNS	hafta-n
@@ -5990,12 +5389,10 @@ better	VB	better-v
 oh	UH	oh-x
 wheels	NNS	wheel-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wrong	JJ	wrong-j
 wrong	JJ	wrong-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 right	RB	right-a
 gonna    VBG    gonna-v
@@ -6021,20 +5418,15 @@ cow	NN	cow-n
 cow	NN	cow-n
 hafta	NN	hafta-n
 get	VB	get-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
-<g/>
-'re	VBP	be-v
+<g/>n't	RB	not-a
+<g/>'re	VBP	be-v
 indians	NNS	Indian-n
 forgot    VBD    forget-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
 daughter	NN	daughter-n
@@ -6058,8 +5450,7 @@ chicken	NN	chicken-n
 chickens	NNS	chicken-n
 say    VBP    say-v
 think    VBP    think-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	JJ	right-j
 horses	NNS	horse-n
 say    VBP    say-v
@@ -6077,11 +5468,9 @@ play	VB	play-v
 puppets	NNS	puppet-n
 one	PRP	one-d
 gonna    VBG    gonna-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 frog	NN	frog-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 say	VB	say-v
 oh	UH	oh-x
@@ -6096,30 +5485,24 @@ wanna    VBP    wanna-v
 friends	NNS	friend-n
 mouth	NN	mouth-n
 big	JJ	big-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 frog	NN	frog-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 frog	NN	frog-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 maybe	RB	maybe-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 frog	NN	frog-n
 think    VBP    think-v
 frogs	NNS	frog-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 talk	VB	talk-v
 either	CC	either-c
 talk	VB	talk-v
 graham	NN	graham-n
 graham	NN	graham-n
 talk	VB	talk-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 frog	NN	frog-n
 know    VBP    know-v
 talk	VB	talk-v
@@ -6127,8 +5510,7 @@ oh	UH	oh-x
 nose	NN	nose-n
 bit    VBD    bite-v
 nose	NN	nose-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 hurt    VBD    hurt-v
 frogs	NNS	frog-n
@@ -6139,23 +5521,19 @@ lilypad	NN	lilypad-n
 big	JJ	big-j
 leaf	NN	leaf-n
 ruffruffg	NN	ruffruffg-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 dog	NN	dog-n
 dogs	NNS	dog-n
 daytime	NN	daytime-n
 eat    VBP    eat-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 hafta	NNS	hafta-n
 pet    VBP    pet-v
 nice	JJ	nice-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 friend	NN	friend-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	IN	like-i
 like    VBP    like-v
 come	VB	come-v
@@ -6163,11 +5541,9 @@ keep	NN	keep-n
 trying    VBG    try-v
 hurt	VB	hurt-v
 ate    VBD    eat-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 dogs	NNS	dog-n
 frogs	NNS	frog-n
@@ -6178,14 +5554,11 @@ pads	NNS	pad-n
 day	NN	day-n
 frogs	NNS	frog-n
 water	NN	water-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know    VBP    know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 frog	NN	frog-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 frogs	NNS	frog-n
 wanna	VB	wanna-v
@@ -6193,8 +5566,7 @@ play	NN	play-n
 something	NN	something-n
 else	RB	else-a
 sure	RB	sure-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 yellow	JJ	yellow-j
 one	CD	one-m
 gonna    VBG    gonna-v
@@ -6207,20 +5579,17 @@ hi	UH	hi-x
 graham	NN	graham-n
 nursery	NN	nursery-n
 school	NN	school-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 come    VBP    come-v
 party	NN	party-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 party	NN	party-n
 come    VBN    come-v
 party	NN	party-n
 ever	RB	ever-a
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 Max	NNP	Max-n
 Davenport's	NNP	Davenport-n
 party	JJ	party-j
@@ -6234,13 +5603,11 @@ oh	UH	oh-x
 oh	UH	oh-x
 best	JJS	good-j
 way	NN	way-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 brother	NN	brother-n
 taught    VBD    teach-v
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sure	RB	sure-a
 good	JJ	good-j
 helper	NN	helper-n
@@ -6251,8 +5618,7 @@ pull    VBP    pull-v
 knife	NN	knife-n
 get	VB	get-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want    VBP    want-v
 try	VB	try-v
 want    VBP    want-v
@@ -6261,8 +5627,7 @@ oh	UH	oh-x
 hard	JJ	hard-j
 want	VB	want-v
 gonna    VBG    gonna-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 cut	VB	cut-v
 cake	NN	cake-n
@@ -6271,8 +5636,7 @@ hafta	NNS	hafta-n
 make    VBP    make-v
 first	JJ	first-j
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 help	VB	help-v
 make	VB	make-v
 gonna    VBG    gonna-v
@@ -6288,8 +5652,7 @@ cake	NN	cake-n
 want    VBP    want-v
 make	VB	make-v
 cake	NN	cake-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 rest	NN	rest-n
 set    VBD    set-v
@@ -6301,16 +5664,13 @@ table	NN	table-n
 plates	NNS	plate-n
 cups	NNS	cup-n
 else	RB	else-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 spoons	NNS	spoon-n
 show    VBP    show-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 think    VBP    think-v
 know    VBP    know-v
@@ -6319,20 +5679,16 @@ guess	VB	guess-v
 tell	VB	tell-v
 guess	NN	guess-n
 checkers	NNS	checkers-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 checkers	NN	checkers-n
-<g/>
-n't	RB	not-a
-<g/>
-'s	VBZ	be-v
+<g/>n't	RB	not-a
+<g/>'s	VBZ	be-v
 birthday	NN	birthday-n
 cake	NN	cake-n
 finish	VB	finish-v
 setting    VBG    set-v
 table	NN	table-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 need    VBP    need-v
 something	NN	something-n
 else	RB	else-a
@@ -6348,11 +5704,9 @@ yuck	NN	yuck-n
 finished    VBD    finish-v
 mine	NN	mine-n
 want    VBP    want-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 cough	VB	cough-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 remember	VB	remember-v
 come	VB	come-v
 birthday	NN	birthday-n
@@ -6372,13 +5726,11 @@ invite	VB	invite-v
 friends	NNS	friend-n
 party	JJ	party-j
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 give	VB	give-v
 telephone	VB	telephone-v
 hi	UH	hi-x
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 fine	JJ	fine-j
 party	NN	party-n
 sounds	NNS	sound-n
@@ -6403,8 +5755,7 @@ race	NN	race-n
 tracks	NNS	track-n
 cars	NNS	car-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think    VBP    think-v
 something	NN	something-n
 else	RB	else-a
@@ -6413,8 +5764,7 @@ get	VB	get-v
 good	JJ	good-j
 present	JJ	present-j
 guess    VBP    guess-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 buy	VB	buy-v
 Zapzap	NNP	Zapzap-n
 race	NN	race-n
@@ -6448,8 +5798,7 @@ real	RB	real-a
 good	JJ	good-j
 like	IN	like-i
 strawberrys	NNP	strawberrys-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 eat	VB	eat-v
 ate    VBD    eat-v
 drink    VBP    drink-v
@@ -6458,8 +5807,7 @@ spill	VB	spill-v
 gone    VBN    go-v
 help	VB	help-v
 toys	NNS	toy-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 almost	RB	almost-a
 time	NN	time-n
 drink    VBP    drink-v
@@ -6474,10 +5822,8 @@ graham	NN	graham-n
 happens    VBZ    happen-v
 pop    VBP    pop-v
 see    VBP    see-v
-<g/>
-n't	RB	not-a
-<g/>
-'s	VBZ	be-v
+<g/>n't	RB	not-a
+<g/>'s	VBZ	be-v
 bubbles	NNS	bubble-n
 look    VBP    look-v
 big	JJ	big-j
@@ -6497,8 +5843,7 @@ big	JJ	big-j
 one	CD	one-m
 popped    VBD    pop-v
 one	CD	one-m
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 try	VB	try-v
 catch	VB	catch-v
@@ -6509,8 +5854,7 @@ wanted    VBD    want-v
 catch	VB	catch-v
 catch	VB	catch-v
 catched    VBD    catched-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hand	NN	hand-n
 see	VB	see-v
 blow	VB	blow-v
@@ -6525,8 +5869,7 @@ good	JJ	good-j
 brother	NN	brother-n
 uhuh	NNP	uhuh-n
 happen    VBP    happen-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 hafta	NNS	hafta-n
 get	VB	get-v
@@ -6547,13 +5890,11 @@ oh	UH	oh-x
 look	VB	look-v
 popped    VBD    pop-v
 popped    VBD    pop-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know    VBP    know-v
 bubbles	NNS	bubble-n
 smart	JJ	smart-j
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 messy	JJ	messy-j
 hand	NN	hand-n
@@ -6566,8 +5907,7 @@ wipe	VB	wipe-v
 hands	NNS	hand-n
 get	VB	get-v
 napkins	NNS	napkin-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 store	NN	store-n
 gonna    VBG    gonna-v
@@ -6578,18 +5918,15 @@ use	VB	use-v
 blocks	NNS	block-n
 part	NN	part-n
 house	NN	house-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 let	VB	let-v
 us	PRP	us-d
 see	VB	see-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 ready	JJ	ready-j
 gonna    VBG    gonna-v
 farmer	NN	farmer-n
@@ -6599,21 +5936,18 @@ mother	NN	mother-n
 girl	NN	girl-n
 daughter	NN	daughter-n
 alrightie	NN	alrightie-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 daughter	NN	daughter-n
 farmer	NN	farmer-n
 brown	NN	brown-n
 take	VB	take-v
 ride	NN	ride-n
 wagon	NN	wagon-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 help	NN	help-n
 uhoh    VBP    uhoh-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bumpy	JJ	bumpy-j
 road	NN	road-n
 farmer	NN	farmer-n
@@ -6621,25 +5955,21 @@ brown	NN	brown-n
 fell    VBD    fall-v
 tractor	NN	tractor-n
 hurt    VBD    hurt-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 driving    VBG    drive-v
 backwards	RB	backwards-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 build	VB	build-v
 big	JJ	big-j
 tent	NN	tent-n
 animals	NNS	animal-n
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 farm	NN	farm-n
 like	IN	like-i
 gonna    VBG    gonna-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 farm	NN	farm-n
 like	IN	like-i
@@ -6648,13 +5978,11 @@ shall	MD	shall-x
 people	NNS	people-n
 like	IN	like-i
 like    VBP    like-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 hafta	NNS	hafta-n
 show	VB	show-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 farm	NN	farm-n
 home	NN	home-n
 gonna    VBG    gonna-v
@@ -6670,31 +5998,26 @@ huh	NNP	Huh-n
 maybe	RB	maybe-a
 uhoh    VBP    uhoh-v
 fierce	JJ	fierce-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 play	VB	play-v
 day	NN	day-n
 oh	UH	oh-x
 pretend	VB	pretend-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 party	NN	party-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 yellow	JJ	yellow-j
 gonna    VBG    gonna-v
 party	NN	party-n
 huh	NN	huh-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 four	CD	four-m
 years	NNS	year-n
 old	JJ	old-j
 hello	NN	hello-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 graham	NN	graham-n
 good	JJ	good-j
 nursery	NN	nursery-n
@@ -6737,8 +6060,7 @@ else	RB	else-a
 want    VBP    want-v
 birthday	NN	birthday-n
 bubbles	NNS	bubble-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 bubbles	NNS	bubble-n
 think	VB	think-v
@@ -6759,8 +6081,7 @@ like    VBP    like-v
 come	VB	come-v
 graham	NN	graham-n
 alright	RB	alright-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 see	VB	see-v
 minute	JJ	minute-j
 happy	JJ	happy-j
@@ -6784,16 +6105,14 @@ rooms	NNS	room-n
 good	JJ	good-j
 blow	VB	blow-v
 bubbles	NNS	bubble-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 walls	NNS	wall-n
 wanna    VBP    wanna-v
 uhoh	NN	uhoh-n
 matter	NN	matter-n
 broken    VBN    break-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 look    VBP    look-v
 know    VBP    know-v
 open    VBP    open-v
@@ -6802,31 +6121,26 @@ like	IN	like-i
 falls    VBZ    fall-v
 look    VBP    look-v
 like	IN	like-i
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 hold	VB	hold-v
 turn    VBP    turn-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 together	RB	together-a
 got    VBD    get-v
 good	JJ	good-j
 graham	NN	graham-n
 blow	VB	blow-v
 bubbles	NNS	bubble-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 catch	VB	catch-v
 bubbles	NNS	bubble-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 brother	NN	brother-n
 huh	RB	huh-a
 gone    VBN    go-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 said    VBD    say-v
 furniture	NN	furniture-n
 house	NN	house-n
@@ -6840,17 +6154,14 @@ graham	NN	graham-n
 heed	VB	heed-v
 make	VB	make-v
 walls	NNS	wall-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 think    VBP    think-v
 maybe	RB	maybe-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wash    VBP    wash-v
 dishes	NNS	dish-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sink	NN	sink-n
 wanna    VBP    wanna-v
 help	VB	help-v
@@ -6874,8 +6185,7 @@ lights	NNS	light-n
 use	VB	use-v
 paper	NN	paper-n
 uhhuh	NN	uhhuh-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 good	JJ	good-j
 graham	NN	graham-n
@@ -6898,26 +6208,21 @@ good	JJ	good-j
 place	NN	place-n
 outside	IN	outside-i
 porch	NN	porch-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 goes    VBZ    go-v
 gonna    VBG    gonna-v
 chair	VB	chair-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 better	RBR	well-a
 living    VBG    live-v
 room	NN	room-n
 look	NN	look-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 person	NN	person-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 take	VB	take-v
 nap	NN	nap-n
@@ -6940,27 +6245,21 @@ bathtub	NN	bathtub-n
 pig	NN	pig-n
 bathtub	NN	bathtub-n
 good	RB	good-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 something	NN	something-n
 else	RB	else-a
 stove	NN	stove-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	JJ	right-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 something	NN	something-n
 else	RB	else-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sink	NN	sink-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 washing    VBG    wash-v
 machine	NN	machine-n
 people	NNS	people-n
@@ -6969,21 +6268,17 @@ want    VBP    want-v
 grandmother	NN	grandmother-n
 little	JJ	little-j
 girl	NN	girl-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 grandmother	NN	grandmother-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 take	VB	take-v
 nap	NN	nap-n
 minute	JJ	minute-j
 oh	UH	oh-x
 someone	NN	someone-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'re	VBP	be-v
+<g/>'s	VBZ	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 sit	NN	sit-n
 living    VBG    live-v
@@ -6994,30 +6289,24 @@ tv	NN	tv-n
 set	NN	set-n
 oh	UH	oh-x
 tv	NN	tv-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 watching    VBG    watch-v
 tv	NN	tv-n
 huh	NNS	huh-n
-<g/>
-'re	VBP	be-v
-<g/>
-'s    VBZ    have-v
+<g/>'re	VBP	be-v
+<g/>'s    VBZ    have-v
 chairs	NNS	chair-n
 wanna    VBP    wanna-v
 watch	VB	watch-v
 tv	NN	tv-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 need	VB	need-v
 birthday	NN	birthday-n
 party	NN	party-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 know	VB	know-v
 tell    VBP    tell-v
@@ -7032,15 +6321,13 @@ wrong	JJ	wrong-j
 look	VB	look-v
 grandmother	NN	grandmother-n
 head	NN	head-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 fire	NN	fire-n
 gonna    VBG    gonna-v
 nap	NN	nap-n
 look	NN	look-n
 house	NN	house-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
 think    VBP    think-v
 better	RBR	well-a
@@ -7052,15 +6339,13 @@ party	NN	party-n
 think    VBP    think-v
 need    VBP    need-v
 refrigerator	NN	refrigerator-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 hey	UH	hey-x
 happened    VBD    happen-v
 chairs    VBZ    chair-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 one	PRP	one-d
 oh	UH	oh-x
 bench	NN	bench-n
@@ -7068,40 +6353,34 @@ furniture	NN	furniture-n
 house	NN	house-n
 tv	NN	tv-n
 fell    VBD    fall-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 matter	NN	matter-n
 chair	NN	chair-n
 uhoh	NNS	uhoh-n
 look    VBP    look-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 fine	NN	fine-n
 love    VBP    love-v
 well	RB	well-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 quite	RB	quite-a
 lovable	JJ	lovable-j
 little	JJ	little-j
 kid	NN	kid-n
 like    VBP    like-v
 mm	NN	mm.-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 tricky	JJ	tricky-j
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 figured    VBD    figure-v
 good	JJ	good-j
 yes	UH	yes-x
 forgot    VBD    forget-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 roller	NN	roller-n
 skates	NNS	skate-n
 bang	NN	bang-n
@@ -7120,38 +6399,30 @@ rubber	NN	rubber-n
 duckie	NN	duckie-n
 yes	RB	yes-a
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 looks	NNS	look-n
 like	IN	like-i
 xxx	NNP	xxx-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 Bert	NNP	Bert-n
 Bert	NNP	Bert-n
 say	VB	say-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 monster	NN	monster-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 play	VB	play-v
 asked    VBD    ask-v
 sesame	NN	sesame-n
 street	NN	street-n
 thing	NN	thing-n
 thought    VBD    think-v
-<g/>
-'d	MD	would-x
+<g/>'d	MD	would-x
 tell	VB	tell-v
 um	NN	um-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 anything	NN	anything-n
 like	IN	like-i
 bath	NN	bath-n
@@ -7169,11 +6440,9 @@ pink	JJ	pink-j
 fish	NN	fish-n
 rubber	NN	rubber-n
 duckie	NN	duckie-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 Ernie	NNP	Ernie-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 got    VBN    get-v
 bath	NN	bath-n
 right	RB	right-a
@@ -7191,8 +6460,7 @@ salmon	NN	salmon-n
 salmon	NN	salmon-n
 good	JJ	good-j
 eat	VB	eat-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 teasing    VBG    tease-v
 rubber	NN	rubber-n
 duckie	NN	duckie-n
@@ -7205,35 +6473,29 @@ sponge	NN	sponge-n
 sometimes	RB	sometimes-a
 pretend	VB	pretend-v
 like	IN	like-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 boat	NN	boat-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 none	NN	none-n
 things	NNS	thing-n
 bet    VBP    bet-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 tub	NN	tub-n
 know    VBP    know-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sposta	NN	sposta-n
 soap	NN	soap-n
 could	MD	could-x
 sponge	NN	sponge-n
 easily	RB	easily-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 got    VBD    get-v
 puzzle	NN	puzzle-n
 together	RB	together-a
 hey	UH	hey-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 blowing    VBG    blow-v
 nose	NN	nose-n
@@ -7273,24 +6535,21 @@ noise	NN	noise-n
 know    VBP    know-v
 one	CD	one-m
 say    VBP    say-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 even	RB	even-a
 look	VB	look-v
 like	IN	like-i
 yak	NN	yak-n
 right	RB	right-a
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 supposed    VBN    suppose-v
 yakety	JJ	yakety-j
 yak	NN	yak-n
 shall	MD	shall-x
 stand	VB	stand-v
 well	RB	well-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 let	VB	let-v
 us	PRP	us-d
 clear	VB	clear-v
@@ -7305,12 +6564,10 @@ see    VBP    see-v
 stick    VBP    stick-v
 like    VBP    like-v
 bet    VBP    bet-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 done    VBN    do-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 well	RB	well-a
 want    VBP    want-v
 good	JJ	good-j
@@ -7320,11 +6577,9 @@ happened    VBD    happen-v
 figure	VB	figure-v
 something	NN	something-n
 bet    VBP    bet-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sposta	NN	sposta-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sposta	NNS	sposta-n
 little	JJ	little-j
 see	VB	see-v
@@ -7383,8 +6638,7 @@ color	NN	color-n
 know    VBP    know-v
 color	NN	color-n
 building    VBG    build-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 oh	UH	oh-x
 thank	VB	thank-v
@@ -7392,8 +6646,7 @@ makes    VBZ    make-v
 feel    VBP    feel-v
 really	RB	really-a
 good	JJ	good-j
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 build	VB	build-v
 one	PRP	one-d
 oh	UH	oh-x
@@ -7409,8 +6662,7 @@ colors	NNS	color-n
 tell	VB	tell-v
 colors    VBZ    color-v
 else	RB	else-a
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 one	CD	one-m
 color	VB	color-v
@@ -7437,15 +6689,13 @@ got    VBN    get-v
 wrist	NN	wrist-n
 tell	VB	tell-v
 time	NN	time-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 six	CD	six-m
 thirty	CD	thirty-m
 six	CD	six-m
 thirty	CD	thirty-m
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
 early	JJ	early-j
 sounds	NNS	sound-n
@@ -7455,8 +6705,7 @@ good	JJ	good-j
 deal	NN	deal-n
 breakfast	NN	breakfast-n
 life	NN	life-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 daughter	NN	daughter-n
 loves    VBZ    love-v
 milk	NN	milk-n
@@ -7464,11 +6713,9 @@ else	RB	else-a
 breakfast	NN	breakfast-n
 life	NN	life-n
 juice	NN	juice-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 kefir	NN	kefir-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 orange	JJ	orange-j
 juice	NN	juice-n
@@ -7529,8 +6776,7 @@ friend	NN	friend-n
 Jenny	NNP	Jenny-n
 count	VB	count-v
 Jenny	NNP	Jenny-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 say	VB	say-v
 one	CD	one-m
 one	CD	one-m
@@ -7649,22 +6895,19 @@ wait    VBP    wait-v
 dinner	NN	dinner-n
 teach    VBP    teach-v
 alphabet	NN	alphabet-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 let	VB	let-v
 us	PRP	us-d
 see    VBP    see-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 making    VBG    make-v
 house	NN	house-n
 wanna    VBP    wanna-v
 help	VB	help-v
 help	VB	help-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bathroom	NN	bathroom-n
 else	RB	else-a
 goes    VBZ    go-v
@@ -7673,8 +6916,7 @@ uhhuh    VBZ    uhhuh-v
 sink	NN	sink-n
 xxx	NN	xxx-n
 think    VBP    think-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 chair	NN	chair-n
 bathroom	NN	bathroom-n
 yes	NN	yes-n
@@ -7682,13 +6924,11 @@ want    VBP    want-v
 think    VBP    think-v
 want    VBP    want-v
 bathtub	NN	bathtub-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 people	NNS	people-n
 chairs	NNS	chair-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 take	VB	take-v
 bath	NN	bath-n
 chair	NN	chair-n
@@ -7699,8 +6939,7 @@ oops	NNP	oops-n
 heard    VBD    hear-v
 something	RB	something-a
 crack	VB	crack-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 chair	NN	chair-n
 bathtub	NN	bathtub-n
 give	VB	give-v
@@ -7716,16 +6955,14 @@ Jessie	NNP	Jessie-n
 school	NN	school-n
 school	NN	school-n
 today	NN	today-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 ask	VB	ask-v
 come	VB	come-v
 birthday	NN	birthday-n
 party	NN	party-n
 Jessie	NNP	Jessie-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 birthday	NN	birthday-n
 party	NN	party-n
@@ -7734,12 +6971,10 @@ come	VB	come-v
 gonna    VBG    gonna-v
 whose	WPZ	whose-x
 birthday	NN	birthday-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 birthday	NN	birthday-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 see	VB	see-v
 minute	NN	minute-n
 tell	VB	tell-v
@@ -7750,8 +6985,7 @@ cake	NN	cake-n
 need    VBP    need-v
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mhm	NN	mhm-n
 kind	NN	kind-n
 presents	NNS	present-n
@@ -7767,8 +7001,7 @@ dishes	NNS	dish-n
 house	NN	house-n
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 sposta	NN	sposta-n
 dump	VB	dump-v
 dishes	NNS	dish-n
@@ -7783,43 +7016,35 @@ koolaid    VBN    koolaid-v
 party	NN	party-n
 gonna    VBG    gonna-v
 make	VB	make-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 matter	NN	matter-n
 koolaid	JJ	koolaid-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 make	VB	make-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 chunky	JJ	chunky-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 koolaid	JJ	koolaid-j
 tell	VB	tell-v
 thank	VB	thank-v
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 come	VB	come-v
 got    VBD    get-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 pants	NNS	pant-n
 old	JJ	old-j
 pants	NNS	pant-n
 today	RB	today-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 ready	JJ	ready-j
 make	VB	make-v
 koolaid	JJ	koolaid-j
 making    VBG    make-v
 hm	NN	hm-n
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 make	VB	make-v
 house	NN	house-n
@@ -7832,8 +7057,7 @@ gobble	NN	gobble-n
 koolaid    VBD    koolaid-v
 coming    VBG    come-v
 top	NN	top-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 coming    VBG    come-v
 top	NN	top-n
 thank    VBP    thank-v
@@ -7845,8 +7069,7 @@ another	DT	another-x
 drink	NN	drink-n
 thank    VBP    thank-v
 see    VBP    see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 stuff	NN	stuff-n
 sitting    VBG    sit-v
 top	NN	top-n
@@ -7855,8 +7078,7 @@ us	PRP	us-d
 invite	VB	invite-v
 somebody	NN	somebody-n
 else	RB	else-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 birthday	NN	birthday-n
 party	NN	party-n
@@ -7880,8 +7102,7 @@ big	JJ	big-j
 chair	NN	chair-n
 sure	JJ	sure-j
 would	MD	would-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 another	DT	another-x
 present	JJ	present-j
@@ -7893,19 +7114,15 @@ kind	NN	kind-n
 present	NN	present-n
 likes    VBZ    like-v
 tell	VB	tell-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 call	VB	call-v
 back	RB	back-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 contrary	JJ	contrary-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want    VBP    want-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want	VB	want-v
 yucky	JJ	yucky-j
 old	JJ	old-j
@@ -7929,13 +7146,11 @@ eye	NN	eye-n
 holes	NNS	hole-n
 Jessie	NNP	Jessie-n
 hello	NN	hello-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 Janice	NNP	Janice-n
 phone	NN	phone-n
 ringing    VBG    ring-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 answer	VB	answer-v
 wanna    VBP    wanna-v
@@ -7945,8 +7160,7 @@ present	JJ	present-j
 get	VB	get-v
 christmas	NNS	christma-n
 know    VBP    know-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 get	VB	get-v
 christmas	NNS	christma-n
@@ -7965,12 +7179,10 @@ good	JJ	good-j
 done    VBN    do-v
 anything	NN	anything-n
 wrong	JJ	wrong-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 said    VBD    say-v
 yes	RB	yes-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 done    VBN    do-v
 anything	NN	anything-n
 hello	NN	hello-n
@@ -7978,11 +7190,9 @@ getting    VBG    get-v
 mommy	NN	mommy-n
 christmas	NNS	christma-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 talk	NN	talk-n
 wrecked    VBD    wreck-v
@@ -8008,8 +7218,7 @@ get	VB	get-v
 people	NNS	people-n
 happened    VBD    happen-v
 grandmother	NN	grandmother-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hole	NN	hole-n
 hello	NN	hello-n
 hi	UH	hi-x
@@ -8026,13 +7235,11 @@ visit	VB	visit-v
 us	PRP	us-d
 seven	CD	seven-m
 weeks	NNS	week-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 long	JJ	long-j
 time	NN	time-n
 grandma	NN	grandma-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 home	NN	home-n
 grandma	NN	grandma-n
 airplane	NN	airplane-n
@@ -8049,16 +7256,13 @@ say    VBP    say-v
 cook	VB	cook-v
 cooking    VBG    cook-v
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 somebody	NN	somebody-n
 oven	NN	oven-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 stay    VBP    stay-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 koolaid	JJ	koolaid-j
 want    VBP    want-v
@@ -8066,27 +7270,22 @@ juice	NN	juice-n
 koolaid    VBN    koolaid-v
 minute	NN	minute-n
 ago	RB	ago-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 playdough	JJ	playdough-j
 juice	NN	juice-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 orange	JJ	orange-j
 juice	NN	juice-n
 thank	VB	thank-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 drank    VBD    drink-v
 whole	JJ	whole-j
 thing	NN	thing-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gone    VBN    go-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 little	JJ	little-j
 bit	NN	bit-n
 left    VBN    leave-v
@@ -8098,16 +7297,14 @@ playdough	NN	playdough-n
 Jessie's	NNP	Jessie-n
 hair	NN	hair-n
 believe    VBP    believe-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 koolaid	JJ	koolaid-j
 guess    VBP    guess-v
 koolaid	JJ	koolaid-j
 hair	NN	hair-n
 else	RB	else-a
 gonna    VBG    gonna-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 five	CD	five-m
 minutes	NNS	minute-n
 four	CD	four-m
@@ -8116,20 +7313,16 @@ yet	RB	yet-a
 still	RB	still-a
 four	CD	four-m
 minutes	NNS	minute-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 stay	VB	stay-v
 home	NN	home-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 flying    VBG    fly-v
 koolaid	JJ	koolaid-j
 airplane	NN	airplane-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 crazy	JJ	crazy-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 silly	RB	silly-a
 come    VBN    come-v
 help	VB	help-v
@@ -8137,14 +7330,11 @@ clean	VB	clean-v
 playdough	JJ	playdough-j
 yes	UH	yes-x
 yes	UH	yes-x
-<g/>
-n't	RB	not-a
-<g/>
-'ll	MD	will-x
+<g/>n't	RB	not-a
+<g/>'ll	MD	will-x
 dry	JJ	dry-j
 yucky	JJ	yucky-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 eating    VBG    eat-v
 little	JJ	little-j
 cookie	NN	cookie-n
@@ -8167,8 +7357,7 @@ call	VB	call-v
 Santa	NNP	Santa-n
 ask	VB	ask-v
 come	VB	come-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 today	NN	today-n
 tomorrow	RB	tomorrow-a
@@ -8186,8 +7375,7 @@ think    VBP    think-v
 come	VB	come-v
 shall	MD	shall-x
 bring	VB	bring-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bring	VB	bring-v
 salad	NN	salad-n
 wait	VB	wait-v
@@ -8205,8 +7393,7 @@ make	VB	make-v
 house	NN	house-n
 gonna    VBG    gonna-v
 first	RB	first-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 let	VB	let-v
 us	PRP	us-d
@@ -8215,22 +7402,18 @@ uhhuh    VBZ    uhhuh-v
 needta	NN	needta-n
 pottie	JJ	pottie-j
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 hurting    VBG    hurt-v
 farmer	NN	farmer-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 hurt	VB	hurt-v
 farmer	NN	farmer-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 knife	NN	knife-n
 mouth	NN	mouth-n
 think    VBP    think-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 answer	NN	answer-n
 hi	UH	hi-x
@@ -8239,12 +7422,10 @@ ate    VBD    eat-v
 breakfast	NN	breakfast-n
 brother	NN	brother-n
 good	JJ	good-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 toys	NNS	toy-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 think	VB	think-v
 uhhuh	NNP	uhhuh-n
 bad	JJ	bad-j
@@ -8254,12 +7435,10 @@ years	NNS	year-n
 ago	RB	ago-a
 bad	JJ	bad-j
 uhhuh	RB	uhhuh-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 Santa	NNP	Santa-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 talk	NN	talk-n
 anymore	RB	anymore-a
@@ -8275,8 +7454,7 @@ house	NN	house-n
 hafta	NNS	hafta-n
 tell    VBP    tell-v
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 mother	NN	mother-n
 wanna    VBP    wanna-v
 mother	NN	mother-n
@@ -8285,12 +7463,10 @@ honey	NN	honey-n
 breakfast	NN	breakfast-n
 almost	RB	almost-a
 ready	JJ	ready-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 bacon	NN	bacon-n
 eggs	NNS	egg-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 pretend	VB	pretend-v
 call	VB	call-v
 somebody	NN	somebody-n
@@ -8315,12 +7491,10 @@ Jessie	NNP	Jessie-n
 brother	NN	brother-n
 make	VB	make-v
 frisbee	NN	frisbee-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 frisbee	NN	frisbee-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know    VBP    know-v
 play	VB	play-v
 frisbee	NN	frisbee-n
@@ -8335,8 +7509,7 @@ something	NN	something-n
 going    VBG    go-v
 want    VBP    want-v
 refrigerator	NN	refrigerator-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 name	NN	name-n
 peekaboo	NN	peekaboo-n
 puppy	NN	puppy-n
@@ -8350,28 +7523,23 @@ doll	NN	doll-n
 brush    VBP    brush-v
 hair	NN	hair-n
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 another	DT	another-x
 party	NN	party-n
 today	NN	today-n
 mother	NN	mother-n
 look	NN	look-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blanket	NN	blanket-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 think    VBP    think-v
 socks	NNS	sock-n
 maybe	RB	maybe-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gloves	NNS	glove-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 let	VB	let-v
 us	PRP	us-d
@@ -8382,8 +7550,7 @@ us	PRP	us-d
 get    VBP    get-v
 ready	JJ	ready-j
 school	NN	school-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 first	JJ	first-j
 thing	NN	thing-n
 pretty	JJ	pretty-j
@@ -8407,16 +7574,13 @@ alright	RB	alright-a
 flying    VBG    fly-v
 hold	VB	hold-v
 still	RB	still-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 cold	JJ	cold-j
 need    VBP    need-v
 blanket	NN	blanket-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 clothes	NNS	clothes-n
 little	JJ	little-j
 panties	NNS	panties-n
@@ -8445,10 +7609,8 @@ mine	NN	mine-n
 britches	NN	britches-n
 oh	UH	oh-x
 maybe	RB	maybe-a
-<g/>
-'ll	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>'ll	MD	will-x
+<g/>n't	RB	not-a
 know    VBP    know-v
 broken    VBN    break-v
 broken	JJ	broken-j
@@ -8460,17 +7622,14 @@ let	VB	let-v
 us	PRP	us-d
 see	VB	see-v
 together	RB	together-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 fit	VB	fit-v
 maybe	RB	maybe-a
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 britches	NN	britches-n
 let	VB	let-v
 help	VB	help-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 dress	NN	dress-n
 already	RB	already-a
 pretty	JJ	pretty-j
@@ -8489,24 +7648,19 @@ back	RB	back-a
 let    VBP    let-v
 us	PRP	us-d
 see    VBP    see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wrong	RB	wrong-a
 try	VB	try-v
 arm	NN	arm-n
 stuck    VBN    stick-v
 leg	NN	leg-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 stubborn	JJ	stubborn-j
 xxx	NN	xxx-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 daddy	NN	daddy-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 eat	VB	eat-v
 breakfast	NN	breakfast-n
@@ -8517,12 +7671,10 @@ take	VB	take-v
 school	NN	school-n
 minute	JJ	minute-j
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 take	VB	take-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 one	CD	one-m
 cup	NN	cup-n
@@ -8534,16 +7686,13 @@ coffee	NN	coffee-n
 want    VBP    want-v
 cup	NN	cup-n
 coffee	NN	coffee-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 get	VB	get-v
 juice	NN	juice-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bottle	NN	bottle-n
 uhhuh	NN	uhhuh-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 baby's	NN	baby-n
 name	NN	name-n
 Eric	NNP	Eric-n
@@ -8555,16 +7704,13 @@ oh	UH	oh-x
 look	VB	look-v
 baby	NN	baby-n
 wet	JJ	wet-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 smart	JJ	smart-j
 look    VBP    look-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 ready	JJ	ready-j
 school	VB	school-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 sash	NN	sash-n
 oh	UH	oh-x
@@ -8575,8 +7721,7 @@ oh	UH	oh-x
 !	SENT	!-x
 big	JJ	big-j
 tiger	NN	tiger-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 rabbit	NN	rabbit-n
 frog	NN	frog-n
 talk	VB	talk-v
@@ -8592,8 +7737,7 @@ baby	NN	baby-n
 needs    VBZ    need-v
 napkin	NN	napkin-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 dress	VB	dress-v
 dirty	JJ	dirty-j
@@ -8613,8 +7757,7 @@ juice	NN	juice-n
 bottle	NN	bottle-n
 mommy	NN	mommy-n
 hair	NN	hair-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mess	NN	mess-n
 baby	NN	baby-n
 xxx	NN	xxx-n
@@ -8627,10 +7770,8 @@ cute	JJ	cute-j
 Jessie	NNP	Jessie-n
 Santa	NNP	Santa-n
 bring	VB	bring-v
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hilarious	JJ	hilarious-j
 breakfast	NN	breakfast-n
 refrigerator	NN	refrigerator-n
@@ -8640,8 +7781,7 @@ oughta	NNS	oughta-n
 call    VBP    call-v
 teacher	NN	teacher-n
 tell	VB	tell-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 oh	UH	oh-x
 sleep	VB	sleep-v
 school	NN	school-n
@@ -8651,42 +7791,34 @@ mess	VB	mess-v
 hair	NN	hair-n
 nighttime	NN	nighttime-n
 blanket	NN	blanket-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 cover	VB	cover-v
 uhhuh    VBP    uhhuh-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 alright	RB	alright-a
 uhhuh	RB	uhhuh-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sposta	NN	sposta-n
 front	NN	front-n
-<g/>
-'s	VBZ	be-v
-<g/>
-'ll	MD	will-x
+<g/>'s	VBZ	be-v
+<g/>'ll	MD	will-x
 help	VB	help-v
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 got    VBN    get-v
 one	CD	one-m
 foot	NN	foot-n
 pull	VB	pull-v
 oh	UH	oh-x
 good	JJ	good-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 baby	NN	baby-n
 sleep	VB	sleep-v
 school	NN	school-n
 sleep	NN	sleep-n
 something	NN	something-n
 wrong	JJ	wrong-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 poor	JJ	poor-j
 baby	NN	baby-n
 happy	JJ	happy-j
@@ -8699,8 +7831,7 @@ push	VB	push-v
 little	JJ	little-j
 bit	NN	bit-n
 like	IN	like-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 hard	JJ	hard-j
 arm	NN	arm-n
 hard	RB	hard-a
@@ -8715,8 +7846,7 @@ almost	RB	almost-a
 pants	NNS	pant-n
 big	JJ	big-j
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 big	JJ	big-j
 bubble	NN	bubble-n
@@ -8725,17 +7855,14 @@ catch	VB	catch-v
 catch	VB	catch-v
 one	PRP	one-d
 caught    VBD    catch-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 anymore	RB	anymore-a
 found    VBD    find-v
 two	CD	two-m
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ask    VBP    ask-v
 uhoh	NN	uhoh-n
 meaning    VBG    mean-v
@@ -8745,8 +7872,7 @@ us	PRP	us-d
 make	VB	make-v
 bed	NN	bed-n
 sure	JJ	sure-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	NN	right-n
 make	VB	make-v
 one	PRP	one-d
@@ -8758,10 +7884,8 @@ bed	NN	bed-n
 home	NN	home-n
 like    VBP    like-v
 one	PRP	one-d
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 like	IN	like-i
 bed	NN	bed-n
 else	RB	else-a
@@ -8771,8 +7895,7 @@ room	NN	room-n
 home	NN	home-n
 poor	JJ	poor-j
 baby	NN	baby-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 much	RB	much-a
 toys	NNS	toy-n
@@ -8787,8 +7910,7 @@ bed	NN	bed-n
 cow	NN	cow-n
 wanna	VB	wanna-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 cow	NN	cow-n
 lay    VBD    lie-v
 uhhuh	NNS	uhhuh-n
@@ -8802,20 +7924,17 @@ baby	NN	baby-n
 laying    VBG    lay-v
 cow	NN	cow-n
 thought    VBD    think-v
-<g/>
-'d    VBD    have-v
+<g/>'d    VBD    have-v
 made    VBN    make-v
 koolaid	JJ	koolaid-j
 last	JJ	last-j
 time	NN	time-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 make    VBP    make-v
 something	NN	something-n
 else	RB	else-a
 make	VB	make-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 need	VB	need-v
 two	CD	two-m
 different	JJ	different-j
@@ -8836,41 +7955,34 @@ lied    VBD    lie-v
 big	RB	big-a
 stink    VBP    stink-v
 uhhuh	JJ	uhhuh-j
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 jewelry	NN	jewelry-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 make	VB	make-v
 big	JJ	big-j
 ring	NN	ring-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 ring	NN	ring-n
 playdough	NN	playdough-n
 well	RB	well-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hafta	NN	hafta-n
 wear	VB	wear-v
 home	NN	home-n
 guess    VBP    guess-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 Bubba's	NNP	Bubba-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 got    VBD    get-v
 well	RB	well-a
 wanna	VB	wanna-v
 play	NN	play-n
 first	JJ	first-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blocks	NNS	block-n
 hi	UH	hi-x
 Justin	NNP	Justin-n
@@ -8889,13 +8001,11 @@ eat    VBP    eat-v
 eat	VB	eat-v
 alligators	NNS	alligator-n
 mouth	NN	mouth-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 mhm	NN	mhm-n
 mouth	NN	mouth-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bigger	JJR	big-j
 mhm	NN	mhm-n
 uhoh    VBP    uhoh-v
@@ -8906,11 +8016,9 @@ forever	RB	forever-a
 oh	UH	oh-x
 hurt    VBD    hurt-v
 mm	NN	mm.-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 nice	JJ	nice-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 bite	VB	bite-v
 want    VBP    want-v
 wanna    VBP    wanna-v
@@ -8942,15 +8050,13 @@ like	IN	like-i
 frog	NN	frog-n
 slick	JJ	slick-j
 slick	JJ	slick-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 eating    VBG    eat-v
 dishes	NNS	dish-n
 silly	RB	silly-a
 old	JJ	old-j
 frog	NN	frog-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 call	VB	call-v
 hello	NN	hello-n
@@ -8958,26 +8064,22 @@ mister	NN	mister-n
 frog	NN	frog-n
 answer	VB	answer-v
 phone	NN	phone-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 phone	NN	phone-n
 phone	NN	phone-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 blue	JJ	blue-j
 one	CD	one-m
 hi	UH	hi-x
 mister	NN	mister-n
 frog	NN	frog-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 birthday	NN	birthday-n
 party	NN	party-n
 today	NN	today-n
 wanna    VBP    wanna-v
 come	VB	come-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gonna    VBG    gonna-v
 minutes	NNS	minute-n
 bring	VB	bring-v
@@ -8988,12 +8090,10 @@ ever	RB	ever-a
 birthday	NN	birthday-n
 party	NN	party-n
 mommy	NN	mommy-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 well	RB	well-a
 Justin	NNP	Justin-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 ever	RB	ever-a
 one	CD	one-m
 friend	NN	friend-n
@@ -9001,15 +8101,13 @@ named    VBN    name-v
 Austin	NNP	Austin-n
 birthday	NN	birthday-n
 party	NN	party-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 different	JJ	different-j
 birthday	NN	birthday-n
 party	NN	party-n
 huh    VBZ    huh-v
 Gwagwa's	NNP	Gwagwa-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 grandma's	NN	grandma-n
 fun	NN	fun-n
 visit	VB	visit-v
@@ -9027,8 +8125,7 @@ airplane	NN	airplane-n
 airplane	NN	airplane-n
 oh	UH	oh-x
 thank	VB	thank-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 upside	RB	upside-a
 help	VB	help-v
 use	VB	use-v
@@ -9056,8 +8153,7 @@ hafta	NNS	hafta-n
 make    VBP    make-v
 birthday	NN	birthday-n
 cake	NN	cake-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 color	NN	color-n
 birthday	NN	birthday-n
 cake	NN	cake-n
@@ -9068,21 +8164,16 @@ gonna    VBG    gonna-v
 nothing	NN	nothing-n
 gonna    VBG    gonna-v
 nothing	NN	nothing-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 use	NN	use-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
-<g/>
-'s	VBZ	be-v
+<g/>n't	RB	not-a
+<g/>'s	VBZ	be-v
 hard	JJ	hard-j
 take	VB	take-v
-<g/>
-'ll	MD	will-x
-<g/>
-'s	VBZ	be-v
+<g/>'ll	MD	will-x
+<g/>'s	VBZ	be-v
 huh    VBG    huh-v
 chief	NN	chief-n
 teeth	NNS	tooth-n
@@ -9091,8 +8182,7 @@ lids	NNS	lid-n
 let's	NN	let-n
 try	NN	try-n
 keep	VB	keep-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 mess	VB	mess-v
 floor	NN	floor-n
 thank    VBP    thank-v
@@ -9100,13 +8190,11 @@ please    VBP    please-v
 oops	NNP	oops-n
 dropped    VBD    drop-v
 look	NN	look-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 candies	NNS	candy-n
 better	RBR	well-a
 make	VB	make-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 thirsty	JJ	thirsty-j
 make	VB	make-v
 playdough	NN	playdough-n
@@ -9117,12 +8205,10 @@ koolaid	JJ	koolaid-j
 maybe	RB	maybe-a
 playdough	NN	playdough-n
 pitcher	NN	pitcher-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 koolaid    VBN    koolaid-v
 cool	NN	cool-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 birthday	NN	birthday-n
 cake	NN	cake-n
 cookies	NNS	cookie-n
@@ -9131,8 +8217,7 @@ koolaid	JJ	koolaid-j
 want    VBP    want-v
 want    VBP    want-v
 gone    VBN    go-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want    VBP    want-v
 think    VBP    think-v
 want    VBP    want-v
@@ -9140,14 +8225,12 @@ orange	JJ	orange-j
 juice	NN	juice-n
 orange	JJ	orange-j
 juice	NN	juice-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 make	VB	make-v
 make	VB	make-v
 yucky	JJ	yucky-j
 color	NN	color-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 want	VB	want-v
 koolaid    VBN    koolaid-v
 anymore	RB	anymore-a
@@ -9168,11 +8251,9 @@ call	VB	call-v
 people	NNS	people-n
 party	NN	party-n
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 tell	VB	tell-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 sure	JJ	sure-j
 come	VB	come-v
 hello	NN	hello-n
@@ -9189,11 +8270,9 @@ want	VB	want-v
 whose	WPZ	whose-x
 birthday	NN	birthday-n
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 see	VB	see-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	NN	right-n
 oh	UH	oh-x
 want    VBP    want-v
@@ -9209,13 +8288,11 @@ nobody	NN	nobody-n
 else	RB	else-a
 coming    VBG    come-v
 huh	NNP	Huh-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hear	VB	hear-v
 oh	UH	oh-x
 well	RB	well-a
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 minute	NN	minute-n
 bye	NN	bye-n
 birthday	NN	birthday-n
@@ -9223,8 +8300,7 @@ cake	NN	cake-n
 ready	RB	ready-a
 yet	RB	yet-a
 want    VBP    want-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 cut	NN	cut-n
 wanna	VB	wanna-v
@@ -9248,8 +8324,7 @@ needs    VBZ    need-v
 birthday	NN	birthday-n
 cake	NN	cake-n
 koolaid    VBD    koolaid-v
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 koolaid	JJ	koolaid-j
 oh	UH	oh-x
@@ -9259,8 +8334,7 @@ strawberry	JJ	strawberry-j
 birthday	NN	birthday-n
 cake	NN	cake-n
 gosh	NN	gosh-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 cook	NN	cook-n
 else	RB	else-a
@@ -9280,8 +8354,7 @@ big	JJ	big-j
 piece	NN	piece-n
 cake	NN	cake-n
 uhhuh	NNS	uhhuh-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 mess	NN	mess-n
 pants	NNS	pant-n
@@ -9294,8 +8367,7 @@ turtle	NN	turtle-n
 look	VB	look-v
 like	IN	like-i
 frog	NN	frog-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	JJ	right-j
 frog	NN	frog-n
 talks	NNS	talk-n
@@ -9309,8 +8381,7 @@ anything	NN	anything-n
 dinosaurs	NNS	dinosaur-n
 museum	NN	museum-n
 children	NNS	child-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 oh	UH	oh-x
 Bev's	NNP	Bev-n
 children	NNS	child-n
@@ -9331,16 +8402,14 @@ book	VB	book-v
 hey	UH	hey-x
 know    VBP    know-v
 thought    VBD    think-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 anymore	RB	anymore-a
 dinosaurs	NNS	dinosaur-n
 bones	NNS	bone-n
 dinosaurs	NNS	dinosaur-n
 live    VBP    live-v
 museum	NN	museum-n
-<g/>
-'s	Z	's-x
+<g/>'s	Z	's-x
 dark	JJ	dark-j
 time	NN	time-n
 told    VBD    tell-v
@@ -9348,11 +8417,9 @@ museum	NN	museum-n
 scared    VBN    scare-v
 oh	UH	oh-x
 figured    VBD    figure-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 smart	JJ	smart-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 scared    VBN    scare-v
 dinosaurs	NNS	dinosaur-n
 kill	VB	kill-v
@@ -9360,8 +8427,7 @@ monsters	NNS	monster-n
 well	RB	well-a
 dinosaurs	NNS	dinosaur-n
 gone    VBN    go-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 always	RB	always-a
 live    VBP    live-v
 museum	NN	museum-n
@@ -9371,8 +8437,7 @@ wore    VBD    wear-v
 Bethany	NNP	Bethany-n
 shirts	NNS	shirt-n
 would	MD	would-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 get	VB	get-v
 lost    VBD    lose-v
 going    VBG    go-v
@@ -9385,8 +8450,7 @@ something	NN	something-n
 else	RB	else-a
 making    VBG    make-v
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 eat    VBP    eat-v
 play    VBP    play-v
 cake	NN	cake-n
@@ -9396,8 +8460,7 @@ wanna    VBP    wanna-v
 blow	VB	blow-v
 nose	VB	nose-v
 oh	UH	oh-x
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 make	VB	make-v
 feel	VB	feel-v
 better	RBR	well-a
@@ -9411,13 +8474,11 @@ hard	JJ	hard-j
 oh	UH	oh-x
 yay	NN	yay-n
 !	SENT	!-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 better	NN	better-n
 feels    VBZ    feel-v
 good	JJ	good-j
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hey	UH	hey-x
 favorite	JJ	favorite-j
 cartoon	NN	cartoon-n
@@ -9425,13 +8486,11 @@ show	NN	show-n
 Bugsbunny	NN	Bugsbunny-n
 Mickeymouse	NNP	Mickeymouse-n
 Goofey	NNP	Goofey-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 pretty	RB	pretty-a
 funny	JJ	funny-j
 oh	UH	oh-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 kind	NN	kind-n
 show	NN	show-n
 like    VBP    like-v
@@ -9452,44 +8511,36 @@ like	IN	like-i
 say    VBP    say-v
 Boss	NNP	Boss-n
 say    VBP    say-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 oh	UH	oh-x
-<g/>
-'ve    VBP    have-v
+<g/>'ve    VBP    have-v
 never	RB	never-a
 watched    VBN    watch-v
 show	NN	show-n
 know    VBP    know-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 well	RB	well-a
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 see	VB	see-v
 else	RB	else-a
 else	RB	else-a
 wanna    VBP    wanna-v
 play	VB	play-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 lot	NN	lot-n
 stuff	NN	stuff-n
 putting    VBG    put-v
 see    VBP    see-v
 right	NN	right-n
 oh	UH	oh-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 koolaid	JJ	koolaid-j
 needs	NNS	need-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 bad	JJ	bad-j
 leave    VBP    leave-v
 hafta	NNS	hafta-n
@@ -9509,8 +8560,7 @@ bubbles	NNS	bubble-n
 happened    VBD    happen-v
 bubbles	NNS	bubble-n
 pop	VB	pop-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 behind	IN	behind-i
 goes    VBZ    go-v
 bubble	NN	bubble-n
@@ -9520,8 +8570,7 @@ come    VBP    come-v
 blow	VB	blow-v
 slow	VB	slow-v
 window	NN	window-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 blow	VB	blow-v
 good	JJ	good-j
 wanna    VBP    wanna-v
@@ -9531,8 +8580,7 @@ slow	VB	slow-v
 blew    VBD    blow-v
 big	JJ	big-j
 one	CD	one-m
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 big	JJ	big-j
 bubble	NN	bubble-n
 happens    VBZ    happen-v
@@ -9550,39 +8598,33 @@ hold	VB	hold-v
 xxx	NN	xxx-n
 pop	NN	pop-n
 oop	NN	oop-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gone    VBN    go-v
 ca	MD	can-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 tell    VBP    tell-v
 think    VBP    think-v
 stuck    VBN    stick-v
 ai    VBP    ai-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gone    VBN    go-v
 giant	NN	giant-n
 !	SENT	!-x
 giant	JJ	giant-j
 one	CD	one-m
 window	NN	window-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 biggest	JJS	big-j
 one	CD	one-m
 makes    VBZ    make-v
 pop	NN	pop-n
 know    VBP    know-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 smart	JJ	smart-j
 scientist	NN	scientist-n
 oh	UH	oh-x
 oh	UH	oh-x
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 magic	JJ	magic-j
 make    VBP    make-v
 bubbles	NNS	bubble-n
@@ -9595,24 +8637,20 @@ uhoh	NN	uhoh-n
 maybe	RB	maybe-a
 something	NN	something-n
 else	RB	else-a
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 hold	VB	hold-v
 much	JJ	much-j
 bubble	NN	bubble-n
 blower	NN	blower-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bubble	NN	bubble-n
 holder	NN	holder-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 magic	JJ	magic-j
 make    VBP    make-v
 away	RB	away-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 thing	NN	thing-n
 goes    VBZ    go-v
 truck	NN	truck-n
@@ -9624,16 +8662,13 @@ goes    VBZ    go-v
 away	RB	away-a
 like	VB	like-v
 bubbles	NNS	bubble-n
-<g/>
-n't	RB	not-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
+<g/>n't	RB	not-a
 believe	VB	believe-v
 think    VBP    think-v
 went    VBD    go-v
 pop	NN	pop-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 gone    VBN    go-v
 xxx	NN	xxx-n
 gonna    VBG    gonna-v
@@ -9649,8 +8684,7 @@ magic	NN	magic-n
 baby	NN	baby-n
 bubbles	NNS	bubble-n
 bunch	NN	bunch-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 gonna    VBG    gonna-v
 pop	NN	pop-n
 get    VBP    get-v
@@ -9660,8 +8694,7 @@ see    VBP    see-v
 another	DT	another-x
 one	CD	one-m
 see    VBP    see-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 something	RB	something-a
 else	RB	else-a
 bubbles    VBZ    bubble-v
@@ -9681,8 +8714,7 @@ two	CD	two-m
 gone    VBN    go-v
 wanna    VBP    wanna-v
 play	VB	play-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 time	NN	time-n
 school	VB	school-v
 hey	UH	hey-x
@@ -9692,10 +8724,8 @@ last	JJ	last-j
 time	NN	time-n
 wanna    VBP    wanna-v
 let	VB	let-v
-<g/>
-'s	VBZ	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 furniture	NN	furniture-n
 let    VBD    let-v
 us	PRP	us-d
@@ -9704,38 +8734,31 @@ oh	UH	oh-x
 good	RB	good-a
 watch    VBP    watch-v
 tv	NN	tv-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 bed	NN	bed-n
 thought    VBD    think-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	JJ	right-j
 gonna    VBG    gonna-v
 Justin	NNP	Justin-n
 ever	RB	ever-a
 seen    VBN    see-v
 one	PRP	one-d
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 like	IN	like-i
 dresser	NN	dresser-n
 know    VBP    know-v
 dresser	NN	dresser-n
 drawers	NNS	drawer-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
 tell	VB	tell-v
 think    VBP    think-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 towel	NN	towel-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 sposta	NN	sposta-n
 towel	NN	towel-n
 take    VBP    take-v
@@ -9743,24 +8766,20 @@ bath	NN	bath-n
 another	DT	another-x
 chair	NN	chair-n
 wo	MD	will-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 stand	VB	stand-v
 wonder    VBP    wonder-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 wrong	JJ	wrong-j
 monsters	NNS	monster-n
 monsters	NNS	monster-n
 dinosaurs	NNS	dinosaur-n
 monsters	NNS	monster-n
 live    VBP    live-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 tv	NN	tv-n
 good	JJ	good-j
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 favorite	JJ	favorite-j
 show	NN	show-n
 tv	NN	tv-n
@@ -9770,29 +8789,25 @@ chair	NN	chair-n
 bathroom	NN	bathroom-n
 home	NN	home-n
 know    VBP    know-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 right	NN	right-n
 uhhuh	NNP	uhhuh-n
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 gonna    VBG    gonna-v
 things	NNS	thing-n
 taking    VBG    take-v
 bath	NN	bath-n
 look	NN	look-n
 Justin	NNP	Justin-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 lamp	NN	lamp-n
 need    VBP    need-v
 lamp	NN	lamp-n
 wanna    VBP    wanna-v
 make	VB	make-v
 furniture	NN	furniture-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 couch	NN	couch-n
 mhm	NN	mhm-n
 makes    VBZ    make-v
@@ -9801,21 +8816,18 @@ uhhuh    VBZ    uhhuh-v
 oh	UH	oh-x
 makes    VBZ    make-v
 cookies	NNS	cookie-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 good	JJ	good-j
 place	NN	place-n
 kitchen	NN	kitchen-n
 think    VBP    think-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 look	NN	look-n
 like	IN	like-i
 mom's	NN	mom-n
 xxx	NNP	xxx-n
 hey	UH	hey-x
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 thing	NN	thing-n
 could	MD	could-x
 books	NNS	book-n
@@ -9823,31 +8835,25 @@ could	MD	could-x
 books	NNS	book-n
 could	MD	could-x
 like	IN	like-i
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 stuff	NN	stuff-n
 xxx	NN	xxx-n
 well	RB	well-a
 thing	NN	thing-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 refrigerator	NN	refrigerator-n
 bathtub	NN	bathtub-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 bathtub	NN	bathtub-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 guess	VB	guess-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 like	VB	like-v
 guessing    VBG    guess-v
 says    VBZ    say-v
 pink	JJ	pink-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 right	JJ	right-j
 guessed    VBD    guess-v
 one	CD	one-m
@@ -9860,12 +8866,10 @@ room	NN	room-n
 oh	UH	oh-x
 goes    VBZ    go-v
 garage	NN	garage-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 garage	NN	garage-n
 huh    VBZ    huh-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 house	NN	house-n
 well	RB	well-a
 Justin	NNP	Justin-n
@@ -9874,15 +8878,12 @@ something	NN	something-n
 else	RB	else-a
 wanna    VBP    wanna-v
 play	NN	play-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 selling    VBG    sell-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 selling    VBG    sell-v
 furniture	NN	furniture-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 get	VB	get-v
 rid	JJ	rid-j
@@ -9890,8 +8891,7 @@ tv	NN	tv-n
 like    VBP    like-v
 tv	NN	tv-n
 take    VBP    take-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 pretty	RB	pretty-a
 neat	JJ	neat-j
 tv	NN	tv-n
@@ -9913,10 +8913,8 @@ little	RB	little-a
 big	JJ	big-j
 enough	RB	enough-a
 sit	VB	sit-v
-<g/>
-n't	RB	not-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
+<g/>n't	RB	not-a
 wanna	VB	wanna-v
 sit	VB	sit-v
 well    VBP    well-v
@@ -9930,8 +8928,7 @@ lamp	NN	lamp-n
 maybe	RB	maybe-a
 would	MD	would-x
 help	VB	help-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 mommy	NN	mommy-n
 puts    VBZ    put-v
 big	JJ	big-j
@@ -9966,30 +8963,24 @@ one	CD	one-m
 big	JJ	big-j
 blue	JJ	blue-j
 airplane	NN	airplane-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 busy	JJ	busy-j
 see    VBP    see-v
 thank	VB	thank-v
 oh	UH	oh-x
 forgot    VBD    forget-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 selling    VBG    sell-v
-<g/>
-'re	VBP	be-v
-<g/>
-'s	VBZ	be-v
+<g/>'re	VBP	be-v
+<g/>'s	VBZ	be-v
 matter	NN	matter-n
 uhoh	NN	uhoh-n
 remember	VB	remember-v
 told    VBD    tell-v
 day	NN	day-n
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
 right	RB	right-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hard	RB	hard-a
 let	VB	let-v
 us	PRP	us-d
@@ -9997,16 +8988,14 @@ get	VB	get-v
 little	JJ	little-j
 bit	NN	bit-n
 try	VB	try-v
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 good	JJ	good-j
 look	NN	look-n
 big	JJ	big-j
 bubble	VB	bubble-v
 oh	UH	oh-x
 !	SENT	!-x
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 hard	RB	hard-a
 good	JJ	good-j
 try	VB	try-v
@@ -10014,8 +9003,7 @@ hafta    VBG    hafta-v
 open	RP	open-x
 mouth	NN	mouth-n
 look	NN	look-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 pop	VB	pop-v
 see	VB	see-v
 another	DT	another-x
@@ -10028,13 +9016,11 @@ outside	IN	outside-i
 door	NN	door-n
 bubbles	NNS	bubble-n
 walk	VB	walk-v
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know    VBP    know-v
 maybe	RB	maybe-a
 somewhere	RB	somewhere-a
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 everywhere	RB	everywhere-a
 goodness	NN	goodness-n
 almost	RB	almost-a
@@ -10048,8 +9034,7 @@ away	RB	away-a
 let    VBP    let-v
 us	PRP	us-d
 one	CD	one-m
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 change	VB	change-v
 something	NN	something-n
 else	RB	else-a
@@ -10079,24 +9064,20 @@ thought    VBD    think-v
 something	NN	something-n
 holding    VBG    hold-v
 finger	NN	finger-n
-<g/>
-n't	RB	not-a
+<g/>n't	RB	not-a
 know	VB	know-v
 hi	UH	hi-x
 oh	UH	oh-x
 mhm	NN	mhm-n
-<g/>
-'ll	MD	will-x
+<g/>'ll	MD	will-x
 hi	UH	hi-x
 biting    VBG    bite-v
 nose	VB	nose-v
 oh	UH	oh-x
 like    VBP    like-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 soft	JJ	soft-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 meanie	NN	meanie-n
 know    VBP    know-v
 know	VB	know-v
@@ -10109,15 +9090,12 @@ moo	VB	moo-v
 cow	NN	cow-n
 goes	NNS	go-n
 maag    VBP    maag-v
-<g/>
-'m	VBP	be-v
+<g/>'m	VBP	be-v
 little	JJ	little-j
 boy	NN	boy-n
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 mean	JJ	mean-j
-<g/>
-'re	VBP	be-v
+<g/>'re	VBP	be-v
 gonna    VBG    gonna-v
 use	VB	use-v
 telephones    VBZ    telephone-v
@@ -10128,5 +9106,4 @@ still	RB	still-a
 hello	NN	hello-n
 mister	NN	mister-n
 frog    VBP    frog-v
-<g/>
-'s	VBZ	be-v
+<g/>'s	VBZ	be-v
