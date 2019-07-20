@@ -1,210 +1,210 @@
 <s>
-wanna	VB	wanna-v 'Want to; want a'
-play	VB	play-v  'Amuse oneself by engaging in imaginative pretence.'
-farm	NN	farm-n  'An area of land and its buildings, used for growing crops and rearing animals'
-play	VB	play-v  'Amuse oneself by engaging in imaginative pretence.'
+wanna	VB	wanna-v
+play	VB	play-v
+farm	NN	farm-n
+play	VB	play-v
 Amy	NNP	Amy-n
-happened    VBD    happen-v 'Take place; occur.'
-cow	VB	cow-v   'A toy animal'
-oh	UH	oh-x    'Exclamation'
+happened    VBD    happen-v
+cow	VB	cow-v 
+oh	UH	oh-x  
 Amy	NNP	Amy-n
-know    VBP    know-v   'Be aware of through observation, inquiry, or information.'
-goodness	NN	goodness-n  'Surprise'
+know    VBP    know-v 
+goodness	NN	goodness-n
 <g/>
-'ll	MD	will-x  'Expressing the future tense.'
-play	VB	play-v  'Amuse oneself by engaging in imaginative pretence.'
-tractor	NN	tractor-n   'A toy vehicle'
-wagon	NN	wagon-n 'A toy vehicle'
+'ll	MD	will-x
+play	VB	play-v
+tractor	NN	tractor-n 
+wagon	NN	wagon-n
 Amy	NNP	Amy-n
-see    VBP    see-v 'Perceive with the eyes; discern visually.'
-around	RB	around-a    'Located or situated on every side.'
-good	RB	good-a  'Approve'
-tractor	NN	tractor-n   'A toy vehicle'
-noise	NN	noise-n 'Unpleasant sound'
-tractor	NN	tractor-n   'A toy vehicle'
+see    VBP    see-v
+around	RB	around-a  
+good	RB	good-a
+tractor	NN	tractor-n 
+noise	NN	noise-n
+tractor	NN	tractor-n 
 Amy	NNP	Amy-n
-like    VBP    like-v 'Find agreeable, enjoyable, or satisfactory.'
-play	VB	play-v  'Amuse oneself by engaging in imaginative pretence.'
-playdough	NN	playdough-n 'Modelling clay for children'
-want    VBP    want-v   'Have a desire to possess or do (something); wish for.'
-red	JJ	red-j   'Of a colour at the end of the spectrum'
-blue	JJ	blue-j  'Of a colour at the end of the spectrum'
-white	JJ	white-n 'Of a colour at the end of the spectrum'
-yellow	JJ	yellow-v    'Of a colour at the end of the spectrum'
-make	VB	make-v  'Form (something) by putting parts together or combining substances'  
-balls	NNS	ball-n  'A spherical object or mass of material.' 
-want    VBP    want-v   'Have a desire to possess or do (something)'
-help	VB	help-v  'Make it easier or possible for (someone) to do something by offering them one's services or resources.'
+like    VBP    like-v
+play	VB	play-v
+playdough	NN	playdough-n
+want    VBP    want-v 
+red	JJ	red-j 
+blue	JJ	blue-j
+white	JJ	white-n
+yellow	JJ	yellow-v  
+make	VB	make-v
+balls	NNS	ball-n
+want    VBP    want-v 
+help	VB	help-v
 <g/>
 'm	VBP	be-v
-gonna    VBG    gonna-v 'Going to'
-make	VB	make-v  'Form (something) by putting parts together or combining substances; create.'
+gonna    VBG    gonna-v
+make	VB	make-v
 Amy's	NNP	Amy-n
-face	NN	face-n  ' front part of a person's head'
-want    VBP    want-v   'Have a desire to possess or do (something); wish for.'
-something	NN	something-n 'A thing that is unspecified or unknown.'
+face	NN	face-n
+want    VBP    want-v 
+something	NN	something-n
 <g/>
 n't	RB	not-a
-like	VB	like-v  'Find agreeable, enjoyable, or satisfactory.'
-gonna    VBG    gonna-v 'Going to.'
-make	VB	make-v  'Form (something) by putting parts together or combining substances; create.'
+like	VB	like-v
+gonna    VBG    gonna-v
+make	VB	make-v
 xxx	NN	xxx-n
-wanna    VBP    wanna-v 'Want to'
+wanna    VBP    wanna-v
 xxx	NN	xxx-n
-pretty	JJ	pretty-a    'Attractive in a delicate way without being truly beautiful.'
-wrong	RB	wrong-j 'In an unsuitable or undesirable manner or direction.'
-want    VBP    want-v   'Have a desire to possess or do (something); wish for.'
+pretty	JJ	pretty-a  
+wrong	RB	wrong-j
+want    VBP    want-v 
 xxx	NN	xxx-n
-think    VBP    think-v 'Have a particular belief or idea.'
+think    VBP    think-v
 <g/>
 'm	VBP	be-v
-gonna    VBG    gonna-v 'Going to'
-call	VB	call-v  'Contact or attempt to contact'
+gonna    VBG    gonna-v
+call	VB	call-v
 Amy	NNP	Amy-n
-hello	NN	hello-n 'Used as a greeting or to begin a telephone conversation.'
+hello	NN	hello-n
 Amy	NNP	Amy-n
-seems    VBZ    seem-v  'Give the impression of being something or having a particular quality'
+seems    VBZ    seem-v
 Amy	NNP	Amy-n
-home	RB	home-a  'The place where one lives permanently, especially as a member of a family or household.'
-gonna    VBG    gonna-v 'Going to'
-ask	VB	ask-v   'Say something in order to obtain an answer or some information.'
+home	RB	home-a
+gonna    VBG    gonna-v
+ask	VB	ask-v 
 Amy	NNP	Amy-n
-come	VB	come-v  'Move or travel towards or into a place thought of as near or familiar to the speaker.'
-make	VB	make-v  'Form (something) by putting parts together or combining substances; create.'
-supper	NN	supper-n    'An evening meal, typically a light or informal one.'
-oh	UH	oh-x    'Used to express a range of emotions including surprise, anger, disappointment, or joy, or when reacting to a remark.'
-koolaid	NN	koolaid-n   'A powder that is added to water or another liquid to make a fruit-flavoured soft drink.'
-thank	VB	thank-v 'Express gratitude to (someone), especially by saying "Thank you"'
+come	VB	come-v
+make	VB	make-v
+supper	NN	supper-n  
+oh	UH	oh-x  
+koolaid	NN	koolaid-n 
+thank	VB	thank-v
 Amy	NNP	Amy-n
-want    VBP    want-v   'ave a desire to possess or do (something)'
-koolaid	JJ	koolaid-j      'A powder that is added to water or another liquid to make a fruit-flavoured soft drink.'
-hello	NN	hello-n 'A greeting'
-hi	NN	hi-n    'A greeting'
-gonna    VBG    gonna-v 'Going to'
-come	VB	come-v  'Move or travel towards or into a place thought of as near or familiar to the speaker.'
-party	NN	party-n 'A social gathering of invited guests, typically involving eating, drinking, and entertainment.'
-today	NN	today-n 'On or in the course of this present day.'
-play	VB	play-v  'Engage in activity for enjoyment and recreation rather than a serious or practical purpose.'
-party	NN	party-n 'A social gathering of invited guests, typically involving eating, drinking, and entertainment.'
-well	RB	well-a  'Used to express a range of emotions including surprise, anger, resignation, or relief.'
-come	VB	come-v  'Move or travel towards or into a place thought of as near or familiar to the speaker.'
+want    VBP    want-v 
+koolaid	JJ	koolaid-j    
+hello	NN	hello-n
+hi	NN	hi-n  
+gonna    VBG    gonna-v
+come	VB	come-v
+party	NN	party-n
+today	NN	today-n
+play	VB	play-v
+party	NN	party-n
+well	RB	well-a
+come	VB	come-v
 <g/>
-'ll	MD	will-x  'Expressing the future tense.'
-waiting    VBG    wait-v    'Stay where one is or delay action until a particular time or event.'
-bye	NN	bye-n   'short for goodbye'
+'ll	MD	will-x
+waiting    VBG    wait-v  
+bye	NN	bye-n 
 xxx	NN	xxx-n
-want    VBP    want-v   'Have a desire to possess or do (something)'  
-ride	NN	ride-n  'Transport (someone) in a vehicle.'
+want    VBP    want-v   'Have a desire to possess or do (something)' 
+ride	NN	ride-n
 <g/>
-'ll	MD	will-x  'Expressing the future tense.'
-mother	NN	mother-n    'A woman in relation to her child or children.'
-wanna    VBP    wanna-v 'Want to'
-mother	NN	mother-n    'A woman in relation to her child or children.'
-gonna    VBG    gonna-v 'Going to'
+'ll	MD	will-x
+mother	NN	mother-n  
+wanna    VBP    wanna-v
+mother	NN	mother-n  
+gonna    VBG    gonna-v
 <g/>
 're	VBP	be-v
-gonna    VBG    gonna-v 'Going to'
-farmer	NN	farmer-n    'A person who owns or manages a farm.'
-honey	NN	honey-n 'Darling; sweetheart (usually as a form of address)'
-lunch	NN	lunch-n 'A meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal.'
-ready	JJ	ready-j 'fully prepared.'
-say    VBP    say-v 'Utter words so as to convey information, an opinion, a feeling or intention, or an instruction.'
+gonna    VBG    gonna-v
+farmer	NN	farmer-n  
+honey	NN	honey-n
+lunch	NN	lunch-n
+ready	JJ	ready-j
+say    VBP    say-v
 <g/>
 'm	VBP	be-v
-hurt    JJ    hurt-j    'Physically injured.'
-fell    VBD    fall-v   '(of a person) lose one's balance and collapse.'
-tractor	NN	tractor-n   'A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers'
-sure	RB	sure-a  ' Completely confident that one is right.'
+hurt    JJ    hurt-j  
+fell    VBD    fall-v 
+tractor	NN	tractor-n 
+sure	RB	sure-a
 <g/>
-'ll	MD	will-x  'Expressing the future tense.'
-back	RB	back-a  'So as to return to an earlier or normal position or condition.'
-house	NN	house-n 'A building for human habitation, especially one that consists of a ground floor and one or more upper storeys.'
-wait    VBP    wait-v   'Stay where one is or delay action until a particular time or event.'
-fell    VBD    fall-v   '(of a person) lose one's balance and collapse.'
-moo	VB	moo-v   'Make the characteristic deep resonant vocal sound of cattle.'
-cow	NN	cow-n   'A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.'
-gone    VBN    go-v 'No longer present;'
-took    VBD    take-v   'Dispossess someone of (something); steal or illicitly remove.'
+'ll	MD	will-x
+back	RB	back-a
+house	NN	house-n
+wait    VBP    wait-v 
+fell    VBD    fall-v 
+moo	VB	moo-v 
+cow	NN	cow-n 
+gone    VBN    go-v
+took    VBD    take-v 
 ruffruffruffg	VB	ruffruffruffg-v
-oh	UH	oh-x    'Used to express a range of emotions including surprise, anger, disappointment, or joy, or when reacting to a remark.'
-sick	JJ	sick-j  'Affected by physical or mental illness.'
-look	NN	look-n  'Direct one's gaze in a specified direction.'
-leg	NN	leg-n   'Each of the limbs on which a person or animal walks and stands.'
+oh	UH	oh-x  
+sick	JJ	sick-j
+look	NN	look-n
+leg	NN	leg-n 
 <g/>
 'm	VBP	be-v
-gonna    VBG    gonna-v 'Going to'
-truck	NN	truck-n 'A large, heavy road vehicle used for carrying goods, materials, or troops; '
-carry	VB	carry-v 'Support and move (someone or something) from one place to another.'
-doctor	NN	doctor-n    'A person who is qualified to treat people who are ill.'
+gonna    VBG    gonna-v
+truck	NN	truck-n
+carry	VB	carry-v
+doctor	NN	doctor-n  
 Amy	NNP	Amy-n
-help	VB	help-v  'Make it easier or possible for (someone) to do something by offering them one's services or resources.'
-broken    VBN    break-v    'Sustain an injury involving the fracture of a bone or bones in a part of the body.'
-fix	VB	fix-v   'Put (a bad or unwelcome situation) right.'
-thank    VBP    thank-v 'Express gratitude to (someone), especially by saying "Thank you"'
-people	NNS	people-n    'Human beings in general or considered collectively.'
+help	VB	help-v
+broken    VBN    break-v  
+fix	VB	fix-v 
+thank    VBP    thank-v
+people	NNS	people-n  
 <g/>
-n't	RB	not-a   'Used as a short substitute for a negative clause'
-wanna	VB	wanna-v 'Want to'
-inside	RB	inside-a    'The inner side or surface of something.'
+n't	RB	not-a 
+wanna	VB	wanna-v
+inside	RB	inside-a  
 <g/>
-make	VB	make-v  'Form (something) by putting parts together or combining substances; create.'
-please	VB	please-v    'Take only one's own wishes into consideration in deciding how to act or proceed.'
-nothing	NN	nothing-n   'Not anything;'
-wanna    VBP    wanna-v 'Want to'
-look	VB	look-v  ' Direct one's gaze in a specified direction.'
-think    VBP    think-v 'Have a particular belief or idea.'
-duck	NN	duck-n  'A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.'
-sounds    VBZ    sound-v    'Emit or cause to emit sound.'
+make	VB	make-v
+please	VB	please-v  
+nothing	NN	nothing-n 
+wanna    VBP    wanna-v
+look	VB	look-v
+think    VBP    think-v
+duck	NN	duck-n
+sounds    VBZ    sound-v  
 <g/>
 're	VBP	be-v
-gonna    VBG    gonna-v 'Going to'
-lock	VB	lock-v  'A mechanism for keeping a door, window, lid, or container fastened, typically operated by a key.'
+gonna    VBG    gonna-v
+lock	VB	lock-v
 <g/>
-n't	RB	not-a   'Used as a short substitute for a negative clause'
-fix	VB	fix-v   'Mend or repair.'
-stuff	NN	stuff-n 'Matter, material, articles, or activities of a specified or indeterminate kind that are being referred to, indicated, or implied.'
-need    VBP    need-v   'Expressing necessity or obligation.'
-first	JJ	first-j 'Foremost in position, rank, or importance.'
-huh	NNS	huh-n   'Used in questions to invite agreement or further comment.'
-get	VB	get-v   ' Succeed in attaining, achieving, or experiencing'
-table	NN	table-n 'A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.'
-mine	PRP$	mine-j  'Used to refer to a thing or things belonging to or associated with the speaker.'
-birthday	NN	birthday-n  'The anniversary of the day on which a person was born, typically treated as an occasion for celebration and the giving of gifts.'
-cake	NN	cake-n  'An item of soft sweet food made from a mixture of flour, fat, eggs, sugar, and other ingredients, baked and sometimes iced or decorated.'
-set    VBD    set-v 'Put, lay, or stand (something) in a specified place or position.'
-show    VBP    show-v   'Display'
-need    VBP    need-v   'Expressing necessity or obligation.'
-candles	NNS	candle-n    'A cylinder or block of wax or tallow with a central wick which is lit to produce light as it burns'
-want    VBP    want-v   'Have a desire to possess or do (something'
+n't	RB	not-a 
+fix	VB	fix-v 
+stuff	NN	stuff-n
+need    VBP    need-v 
+first	JJ	first-j
+huh	NNS	huh-n 
+get	VB	get-v 
+table	NN	table-n
+mine	PRP$	mine-j
+birthday	NN	birthday-n
+cake	NN	cake-n
+set    VBD    set-v
+show    VBP    show-v 
+need    VBP    need-v 
+candles	NNS	candle-n  
+want    VBP    want-v 
 xxx	NN	xxx-n
-old	JJ	old-j   'Having lived for a long time'
-five	CD	five-m  'Number'
-show    VBP    show-v   'Be, allow, or cause to be visible'
-else	RB	else-a  'In addition'
-gonna    VBG    gonna-v 'Going to'
-besides	IN	besides-i   'apart from.'
-drink	NN	drink-n 'A liquid that can be swallowed as refreshment or nourishment.'
-ever	RB	ever-a  ' At any time.'
-dress	VB	dress-v 'Put on clothes appropriate for a formal occasion.'
-polar	JJ	polar-j 'living in the north or south polar region.'
-bear	NN	bear-n  'A large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail. Bears are related to the dog family but most species are omnivorous.'
-came    VBD    come-v   'Move or travel towards or into a place thought of as near or familiar to the speaker.'
-know    VBP    know-v   'Be aware of through observation, inquiry, or information.'
-games	NNS	game-n  'An activity that one engages in for amusement or fun.'
-wanna    VBP    wanna-v 'Want to'
-play	VB	play-v  'Engage in activity for enjoyment and recreation rather than a serious or practical purpose.'
-stuck    VBD    stick-v 'Be fixed in a particular position or unable to move or be moved.'
+old	JJ	old-j 
+five	CD	five-m
+show    VBP    show-v 
+else	RB	else-a
+gonna    VBG    gonna-v
+besides	IN	besides-i 
+drink	NN	drink-n
+ever	RB	ever-a
+dress	VB	dress-v
+polar	JJ	polar-j
+bear	NN	bear-n
+came    VBD    come-v 
+know    VBP    know-v 
+games	NNS	game-n
+wanna    VBP    wanna-v
+play	VB	play-v
+stuck    VBD    stick-v
 xxx	NNP	xxx-n
-spilled    VBD    spill-v   'Cause or allow (liquid) to flow over the edge of its container, especially unintentionally.'
+spilled    VBD    spill-v 
 mhm	NN	mhm-n
-sad	JJ	sad-j   'Feeling or showing sorrow; unhappy.'
+sad	JJ	sad-j 
 alright	RB	alright-a
-ice	NN	ice-n   'An ice cream, ice lolly, or portion of water ice.'
-cream	NN	cream-n 'An ice cream, ice lolly, or portion of water ice.'
+ice	NN	ice-n 
+cream	NN	cream-n
 <g/>
-friends	NNS	friend-n    'A person with whom one has a bond of mutual affection'
+friends	NNS	friend-n  
 <g/>
-hafta	NNS	hafta-n 'US informal, dialect = "have to"'
+hafta	NNS	hafta-n
 get    VBP    get-v
 hello	NN	hello-n
 come	VB	come-v
@@ -1396,7 +1396,7 @@ like    VBP    like-v
 really	RB	really-a
 looks    VBZ    look-v
 good	JJ	good-j
-like    VBP    like-v   
+like    VBP    like-v  
 <g/>
 's	VBZ	be-v
 good	JJ	good-j
