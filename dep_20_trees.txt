@@ -1,0 +1,66 @@
+want to play with the farm ?
+
+[(('want', 'VB'), 'xcomp', ('play', 'VB')), (('play', 'VB'), 'mark', ('to', 'TO')), (('play', 'VB'), 'nmod', ('farm', 'NN')), (('farm', 'NN'), 'case', ('with', 'IN')), (('farm', 'NN'), 'det', ('the', 'DT')), (('want', 'VB'), 'punct', ('?', '.'))]
+okay .
+
+[(('okay', 'JJ'), 'punct', ('.', '.'))]
+can I play too ?
+
+[(('play', 'VB'), 'aux', ('can', 'MD')), (('play', 'VB'), 'nsubj', ('I', 'PRP')), (('play', 'VB'), 'advmod', ('too', 'RB')), (('play', 'VB'), 'punct', ('?', '.'))]
+is it okay ?
+
+[(('okay', 'JJ'), 'cop', ('is', 'VBZ')), (('okay', 'JJ'), 'nsubj', ('it', 'PRP')), (('okay', 'JJ'), 'punct', ('?', '.'))]
+Amy what happened to the cow ?
+
+[(('Amy', 'NNP'), 'acl:relcl', ('happened', 'VBD')), (('happened', 'VBD'), 'nsubj', ('what', 'WP')), (('happened', 'VBD'), 'nmod', ('cow', 'NN')), (('cow', 'NN'), 'case', ('to', 'TO')), (('cow', 'NN'), 'det', ('the', 'DT')), (('Amy', 'NNP'), 'punct', ('?', '.'))]
+oh Amy do you know ?
+
+[(('know', 'VB'), 'discourse', ('oh', 'UH')), (('know', 'VB'), 'dobj', ('Amy', 'NNP')), (('know', 'VB'), 'aux', ('do', 'VBP')), (('know', 'VB'), 'nsubj', ('you', 'PRP')), (('know', 'VB'), 'punct', ('?', '.'))]
+goodness .
+
+[(('goodness', 'NN'), 'punct', ('.', '.'))]
+yeah , we'll play with the tractor .
+
+[(('play', 'VB'), 'nsubj', ('yeah', 'NN')), (('play', 'VB'), 'punct', (',', ',')), (('play', 'VB'), 'nsubj', ('we', 'PRP')), (('play', 'VB'), 'aux', ("'ll", 'MD')), (('play', 'VB'), 'nmod', ('tractor', 'NN')), (('tractor', 'NN'), 'case', ('with', 'IN')), (('tractor', 'NN'), 'det', ('the', 'DT')), (('play', 'VB'), 'punct', ('.', '.'))]
+where is the wagon Amy ?
+
+[(('Amy', 'NNP'), 'advmod', ('where', 'WRB')), (('Amy', 'NNP'), 'cop', ('is', 'VBZ')), (('Amy', 'NNP'), 'det', ('the', 'DT')), (('Amy', 'NNP'), 'compound', ('wagon', 'NN')), (('Amy', 'NNP'), 'punct', ('?', '.'))]
+see it around ?
+
+[(('see', 'VB'), 'dobj', ('it', 'PRP')), (('see', 'VB'), 'advmod', ('around', 'IN')), (('see', 'VB'), 'punct', ('?', '.'))]
+is this it ?
+
+[(('is', 'VBZ'), 'nsubj', ('it', 'PRP')), (('it', 'PRP'), 'det', ('this', 'DT')), (('is', 'VBZ'), 'punct', ('?', '.'))]
+good .
+
+[(('good', 'JJ'), 'punct', ('.', '.'))]
+there is the tractor .
+
+[(('is', 'VBZ'), 'expl', ('there', 'EX')), (('is', 'VBZ'), 'nsubj', ('tractor', 'NN')), (('tractor', 'NN'), 'det', ('the', 'DT')), (('is', 'VBZ'), 'punct', ('.', '.'))]
+is it the noise of the tractor ?
+
+[(('noise', 'NN'), 'cop', ('is', 'VBZ')), (('noise', 'NN'), 'nsubj', ('it', 'PRP')), (('noise', 'NN'), 'det', ('the', 'DT')), (('noise', 'NN'), 'nmod', ('tractor', 'NN')), (('tractor', 'NN'), 'case', ('of', 'IN')), (('tractor', 'NN'), 'det', ('the', 'DT')), (('noise', 'NN'), 'punct', ('?', '.'))]
+Amy do you like to play with play+dough ?
+
+[(('do', 'VBP'), 'nsubj', ('Amy', 'NNP')), (('do', 'VBP'), 'dobj', ('you', 'PRP')), (('do', 'VBP'), 'advcl', ('play', 'VB')), (('play', 'VB'), 'mark', ('like', 'IN')), (('play', 'VB'), 'mark', ('to', 'TO')), (('play', 'VB'), 'nmod', ('play', 'NN')), (('play', 'NN'), 'case', ('with', 'IN')), (('play', 'NN'), 'cc', ('+', 'CC')), (('play', 'NN'), 'conj', ('dough', 'NN')), (('do', 'VBP'), 'punct', ('?', '.'))]
+do you wanna play with some play+dough ?
+
+[(('wan', 'VB'), 'aux', ('do', 'VB')), (('wan', 'VB'), 'nsubj', ('you', 'PRP')), (('wan', 'VB'), 'xcomp', ('play', 'VB')), (('play', 'VB'), 'mark', ('na', 'TO')), (('play', 'VB'), 'nmod', ('play', 'NN')), (('play', 'NN'), 'case', ('with', 'IN')), (('play', 'NN'), 'det', ('some', 'DT')), (('play', 'NN'), 'cc', ('+', 'CC')), (('play', 'NN'), 'conj', ('dough', 'NN')), (('wan', 'VB'), 'punct', ('?', '.'))]
+okay .
+
+[(('okay', 'JJ'), 'punct', ('.', '.'))]
+you want red , blue , white or yellow ?
+
+[(('want', 'VBP'), 'nsubj', ('you', 'PRP')), (('want', 'VBP'), 'xcomp', ('red', 'JJ')), (('red', 'JJ'), 'punct', (',', ',')), (('red', 'JJ'), 'conj', ('blue', 'JJ')), (('red', 'JJ'), 'punct', (',', ',')), (('red', 'JJ'), 'conj', ('white', 'JJ')), (('red', 'JJ'), 'cc', ('or', 'CC')), (('red', 'JJ'), 'conj', ('yellow', 'JJ')), (('want', 'VBP'), 'punct', ('?', '.'))]
+white .
+
+[(('white', 'JJ'), 'punct', ('.', '.'))]
+I make balls .
+
+[(('make', 'VBP'), 'nsubj', ('I', 'PRP')), (('make', 'VBP'), 'dobj', ('balls', 'NNS')), (('make', 'VBP'), 'punct', ('.', '.'))]
+xxx .
+
+[(('xxx', 'NN'), 'punct', ('.', '.'))]
+you want some help ?
+
+[(('want', 'VBP'), 'nsubj', ('you', 'PRP')), (('want', 'VBP'), 'dobj', ('help', 'NN')), (('help', 'NN'), 'det', ('some', 'DT')), (('want', 'VBP'), 'punct', ('?', '.'))]
