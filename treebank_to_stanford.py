@@ -36,7 +36,7 @@ def treebank_gra_to_stanford_gra(words, gra):
 
         arg0_word = words[int(arg0) - 1]
         if(arg1 == '0'):
-            arg1_word  = '--root--'
+            arg1_word  = 'ROOT'
         else:
             arg1_word = words[int(arg1) - 1]
 
@@ -214,7 +214,11 @@ with open('./vk.txt', mode='r') as f:
             datum = build_datum()
             print("-----------------------------------")
 
-pp.pprint(len(processed_data))
+with open('dependancy_relations.json', mode='w') as f:
+    f.write(str(processed_data))
+
+print('Done!')
+print(len(processed_data), processed_data[0])
 print(len(unknown_lines), unknown_lines[0])
 print(len(couldnt_find_gra), couldnt_find_gra[0])
 
