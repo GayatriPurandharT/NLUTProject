@@ -25,7 +25,10 @@ def treebank_gra_to_stanford_gra(words, gra):
             'NEG': 'neg',
             'ENUM': 'nummod',
             'NAME': 'name', 
-            'PUNCT': 'punct'
+
+            # TODO
+            'PUNCT': 'punct',
+            'AUX': 'aux'
             }
     stanford_gra = ''
     for gra_item in gra.split(' '):
@@ -93,6 +96,10 @@ def split_dialogue(dialogue):
             final_words.append(value[:-3])
             final_words.append("not")
 
+        elif value.lower()[-3:] == "'ll":
+            final_words.append(value[:-3])
+            final_words.append("will")
+
         elif value.lower() == "needta":
             final_words.append('need')
             final_words.append('to')
@@ -102,6 +109,44 @@ def split_dialogue(dialogue):
         elif value.lower() == "hafta":
             final_words.append('have')
             final_words.append('to')
+        elif value.lower() == "hasta":
+            final_words.append('has')
+            final_words.append('to')
+        elif value.lower() == "hadta":
+            final_words.append('had')
+            final_words.append('to')
+        elif value.lower() == "gotta":
+            final_words.append('got')
+            final_words.append('to')
+        elif value.lower() == "oughta":
+            final_words.append('ought')
+            final_words.append('to')
+
+        elif value.lower() == "you'd":
+            final_words.append('you')
+            final_words.append('would')
+        elif value.lower() == "where'd":
+            final_words.append('where')
+            final_words.append('did')
+        elif value.lower() == "we'd":
+            final_words.append('we')
+            final_words.append('had')
+        elif value.lower() == "why'd":
+            final_words.append('why')
+            final_words.append('had')
+        elif value.lower() == "what'd": # TODO: handling all cases?? Don't think so.
+            final_words.append('what')
+            final_words.append('did')
+
+        elif value.lower() == "i've":
+            final_words.append('I')
+            final_words.append('have')
+        elif value.lower() == "you've":
+            final_words.append('you')
+            final_words.append('have')
+        elif value.lower() == "we've":
+            final_words.append('we')
+            final_words.append('have')
 
         elif value.lower() == "let's":
             final_words.append('let')
@@ -126,6 +171,8 @@ def split_dialogue(dialogue):
 
 
 processed_data = []
+unknown_lines = []
+couldnt_find_gra = []
 with open('./vk.txt', mode='r') as f:
     datum = build_datum()
 
@@ -136,14 +183,17 @@ with open('./vk.txt', mode='r') as f:
         print(line)
 
         if(identifier == '*ADU:' or identifier == '*CHI:'):
-            datum['dialogue'] = split_dialogue(data)
+            datum['dialogue'] = {}
+            datum['dialogue']['original'] = data.strip()
+            datum['dialogue']['split'] = split_dialogue(data)
         elif(identifier == '%mor:'):
             datum['mor'] = data
         elif(identifier == '%gra:'):
             datum['gra'] = {}
-            stanford_gra = treebank_gra_to_stanford_gra(datum['dialogue'], data)
+            stanford_gra = treebank_gra_to_stanford_gra(datum['dialogue']['split'], data)
             if stanford_gra is None:
                 pp.pprint(datum)
+                couldnt_find_gra.append(data)
                 datum = build_datum()
                 print("Stanford gra not found!-----------------------------------")
                 continue
@@ -151,6 +201,7 @@ with open('./vk.txt', mode='r') as f:
             datum['gra']['treebank'] = data
         else:
             pp.pprint(datum)
+            unknown_lines.append(line)
             datum = build_datum()
             print('unidentified line:', line, "-----------------------------------")
             continue
@@ -159,10 +210,11 @@ with open('./vk.txt', mode='r') as f:
                 datum['mor'] is not None and
                 datum['gra'] is not None):
             processed_data.append(datum)
-            # print(len(processed_data), ' '.join(datum['dialogue']))
             pp.pprint(datum)
             datum = build_datum()
             print("-----------------------------------")
 
-# pp.pprint(processed_data)
+pp.pprint(len(processed_data))
+print(len(unknown_lines), unknown_lines[0])
+print(len(couldnt_find_gra), couldnt_find_gra[0])
 
