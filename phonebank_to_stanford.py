@@ -4,8 +4,8 @@ pp = pprint.PrettyPrinter()
 def build_datum():
     return  { 'dialogue': None, 'mor': None, 'gra': None }
 
-def treebank_gra_to_stanford_gra(words, gra):
-    mapping_treebank_to_stanford = {
+def phonebank_gra_to_stanford_gra(words, gra):
+    mapping_phonebank_to_stanford = {
             'SUBJ': 'nsubj', # 'nsubjpass'
             'CSUBJ': 'csubj', # 'csubjpass'
             'COBJ': 'cobj',
@@ -40,7 +40,7 @@ def treebank_gra_to_stanford_gra(words, gra):
         else:
             arg1_word = words[int(arg1) - 1]
 
-        stanford_func = mapping_treebank_to_stanford.get(func)
+        stanford_func = mapping_phonebank_to_stanford.get(func)
         stanford_gra += "%s(%s, %s) " % (stanford_func, arg1_word, arg0_word) 
 
         if stanford_func is None:
@@ -190,7 +190,7 @@ with open('./vk.txt', mode='r') as f:
             datum['mor'] = data
         elif(identifier == '%gra:'):
             datum['gra'] = {}
-            stanford_gra = treebank_gra_to_stanford_gra(datum['dialogue']['split'], data)
+            stanford_gra = phonebank_gra_to_stanford_gra(datum['dialogue']['split'], data)
             if stanford_gra is None:
                 pp.pprint(datum)
                 couldnt_find_gra.append(data)
@@ -198,7 +198,7 @@ with open('./vk.txt', mode='r') as f:
                 print("Stanford gra not found!-----------------------------------")
                 continue
             datum['gra']['stanford'] = stanford_gra
-            datum['gra']['treebank'] = data
+            datum['gra']['phonebank'] = data
         else:
             pp.pprint(datum)
             unknown_lines.append(line)
