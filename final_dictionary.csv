@@ -1472,6 +1472,8 @@ slick,	JJ,	slick,	made slick by e.g. ice or grease;superficially impressive, but
 Gwagwa,	NNP,	Gwagwa's,	--- No definition found for pos_key n ---
 chief,	NN,	chief,	a person who is in charge;a person who exercises control over workers;the head of a tribe or clan
 cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain
+
+
 gosh,	NN,	gosh,	--- No definition found for pos_key n ---
 turtle,	NN,	turtle,	a sweater or jersey with a high close-fitting collar;any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
 guy,	VB,	guy,	subject to laughter or ridicule;steady or support with a guy wire or cable
@@ -1482,33 +1484,31 @@ parent,	NNS,	parents',	a father or mother; one who begets or one who gives birth
 nah,	NNS,	nah,	--- No definition found for pos_key n ---
 always,	RB,	always,	at all times; all the time and on every occasion;without variation or change, in every case;without interruption;at any time or in any event;forever; throughout all time
 bone,	NNS,	bones,	rigid connective tissue that makes up the skeleton of vertebrates;the porous calcified substance from which bones are made;a shade of white the color of bleached bones
-dark,	JJ,	dark,	devoid of or deficient in light or brightness; shadowed or black;(used of color;brunet (used of hair or skin or eyes;stemming from evil characteristics or forces; wicked or dishonorable;secret;showing a brooding ill humor;lacking enlightenment or knowledge or culture;marked by difficulty of style or expression;causing dejection;not giving performances; closed
-scare,	VBN,	scared,	cause fear in;cause to lose courage
-Bethany,	NNP,	Bethany,	--- No definition found for pos_key n ---
-short,	JJ,	short,	primarily temporal sense; indicating or being or seeming to be limited in duration;(primarily spatial sense;low in stature; not tall;of insufficient quantity to meet a need;(of memory;not holding securities or commodities that one sells in expectation of a fall in prices;of speech sounds or syllables of relatively short duration;less than the correct or legal or full amount often deliberately so;lacking foresight or scope;tending to crumble or break into flakes due to a large amount of shortening;marked by rude or peremptory shortness
 
-Goofey,	NNP,    Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Productions,   it's Mickeymouse and Goofey;I love to watch Goofey on TV;Goofey is funny.   
-Incrediblehulk,	NN,	The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk, produced by Marvel Studios and distributed by Universal Pictures,  I like the shows of Incrediblehulk and Dukesofhazzard;The Incrediblehulk is my favorite movie;"The Incredible Hulk" has plenty of super heroic action, as well as a great sense of humor about its origins and roots.
-Roscoe,	NNP,	Rosco Purvis Coltrane is a fictional bumbling and corrupt sheriff character in the American TV series The Dukes of Hazzard along with the movie Moonrunners and the movies that followed,   Roscoe is funny in Dukes of Hazzard.
+
+dark,	NN,	dark,	devoid of or deficient in light or brightness; shadowed or black;(used of color,    it is too dark in the bathroom;childern are supposed to sleep when it is dark;it is dark and it is time for sleep
+dark,	JJ,	dark,	devoid of or deficient in light or brightness; shadowed or black;(used of color,    it is not a dark bathroom
+scare,	VBN,	scared,	cause fear in;cause to lose courage,    are you scared of the dinosaurs;he is scared of the farm
+short,	JJ,	short,	measuring a small distance from end to end, I have short hair;this is going to be a short trip
+Goofey,	NNP,    Goofy,  Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Productions,   it's Mickeymouse and Goofey;I love to watch Goofey on TV;Goofey is funny.   
+Incrediblehulk,	NN, Incrediblehulk, The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk, produced by Marvel Studios and distributed by Universal Pictures,  I like the shows of Incrediblehulk and Dukesofhazzard;The Incrediblehulk is my favorite movie;"The Incredible Hulk" has plenty of super heroic action, as well as a great sense of humor about its origins and roots.
+Roscoe,	NNP,    Roscoe, Rosco Purvis Coltrane is a fictional bumbling and corrupt sheriff character in the American TV series The Dukes of Hazzard along with the movie Moonrunners and the movies that followed,   Roscoe is funny in Dukes of Hazzard.
 Boss,	NNP,	Boss,	Boss Hogg, is a fictional character featured in the American television series The Dukes of Hazzard. He was the greedy, unethical commissioner of Hazzard County,   Boss says xxx when it's over.
-Littlehouseontheprairie,	NNP,	Little House on the Prairie is an American western drama television series, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s, do you watch Littlehouseontheprairie or anything like that ?;whoo do you like in Littlehouseontheprairie. 
+Littlehouseontheprairie,	NNP,    Littlehouseontheprairie,    Little House on the Prairie is an American western drama television series, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s, do you watch Littlehouseontheprairie or anything like that ?;whoo do you like in Littlehouseontheprairie. 
 put,	VBG,	putting,	put into a certain place or abstract location;cause to be in a certain state;wearing something, I'm taking off my party dress and I'm putting on my regular dress;I am putting in all my toys in a bag; she is putting;putting horse on top of car;he is putting toy boat in box;she is putting blocks on boat;a putting a toy frog in a wagon.
 put,	VBZ,	puts,	put into a certain place or abstract location,  He puts playdough in a plastic bag;she puts her toys on a table.
 ground,	NN,	ground,	the solid part of the earth's surface,  the air bubbles go into the ground; she fell on the ground;toys fell on to the ground.
-
-ahead,	RB,	ahead,	at or in the front;toward the future; forward in time;in a forward direction;ahead of time; in anticipation;or in advance;to a more advanced or advantageous position;to a different or a more advanced time (meaning advanced either toward the present or toward the future;leading or ahead in a competition
-oop,	NN,	oop,	--- No definition found for pos_key n ---
-ai,	VBP,	ai,	--- No definition found for pos_key v ---
-scientist,	NN,	scientist,	a person with advanced knowledge of one or more sciences
-magic,	JJ,	magic,	possessing or using or characteristic of or appropriate to supernatural powers
-magic,	NN,	magic,	any art that invokes supernatural powers;an illusory feat; considered magical by naive observers
-disappear,	VBP,	disappear,	get lost, as without warning or explanation;become invisible or unnoticeable;cease to exist;become less intense and fade away gradually
-holder,	NN,	holder,	a holding device;a person who holds something;the person who is in possession of a check or note or bond or document of title that is endorsed to him or to whoever holds it
-dresser,	NN,	dresser,	furniture with drawers for keeping clothes;a person who dresses in a particular way;a wardrobe assistant for an actor;low table with mirror or mirrors where one sits while dressing or applying makeup;a cabinet with shelves
-cooking,	NN,	cooking,	the act of preparing something (as food
-sell,	VBG,	selling,	exchange or deliver for money or its equivalent;be sold at a certain price or in a certain way;persuade somebody to accept something;do business; offer for sale as for one's livelihood;give up for a price or reward;be approved of or gain acceptance;be responsible for the sale of;deliver to an enemy by treachery
-rid,	JJ,	rid,	--- No definition found for pos_key j ---
-
+ahead,	RB,	ahead,	at or in the front;in a forward direction,  go ahead and do it;go ahead and blow the bubble.
+oop,	UH,	oop,    an communicator used to exclaim in an unexpected situation, opp they are all gone;opp what have I done.	
+scientist,	NN,	scientist,	a person with advanced knowledge of one or more sciences,   you're so smart you should be a scientist;I want to become a scientist when I grow up.
+magic,	JJ,	magic,	possessing or using or characteristic of or appropriate to supernatural powers, oh you're magic you make the bubbles disappear;it was a magic.
+magic,	NN,	magic,	any art that invokes supernatural powers;an illusory feat; considered magical by naive observers,   suddenly, as if by magic, the doors start to open.
+disappear,	VBP,	disappear,	get lost, as without warning or explanation;become invisible or unnoticeable;cease to exist;become less intense and fade away gradually,    you make the bubbles disappear;I disappear from home.    
+holder,	NN,	holder,	a holding device;a person who holds something;the person who is in possession of a check or note or bond or document of title that is endorsed to him or to whoever holds it,   I'll be the bubble holder;the candle holder is not firm
+dresser,	NN,	dresser,	furniture with drawers for keeping clothes;low table with mirror or mirrors where one sits while dressing or applying makeup;a cabinet with shelves,    do you know what a dresser is?;get my clothes from the dresser;I never opened my dresser.
+cookie,	NNS,	cookies,	a small sweet cake, typically round, flat, and crisp,   I want to eat cookies this weekend;my mother packed chocolate cookies for lunch.
+sell,	VBG,	selling,	exchange or deliver for money or its equivalent;be sold at a certain price or in a certain way, I am selling the furniture;let us sell this car and buy a new one.
+rid,	JJ,	rid,	make someone or something free of (a troublesome or unwanted person or thing),  I want to get rid of the tv;will you get rid of your old car ?.
 sing,	VB,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   Is it something to sing on?;you sing beautifully. 
 sing,	VBZ,	sings,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   she sings well;who sings the song well;He sings melodiously. 
 sing,	VBP,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   They all sing the same song;they sing softly.
