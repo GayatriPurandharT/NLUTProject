@@ -1474,18 +1474,15 @@ chief,	NN,	chief,	a person who is in charge;a person who exercises control over 
 cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain
 
 
-gosh,	NN,	gosh,	--- No definition found for pos_key n ---
-turtle,	NN,	turtle,	a sweater or jersey with a high close-fitting collar;any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
-guy,	VB,	guy,	subject to laughter or ridicule;steady or support with a guy wire or cable
-museum,	NN,	museum,	a depository for collecting and displaying objects having scientific or historical or artistic value
-child,	NNS,	children,	a young person of either sex;a human offspring (son or daughter;an immature childish person;a member of a clan or tribe
-Bev,	NNP,	Bev's,	--- No definition found for pos_key n ---
-parent,	NNS,	parents',	a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian;an organism (plant or animal
-nah,	NNS,	nah,	--- No definition found for pos_key n ---
-always,	RB,	always,	at all times; all the time and on every occasion;without variation or change, in every case;without interruption;at any time or in any event;forever; throughout all time
-bone,	NNS,	bones,	rigid connective tissue that makes up the skeleton of vertebrates;the porous calcified substance from which bones are made;a shade of white the color of bleached bones
-
-
+gosh,	UH,	gosh,	used to express surprise or give emphasis,  gosh,you are a good cook;gosh you play well
+turtle,	NN,	turtle,	any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming,   this one looks like a turtle;a turtle can live in water and on land;turtle walks slowly
+guy,    NN, guy,    a man,  who is this guy?;he is a dumb guy
+museum,	NN,	museum,	a depository for collecting and displaying objects having scientific or historical or artistic value,   I went to the museum and saw some animals;there are dinosaurs in the museum;do animals live in the museum?
+child,	NNS,	children,	a young person of either sex,   they are my children;I have three children; children like toys
+parent,	NNS,	parents',	a father or mother; one who begets or one who gives birth to or nurtures and raises a child,    I am preparing a gift for parents' day; I my parents' child
+nah,	UH,	nah,    a communicator used to show disagreement like the word 'No',    nah, I will not do homework; nah I shall go to my friend's place
+always,	RB,	always,	at all times; all the time and on every occasion;without variation or change, in every case;without interruption;at any time or in any event;forever; throughout all time,  it always keeps falling down;he always goes like that;they always scratch on me;my building blocks always fall;I always thought the horse is sitting down like this ah
+bone,	NNS,	bones,	rigid connective tissue that makes up the skeleton of vertebrates,  my dog loves to eat bones; can I see dinosaur bones in a museum?
 dark,	NN,	dark,	devoid of or deficient in light or brightness; shadowed or black;(used of color,    it is too dark in the bathroom;childern are supposed to sleep when it is dark;it is dark and it is time for sleep
 dark,	JJ,	dark,	devoid of or deficient in light or brightness; shadowed or black;(used of color,    it is not a dark bathroom
 scare,	VBN,	scared,	cause fear in;cause to lose courage,    are you scared of the dinosaurs;he is scared of the farm
