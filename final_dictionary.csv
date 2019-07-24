@@ -1486,14 +1486,16 @@ dark,	JJ,	dark,	devoid of or deficient in light or brightness; shadowed or black
 scare,	VBN,	scared,	cause fear in;cause to lose courage
 Bethany,	NNP,	Bethany,	--- No definition found for pos_key n ---
 short,	JJ,	short,	primarily temporal sense; indicating or being or seeming to be limited in duration;(primarily spatial sense;low in stature; not tall;of insufficient quantity to meet a need;(of memory;not holding securities or commodities that one sells in expectation of a fall in prices;of speech sounds or syllables of relatively short duration;less than the correct or legal or full amount often deliberately so;lacking foresight or scope;tending to crumble or break into flakes due to a large amount of shortening;marked by rude or peremptory shortness
-Goofey,	NNP,	Goofey,	--- No definition found for pos_key n ---
-Incrediblehulk,	NN,	Incrediblehulk,	--- No definition found for pos_key n ---
-Roscoe,	NNP,	Roscoe's,	--- No definition found for pos_key n ---
-Boss,	NNP,	Boss,	a person who exercises control over workers;a person responsible for hiring workers;a person who exercises control and makes decisions;a leader in a political party who controls votes and dictates appointments;a circular rounded projection or protuberance
-Littlehouseontheprairie,	NNP,	Littlehouseontheprairie,	--- No definition found for pos_key n ---
-put,	VBG,	putting,	put into a certain place or abstract location;cause to be in a certain state; cause to be in a certain relation;formulate in a particular style or language;attribute or give;make an investment;estimate;cause (someone;arrange thoughts, ideas, temporal events
-put,	VBZ,	puts,	put into a certain place or abstract location;cause to be in a certain state; cause to be in a certain relation;formulate in a particular style or language;attribute or give;make an investment;estimate;cause (someone;arrange thoughts, ideas, temporal events
-ground,	NN,	ground,	the solid part of the earth's surface;a rational motive for a belief or action;the loose soft material that makes up a large part of the land surface;a relation that provides the foundation for something;a position to be won or defended in battle (or as if in battle;the part of a scene (or picture;material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use;a relatively homogeneous percept extending back of the figure on which attention is focused;a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage;as a wall or canvas;the first or preliminary coat of paint or size applied to a surface
+
+Goofey,	NNP,    Goofy is a funny-animal cartoon character created in 1932 at Walt Disney Productions,   it's Mickeymouse and Goofey;I love to watch Goofey on TV;Goofey is funny.   
+Incrediblehulk,	NN,	The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk, produced by Marvel Studios and distributed by Universal Pictures,  I like the shows of Incrediblehulk and Dukesofhazzard;The Incrediblehulk is my favorite movie;"The Incredible Hulk" has plenty of super heroic action, as well as a great sense of humor about its origins and roots.
+Roscoe,	NNP,	Rosco Purvis Coltrane is a fictional bumbling and corrupt sheriff character in the American TV series The Dukes of Hazzard along with the movie Moonrunners and the movies that followed,   Roscoe is funny in Dukes of Hazzard.
+Boss,	NNP,	Boss,	Boss Hogg, is a fictional character featured in the American television series The Dukes of Hazzard. He was the greedy, unethical commissioner of Hazzard County,   Boss says xxx when it's over.
+Littlehouseontheprairie,	NNP,	Little House on the Prairie is an American western drama television series, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s, do you watch Littlehouseontheprairie or anything like that ?;whoo do you like in Littlehouseontheprairie. 
+put,	VBG,	putting,	put into a certain place or abstract location;cause to be in a certain state;wearing something, I'm taking off my party dress and I'm putting on my regular dress;I am putting in all my toys in a bag; she is putting;putting horse on top of car;he is putting toy boat in box;she is putting blocks on boat;a putting a toy frog in a wagon.
+put,	VBZ,	puts,	put into a certain place or abstract location,  He puts playdough in a plastic bag;she puts her toys on a table.
+ground,	NN,	ground,	the solid part of the earth's surface,  the air bubbles go into the ground; she fell on the ground;toys fell on to the ground.
+
 ahead,	RB,	ahead,	at or in the front;toward the future; forward in time;in a forward direction;ahead of time; in anticipation;or in advance;to a more advanced or advantageous position;to a different or a more advanced time (meaning advanced either toward the present or toward the future;leading or ahead in a competition
 oop,	NN,	oop,	--- No definition found for pos_key n ---
 ai,	VBP,	ai,	--- No definition found for pos_key v ---
@@ -1506,12 +1508,13 @@ dresser,	NN,	dresser,	furniture with drawers for keeping clothes;a person who dr
 cooking,	NN,	cooking,	the act of preparing something (as food
 sell,	VBG,	selling,	exchange or deliver for money or its equivalent;be sold at a certain price or in a certain way;persuade somebody to accept something;do business; offer for sale as for one's livelihood;give up for a price or reward;be approved of or gain acceptance;be responsible for the sale of;deliver to an enemy by treachery
 rid,	JJ,	rid,	--- No definition found for pos_key j ---
-sing,	VB,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound;divulge confidential information or secrets
-sing,	VBZ,	sings,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound;divulge confidential information or secrets
-sing,	VBP,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound;divulge confidential information or secrets
-microphone,	NN,	microphone,	device for converting sound waves into electrical energy
-metal,	NN,	metal,	any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.;a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten
-frame,	NN,	frame,	the framework for a pair of eyeglasses;a single one of a series of still transparent pictures forming a cinema, television or video film;alternative names for the body of a human being;(baseball;a single drawing in a comic strip;an application that divides the user's display into two or more windows that can be scrolled independently;a system of assumptions and standards that sanction behavior and give it meaning;the hard structure (bones and cartilages;the internal supporting structure that gives an artifact its shape;a structure supporting or containing something;a framework that supports and protects a picture or a mirror;one of the ten divisions into which bowling is divided
-soft,	JJ,	soft,	yielding readily to pressure or weight;compassionate and kind; conciliatory;(of sound;easily hurt;produced with vibration of the vocal cords;not protected against attack (especially by nuclear weapons;(used chiefly as a direction or description in music;(of light;(of speech sounds;as `s' and `sh';(of a commodity or market or currency;using evidence not readily amenable to experimental verification or refutation;tolerant or lenient;soft and mild; not harsh or stern or severe;having little impact;or light;out of condition; not strong or robust; incapable of exertion or endurance;willing to negotiate and compromise;not burdensome or demanding; borne or done easily and without hardship;mild and pleasant;not brilliant or glaring
-meanie,	NN,	meanie,	a person of mean disposition
-maag,	VBP,	maag,	--- No definition found for pos_key v ---
+
+sing,	VB,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   Is it something to sing on?;you sing beautifully. 
+sing,	VBZ,	sings,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   she sings well;who sings the song well;He sings melodiously. 
+sing,	VBP,	sing,	deliver by singing;produce tones with the voice;to make melodious sounds;make a whining, ringing, or whistling sound,   They all sing the same song;they sing softly.
+microphone,	NN,	microphone,	device for converting sound waves into electrical energy;devise used to sing or speak louder,   can I sing in a microphone;you can use microphone to speak.
+metal,	NN, metal,  any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc., this looks like a metal;is this a metal;this metal is hard.
+frame,	NN,	frame,	the framework for a pair of eyeglasses;a framework that supports and protects a picture or a mirror,    it's a big photo frame.
+soft,	JJ,	soft,	yielding readily to pressure or weight;compassionate and kind; not harsh or stern or severe,    I'm soft;this chair is too soft;I'm blowing soft.
+meanie,	NN,	meanie,	a person of mean disposition, you're a meanie.
+
