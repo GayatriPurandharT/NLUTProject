@@ -17,7 +17,7 @@ def phonebank_gra_to_stanford_gra(words, gra):
             'MOD': 'nmod', # xmod amod
             'POBJ': 'call', # ?
             'INF': 'mark', 
-            'LP': 'punck', # ?
+            'LP': 'punct', # ?
             'INCROOT': 'root',
             'ROOT': 'root',
             'DET': 'det',
