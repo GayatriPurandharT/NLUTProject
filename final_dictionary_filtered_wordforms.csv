@@ -1105,6 +1105,11 @@ heavy,	JJ,	heavy,	of comparatively great physical weight or density;unusually gr
 push,	NN,	push,	the act of applying force in order to move something away;the force used in pushing;enterprising or ambitious drive;an electrical switch operated by pressing;an effort to advance
 push,	VB,	push,	move with force;press, drive, or impel (someone;make publicity for; try to sell (a product;strive and make an effort to reach a goal;press against forcefully without moving;approach a certain age or speed;exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for;sell or promote the sale of (illegal goods such as drugs;move strenuously and with effort;make strenuous pushing movements during birth to expel the baby
 smoke,	NN,	smoke,	a cloud of fine particles suspended in a gas;a hot vapor containing fine particles of carbon being produced by combustion;an indication of some hidden activity;something with no concrete substance;tobacco leaves that have been made into a cylinder;street names for marijuana;the act of smoking tobacco or other substances;(baseball
+
+
+
+
+
 beep,	VBP,	beep,	make a loud noise;call, summon, or alert with a beeper
 beep,	NN,	beep,	a short high tone produced as a signal or warning
 boot,	NNS,	boots,	footwear that covers the whole foot and lower leg;compartment in an automobile that carries luggage or shopping or tools;the swift release of a store of affective force;protective casing for something that resembles a leg;an instrument of torture that is used to heat or crush the foot and leg;a form of foot torture in which the feet are encased in iron and slowly crushed;the act of delivering a blow with the foot
@@ -1180,11 +1185,6 @@ puppet,	NNS,	puppets,	a small figure of a person operated from above with string
 Elaina,	NNP,	Elaina,	--- No definition found for pos_key n ---
 froggie,	NN,	froggie,	--- No definition found for pos_key n ---
 number,	NN,	number,	the property possessed by a sum or total or indefinite quantity of units or individuals;a concept of quantity involving zero and units;a short performance that is part of a longer program;the number is used in calling a particular telephone;a symbol used to represent a number;one of a series published periodically;a select company of people;a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc.;a clothing measurement;a numbered item in a series;the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural;an item of clothing
-
-
-
-
-
 napkin,	NNS,	napkins,	a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing;garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement
 napkin,	NN,	napkin,	a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing;garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement
 fold,	VBP,	fold,	bend or lay so that one part covers the other;incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating;cease to operate or cause to cease operating;confine in a fold, like sheep;become folded or folded up
@@ -1201,6 +1201,10 @@ goodie,	NN,	goodie,	--- No definition found for pos_key n ---
 lucky,	JJ,	lucky,	occurring by chance;having or bringing good fortune;presaging or likely to bring good luck or a good outcome
 ring,	NN,	ring,	a characteristic sound;a toroidal shape;a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling;(chemistry;an association of criminals;the sound of a bell ringing;a platform usually marked off by ropes in which contestants box or wrestle;jewelry consisting of a circlet of precious metal (often set with jewels;a strip of material attached to the leg of a bird to identify it (as in studies of bird migration
 ring,	VBG,	ringing,	sound loudly and sonorously;ring or echo with sound;make (bells;get or try to get into communication (with someone;extend on all sides of simultaneously; encircle;attach a ring to the foot of, in order to identify
+
+
+
+
 basketball,	NN,	basketball,	a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop;an inflated ball used in playing basketball
 candy,	NN,	candy,	a rich sweet made of flavored sugar and often combined with fruit or nuts
 candy,	NNS,	candies,	a rich sweet made of flavored sugar and often combined with fruit or nuts
@@ -1380,57 +1384,51 @@ repeat,	VB,	repeat,	to say, state, or perform again;make or do or perform again;
 
 
 
-crack,	VB,	crack,	become fractured; break or crack on the surface only;make a very sharp explosive sound;make a sharp sound;hit forcefully; deal a hard blow, making a cracking noise;
-chunky,	JJ,	chunky,	like or containing small sticky lumps;short and thick; as e.g. having short legs and heavy musculature
-gobble,	NN,	gobble,	the characteristic sound made by a turkey cock
-flavor,	NN,	flavor,	the general atmosphere of a place or situation and the effect that it has on people;the taste experience when a savoury condiment is taken into the mouth;(physics
-cherry,	NN,	cherry,	wood of any of various cherry trees especially the black cherry;any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood;a red fruit with a single hard stone;a red the color of ripe cherries
-wreck,	VBD,	wrecked,	smash or break forcefully
+crack,	VB,	crack,	become fractured; break or crack on the surface only;make a very sharp explosive sound;make a sharp sound;hit forcefully; deal a hard blow, making a cracking noise,    I heard something crack; the playdough dried up and I saw it crack.
+chunky,	JJ,	chunky,	like or containing small sticky lumps, my koolaid is chunky.
+gobble,	NN,	gobble,	a whole chunk of something, a whole big gobble of koolaid.
+flavor,	NN,	flavor,	the taste experience when a savoury condiment is taken into the mouth,  what kind of flavour is it;I love vanilla flavor.
+cherry,	NN,	cherry,	a small fleshy round fruit with a single hard stone; a red fruit with a single hard stone;a red the color of ripe cherries, I love to eat cherry;that is a cherry colored playdough.
+wreck,	VBD,	wrecked,	smash or break forcefully,  you wrecked up the house.
 line,	NN,	line,	a formation of people or things one beside another;a mark that is long relative to its width;a formation of people or things one behind another;a length (straight or curved;text consisting of a row of words written across a page or computer screen;a single frequency (or very narrow band;a fortified position (especially one marking the most forward position of troops;a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning;a conductor for transmitting electrical or optical signals or electric power;a connected series of events or actions or developments;a spatial location defined by a real or imaginary unidimensional extent;a slight depression or fold in the smoothness of a surface;a pipe used to transport liquids or gases;the road consisting of railroad track and roadbed;a telephone connection;acting in conformity;the descendants of one individual;something (as a cord or rope;the principal activity in your life that you do to earn money;in games or sports; a mark indicating positions or bounds of the playing area;(often plural;a particular kind of product or merchandise;a commercial organization serving as a common carrier;space for one line of print (one column wide and 1/14 inch deep;the maximum credit that a customer is allowed;a succession of notes forming a distinctive sequence;persuasive but insincere talk that is usually intended to deceive or impress;a short personal letter;a conceptual separation or distinction;mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it
-week,	NNS,	weeks,	any period of seven consecutive days;hours or days of work in a calendar week;a period of seven consecutive days starting on Sunday
-ago,	RB,	ago,	in the past
-crazy,	JJ,	crazy,	affected with madness or insanity;foolish; totally unsound;possessed by inordinate excitement;bizarre or fantastic;intensely enthusiastic about or preoccupied with
-syrup,	VB,	syrup,	--- No definition found for pos_key v ---
-tomorrow,	RB,	tomorrow,	the next day, the day after, following the present day
-salad,	NN,	salad,	food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens
-hour,	NN,	hour,	a period of time equal to 1/24th of a day;clock time;a special and memorable period;distance measured by the time taken to cover it
-busy,	JJ,	busy,	actively or fully engaged or occupied;overcrowded or cluttered with detail;intrusive in a meddling or offensive manner;crowded with or characterized by much activity;(of facilities such as telephones or lavatories;`engaged' is a British term for a busy telephone line
-frisbee,	NN,	frisbee,	a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
-peekaboo,	NN,	peekaboo,	a game played with young children; you hide your face and suddenly reveal it as you say boo!
-sock,	NNS,	socks,	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee;a truncated cloth cone mounted on a mast; used (e.g., at airports
-glove,	NNS,	gloves,	the handwear used by fielders in playing baseball;handwear: covers the hand and wrist;boxing equipment consisting of big and padded coverings for the fists of the fighters; worn for the sport of boxing
-sash,	NN,	sash,	a framework that holds the panes of a window in the window frame;a band of material around the waist that strengthens a skirt or trousers
-scarf,	NN,	scarf,	a garment worn around the head or neck or shoulders for warmth or decoration;a joint made by notching the ends of two pieces of timber or metal so that they will lock together end-to-end
-britches,	NN,	britches,	(used in the plural
-foot,	NNS,	feet,	the part of the leg of a human being below the ankle joint;a linear unit of length equal to 12 inches or a third of a yard;the lower part of anything;the pedal extremity of vertebrates other than human beings;lowest support of a structure;any of various organs of locomotion or attachment in invertebrates;travel by walking;a member of a surveillance team who works on foot or rides as a passenger;an army unit consisting of soldiers who fight on foot;(prosody;a support resembling a pedal extremity
-foot,	NN,	foot,	the part of the leg of a human being below the ankle joint;a linear unit of length equal to 12 inches or a third of a yard;the lower part of anything;the pedal extremity of vertebrates other than human beings;lowest support of a structure;any of various organs of locomotion or attachment in invertebrates;travel by walking;a member of a surveillance team who works on foot or rides as a passenger;an army unit consisting of soldiers who fight on foot;(prosody;a support resembling a pedal extremity
-laugh,	VBG,	laughing,	produce laughter
-laugh,	VBP,	laugh,	produce laughter
-stubborn,	JJ,	stubborn,	tenaciously unwilling or marked by tenacious unwillingness to yield;not responding to treatment
-snap,	VBP,	snap,	utter in an angry, sharp, or abrupt tone;separate or cause to separate abruptly;break suddenly and abruptly, as under tension;move or strike with a noise;close with a snapping motion;make a sharp sound;move with a snapping sound;to grasp hastily or eagerly;put in play with a snap;cause to make a snapping sound;lose control of one's emotions;bring the jaws together;record on photographic film
-wet,	JJ,	wet,	covered or soaked with a liquid such as water;containing moisture or volatile components;supporting or permitting the legal production and sale of alcoholic beverages;producing or secreting milk;consisting of or trading in alcoholic liquor;very drunk
-tie,	VB,	tie,	fasten or secure with a rope, string, or cord;finish a game with an equal number of points, goals, etc.;limit or restrict to;connect, fasten, or put together two or more pieces;form a knot or bow in;create social or emotional ties;perform a marriage ceremony;make by tying pieces together;unite musical notes by a tie
-rabbit,	NN,	rabbit,	any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food;the fur of a rabbit;flesh of any of various rabbits or hares (wild or domesticated
-pizza,	NN,	pizza,	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
-awful,	RB,	awfully,	used as intensifiers;of a dreadful kind;in a terrible manner
-awful,	JJ,	awful,	exceptionally bad or displeasing;causing fear or dread or terror;offensive or even (of persons;inspired by a feeling of fearful wonderment or reverence;extreme in degree or extent or amount or impact;inspiring awe or admiration or wonder
-napper,	NN,	napper,	--- No definition found for pos_key n ---
-cute,	JJ,	cute,	attractive especially by means of smallness or prettiness or quaintness;obviously contrived to charm
-hilarious,	JJ,	hilarious,	marked by or causing boisterous merriment or convulsive laughter
-teacher,	NN,	teacher,	a person whose occupation is teaching;a personified abstraction that teaches
-front,	NN,	front,	the side that is forward or prominent;the line along which opposing armies face each other;the outward appearance of a person;the side that is seen or that goes first;a person used as a cover for some questionable activity;a sphere of activity involving effort;(meteorology;the immediate proximity of someone or something;the part of something that is nearest to the normal viewer;a group of people with a common ideology who try together to achieve certain general goals
-grow,	VBN,	grown,	pass into a condition gradually, take on a specific property or attribute; become;become larger, greater, or bigger; expand or gain;increase in size by natural process;cause to grow or develop;develop and reach maturity; undergo maturation;come into existence; take on form or shape;cultivate by growing, often involving improvements by means of agricultural techniques;come to have or undergo a change of (physical features and attributes;grow emotionally or mature;become attached by or as if by the process of growth
-got,	VB,	got,	come into the possession of something concrete or abstract;enter or assume a certain state or condition;cause to move; cause to be in a certain position or condition;receive a specified treatment (abstract;reach a destination; arrive by movement or progress;go or come after and bring or take back;go through (mental or physical states or experiences;take vengeance on or get even;achieve a point or goal;cause to do; cause to act in a specified manner;succeed in catching or seizing, especially after a chase;come to have or undergo a change of (physical features and attributes;be stricken by an illness, fall victim to an illness;communicate with a place or person; establish communication with, as if by telephone;give certain properties to something;move into a desired direction of discourse;grasp with the mind or develop an understanding of;attract and fix;reach with a blow or hit in a particular spot;reach by calculation;acquire as a result of some effort or action;purchase;perceive by hearing;suffer from the receipt of;receive as a retribution or punishment;leave immediately; used usually in the imperative form;reach and board;irritate;evoke an emotional response;apprehend and reproduce accurately;earn or achieve a base by being walked by the pitcher;overcome or destroy;be a mystery or bewildering to;take the first step or steps in carrying out an action;undergo (as of injuries and illnesses;make (offspring
-lie,	VBD,	lied,	be located or situated somewhere; occupy a certain position;be lying, be prostrate; be in a horizontal position;originate (in;be and remain in a particular state or condition;tell an untruth; pretend with intent to deceive;have a place in relation to something else;assume a reclining position
-pillow,	VBP,	pillow,	rest on or as if on a pillow
-stink,	VBP,	stink,	be extremely bad in quality or in one's performance;smell badly and offensively
-jewelry,	NN,	jewelry,	an adornment (as a bracelet or ring or necklace;or imitation gems
-alligator,	NNS,	alligators,	leather made from alligator's hide;either of two amphibious reptiles related to crocodiles but with shorter broader snouts
-forever,	RB,	forever,	for a limitless time;for a very long or seemingly endless time;without interruption
-slick,	JJ,	slick,	made slick by e.g. ice or grease;superficially impressive, but lacking depth and attention to the true complexities of a subject;having only superficial plausibility;having a smooth, gleaming surface reflecting light;marked by skill in deception
-chief,	NN,	chief,	a person who is in charge;a person who exercises control over workers;the head of a tribe or clan
-
-
+week,	NNS,	weeks,	any period of seven consecutive days;hours or days of work in a calendar week;a period of seven consecutive days starting on Sunday,    we went on a vacation for three weeks;my school opens after 2 weeks from now.  
+ago,	RB,	ago,	in the past,    it was koolaid a minute ago;he was bad seven years ago;there were dinosaurs on the earth a million years ago.
+crazy,	JJ,	crazy,	affected with madness or insanity;foolish; totally unsound;possessed by inordinate excitement;bizarre or fantastic, she is crazy;the evening's event was crazy as hell.
+tomorrow,	RB,	tomorrow,	the next day, the day after, following the present day, I'll see you tomorrow;I won't see you tomorrow.
+salad,	NN,	salad,	food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens, I will get some salad from bakery;I love fruit salad.
+hour,	NN,	hour,	a period of time equal to 1/24th of a day;clock time;a special and memorable period;distance measured by the time taken to cover it,    I will be at school in an hour;I will sleep for an hour;let us all play for an hour.
+busy,	JJ,	busy,	actively or fully engaged or occupied;overcrowded or cluttered with detail, I am busy playing hide and seek;santa is very busy on christmas eve.
+frisbee,	NN,	frisbee,	a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition,   you're good at frisbee;do you know how to play frisbee?
+peekaboo,	NN,	peekaboo,	a game played with young children; you hide your face and suddenly reveal it as you say boo,    let us play peekaboo with my bear.
+sock,	NNS,	socks,	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee,   put on you socks and wear shoes;
+glove,	NNS,	gloves,	the handwear used by fielders in playing baseball;handwear: covers the hand and wrist,  are you wearing gloves?;santa wears white gloves;even boxers wear gloves.
+sash,	NN,	sash,	a band of material around the waist that strengthens a skirt or trousers,   you are going to put on sash?;you look cure with a sash on.
+scarf,	NN,	scarf,	a garment worn around the head or neck or shoulders for warmth or decoration,   does mom wear a scarf?;children have to wear scarf in winter.
+britches,	NN,	britches,	Breeches are an article of clothing covering the body from the waist down, with separate coverings for each leg, usually stopping just below the knee, though in some cases reaching to the ankles, do you wear britches? I wear britches on some days.
+foot,	NNS,	feet,	the part of the leg of a human being below the ankle joint, he is dragging his feet;those are his feet;get off dolly's feet;your feet are so small like a baby's.
+foot,	NN,	foot,	the part of the leg of a human being below the ankle joint, diaper goes on her foot.
+laugh,	VBG,	laughing,	produce laughter,   this is so funny that I cannot stop laughing;my toy is laughing at you.
+laugh,	VBP,	laugh,	produce laughter,   what makes you laugh?;do not laugh at me.
+stubborn,	JJ,	stubborn,	tenaciously unwilling or marked by tenacious unwillingness to yield;not responding to treatment,    he is very stubborn;it is being stubborn.
+snap,	VBP,	snap,	separate or cause to separate abruptly;break suddenly and abruptly, as under tension;move or strike with a noise,   you have to snap the dress;it his hard to snap;can you snap it?
+wet,	JJ,	wet,	covered or soaked with a liquid such as water;containing moisture or volatile components,   they will get wet in rain;you are going to have a wet baby.
+tie,	VB,	tie,	fasten or secure with a rope, string, or cord;connect, fasten, or put together two or more pieces;form a knot or bow in,    where do you want me to tie it ?;tie the dog with a dogtag around his neck.
+rabbit,	NN,	rabbit,	any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food,   rabbit loves to eat carrots;it is not a rabbit;this rabbit is white in color;I have a rabbit at home
+pizza,	NN,	pizza,	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese, let us make pizza for breakfast;pizza with mozarilla topping is delicious;pizza in Domino's restaurant is the best.
+awful,	RB,	awfully,	used as intensifiers;of a dreadful kind;in a terrible manner,   Santa's awfully busy today;grandma's awfully reckless isn't she ?;but that was awfully nice.
+awful,	JJ,	awful,	exceptionally bad or displeasing;causing fear or dread or terror,   this sounds awful;
+cute,	JJ,	cute,	attractive especially by means of smallness or prettiness or quaintness;obviously contrived to charm,    this is so cute;my dolls are cute;I play with cute dolls;the babies are awfully cute.
+hilarious,	JJ,	hilarious,	marked by or causing boisterous merriment or convulsive laughter,   that joke of yours was hilarious;this tv show to way too hilarious.
+teacher,	NN,	teacher,	a person whose occupation is teaching;a personified abstraction that teaches,   my class teacher is Ms.Mary;I will complain to your teacher that you are not going to school;my teacher teaches well.
+front,	NN,	front,	the side that is forward or prominent;the side that is seen or that goes first, you jumped in front of that box and I knew it was in there;it's in the front yard now;you press the button in the front.
+grow,	VBN,	grown,	pass into a condition gradually, take on a specific property or attribute; become;become larger, greater, or bigger; expand or gain;increase in size by natural process,    this baby has grown quickly;she have grown 2 inches taller since last year.
+got,	VB,	got,	come into the possession of something concrete or abstract, I got a big room;I have got 10 toys;she got pets;you got it?.
+lie,	VBD,	lie,	be located or situated somewhere; occupy a certain position;be lying, be prostrate; be in a horizontal position,    does she wanna lie down by the fireplace ?.
+pillow,	NN,	pillow,	rest on or as if on a pillow,   she needs a pillow;do you have a pillow to sleep
+stink,	VBP,	stink,	be extremely bad in quality or in one's performance;smell badly and offensively,    you are a big stink;you are just being a stink.
+jewelry,	NN,	jewelry,	an adornment (as a bracelet or ring or necklace),   I am going to make some jewelry with playdough;I will wear jewelry to the party.
+alligator,	NNS,	alligators,	either of two amphibious reptiles related to crocodiles but with shorter broader snouts, you eat alligators?;your mouth is as big as an aligator's.
+forever,	RB,	forever,	for a limitless time;for a very long or seemingly endless time, waht if you have to be a frog forever;you will be a child forever;cendrella will be my favorite forever.
 cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain,   is that cool?;How cool is my idea?;This place is so cool.
 gosh,	UH,	gosh,	used to express surprise or give emphasis,  gosh,you are a good cook;gosh you play well
 turtle,	NN,	turtle,	any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming,   this one looks like a turtle;a turtle can live in water and on land;turtle walks slowly
