@@ -1286,24 +1286,20 @@ helmet,	NN,	helmet,	armor plate that protects the head;a protective headgear mad
 
 
 
-strawberrys,	NNP,	strawberrys,	sweet fleshy red fruit;any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry;a soft red birthmark
-middle,	NN,	middle,	an area that is approximately central within some larger region;an intermediate part or section;the middle area of the human torso (usually in front;time between the beginning and the end of a temporal period
-catched,	VBD,	catched,	--- No definition found for pos_key v ---
-store,	NN,	store,	a mercantile establishment for the retail sale of goods or services;a supply of something available for future use;an electronic memory device;a depository for goods
-brown,	NN,	brown,	an orange of low brightness and saturation;Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858;abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859;a university in Rhode Island
-bumpy,	JJ,	bumpy,	causing or characterized by jolts and irregular movements;covered with or full of bumps
-backwards,	RB,	backwards,	at or to or toward the back or rear;in a manner or order or direction the reverse of normal
-tent,	NN,	tent,	a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs;a web that resembles a tent or carpet
-straight,	JJ,	straight,	successive (without a break;having no deviations;(of hair;erect in posture;in keeping with the facts;characterized by honesty and fairness;no longer coiled;free from curves or angles;neatly arranged; not disorderly;not homosexual;accurately fitted; level;without evasion or compromise;(of an alcoholic drink;following a correct or logical method;rigidly conventional or old-fashioned
-excited,	JJ,	excited,	(of persons;in an aroused state;marked by uncontrolled excitement or emotion;(of e.g. a molecule
-fierce,	JJ,	fierce,	marked by extreme and violent energy;marked by extreme intensity of emotions or convictions; inclined to react violently; fervid;ruthless in competition;violently agitated and turbulent
-four,	CD,	four,	--- No definition found for pos_key m ---
-four,	NN,	four,	the cardinal number that is the sum of three and one;a playing card or domino or die whose upward face shows four pips
-double,	JJ,	double,	having more than one decidedly dissimilar aspects or qualities;or dual;consisting of or involving two parts or components usually in pairs;binary;or double;or a multiple of two;twice as great or many;used of flowers having more than the usual number of petals in crowded or overlapping arrangements;used of homologous chromosomes associated in pairs in synapsis;large enough for two;having two meanings with intent to deceive
-chocolate,	NN,	chocolate,	a beverage made from cocoa powder and milk and sugar; usually drunk hot;a food made from roasted ground cacao beans;a medium brown to dark-brown color
-milky,	JJ,	milky,	resembling milk in color; not clear
-happy,	JJ,	happy,	enjoying or showing or marked by joy or pleasure;marked by good fortune;eagerly disposed to act or to be of service;well expressed and to the point
-heed,	VB,	heed,	pay close attention to; give heed to
+strawberrys,	NNP,	strawberrys,	sweet fleshy red fruit;any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry,  it sure was a strawberry birthday cake;I like strawberry flavored chocolate;do you like strawberry?. 
+middle,	NN,	middle,	an area that is approximately central within some larger region;an intermediate part or section,    park the car in the middle;this toy is a middle sized one; put this in the middle of the van.
+store,	NN,	store,	a mercantile establishment for the retail sale of goods or services,    I bought this at a store;we have to go to a store before christmas.
+brown,	NN,	brown,	an orange of low brightness and saturation, I have a brown dog;the brown bear is the cutest among all toys in the store.
+bumpy,	JJ,	bumpy,	causing or characterized by jolts and irregular movements;covered with or full of bumps,    it is a bumpy road;I cannot skate on a bumpy road;bumpy roads are hard to drive on.
+backwards,	RB,	backwards,	at or to or toward the back or rear;in a manner or order or direction the reverse of normal,     He is driving backwards;I put the car backwards and it remained like that.
+tent,	NN,	tent,	a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs,   I'm gonna build a big tent for the animals;I thought they lived in tent.
+straight,	JJ,	straight,	successive (without a break;having no deviations),  let us build a straight fence; drive the tractor straight.
+excited,	JJ,	excited,	(of persons;in an aroused state;marked by uncontrolled excitement or emotion,   are you getting excited about Santa Claus;you are so excited for your birthday.
+fierce,	JJ,	fierce,	marked by extreme and violent energy;marked by extreme intensity of emotions or convictions; inclined to react violently; fervid;ruthless in competition;violently agitated and turbulent,  those lions are fierce;you mush grow up to be a fierce woman.
+four,	NN,	four,	the cardinal number that is the sum of three and one,   I am going to be four years old;I have four remote cars;
+double,	JJ,	double,	having more than one decidedly dissimilar aspects or qualities,	how about some double bubble and some candy ?;I can blow the bubbles double the size of yours.
+chocolate,	NN,	chocolate,	a beverage made from cocoa powder and milk and sugar; usually drunk hot;a food made from roasted ground cacao beans,    I love chocolate;my mama got me a chocolate cake on my birthday.
+happy,	JJ,	happy,	enjoying or showing or marked by joy or pleasure,   I am very happy for my pet;happy birthday Anna;I am very happy to be back home.
 pottie,	NN,	pottie,	--- No definition found for pos_key n ---
 pottie,	JJ,	pottie,	--- No definition found for pos_key j ---
 pottywotty,	NN,	pottywotty,	--- No definition found for pos_key n ---
@@ -1383,6 +1379,8 @@ repeat,	VB,	repeat,	to say, state, or perform again;make or do or perform again;
 
 
 
+
+//done tagging
 
 crack,	VB,	crack,	become fractured; break or crack on the surface only;make a very sharp explosive sound;make a sharp sound;hit forcefully; deal a hard blow, making a cracking noise,    I heard something crack; the playdough dried up and I saw it crack.
 chunky,	JJ,	chunky,	like or containing small sticky lumps, my koolaid is chunky.
