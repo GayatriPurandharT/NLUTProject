@@ -998,6 +998,13 @@ Nonoke,	NNP,	Nonoke,	--- No definition found for pos_key n ---
 fun,	NN,	fun,	activities that are enjoyable or amusing;verbal wit or mockery (often at another's expense but not to be taken seriously;violent and excited activity;a disposition to find (or make
 panties,	NNS,	panties,	short underpants for women or children (usually used in the plural;short underpants for women or children (usually used in the plural
 contrary,	JJ,	contrary,	very opposed in nature or character or purpose;of words or propositions so related that both cannot be true but both may be false;resistant to guidance or discipline;in an opposing direction
+
+
+
+
+
+// gayatri
+
 morning,	NN,	morning,	the time period between dawn and noon;a conventional expression of greeting or farewell;the first light of day;the earliest period
 believe,	VBP,	believe,	accept as true; take to be true;judge or regard; look upon; judge;be confident about something;follow a credo; have a faith; be a believer;credit with veracity
 believe,	VB,	believe,	accept as true; take to be true;judge or regard; look upon; judge;be confident about something;follow a credo; have a faith; be a believer;credit with veracity
@@ -1085,7 +1092,6 @@ purple,	JJ,	purple,	of a color intermediate between red and blue;excessively ela
 moustache,	NN,	moustache,	an unshaved growth of hair on the upper lip
 hole,	NN,	hole,	an opening into or through something;an opening deliberately made in or through something;one playing period (from tee to green;an unoccupied space;a depression hollowed out of solid matter;a fault;informal terms for a difficult situation;informal terms for the mouth
 hole,	NNS,	holes,	an opening into or through something;an opening deliberately made in or through something;one playing period (from tee to green;an unoccupied space;a depression hollowed out of solid matter;a fault;informal terms for a difficult situation;informal terms for the mouth
-Christy,	NNP,	Christy,	--- No definition found for pos_key n ---
 name,	VBN,	named,	assign a specified (usually proper;give the name or identifying characteristics of; refer to by name or some other identifying characteristic property;charge with a function; charge to be;create and charge with a task or function;mention and identify by name;make reference to;identify as in botany or biology, for example;give or make a list of; name individually; give the names of;determine or distinguish the nature of a problem or an illness through a diagnostic analysis
 name,	NN,	name,	a language unit by which a person or thing is known;a person's reputation;family based on male descent;a well-known or notable person;by the sanction or authority of;a defamatory or abusive word or phrase
 jelly,	NN,	jelly,	an edible jelly (sweet or pungent;a preserve made of the jelled juice of fruit;any substance having the consistency of jelly or gelatin
@@ -1099,16 +1105,10 @@ heavy,	JJ,	heavy,	of comparatively great physical weight or density;unusually gr
 push,	NN,	push,	the act of applying force in order to move something away;the force used in pushing;enterprising or ambitious drive;an electrical switch operated by pressing;an effort to advance
 push,	VB,	push,	move with force;press, drive, or impel (someone;make publicity for; try to sell (a product;strive and make an effort to reach a goal;press against forcefully without moving;approach a certain age or speed;exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for;sell or promote the sale of (illegal goods such as drugs;move strenuously and with effort;make strenuous pushing movements during birth to expel the baby
 smoke,	NN,	smoke,	a cloud of fine particles suspended in a gas;a hot vapor containing fine particles of carbon being produced by combustion;an indication of some hidden activity;something with no concrete substance;tobacco leaves that have been made into a cylinder;street names for marijuana;the act of smoking tobacco or other substances;(baseball
-ah,	NN,	ah,	--- No definition found for pos_key n ---
-ah,	NNS,	ah,	--- No definition found for pos_key n ---
 beep,	VBP,	beep,	make a loud noise;call, summon, or alert with a beeper
 beep,	NN,	beep,	a short high tone produced as a signal or warning
 boot,	NNS,	boots,	footwear that covers the whole foot and lower leg;compartment in an automobile that carries luggage or shopping or tools;the swift release of a store of affective force;protective casing for something that resembles a leg;an instrument of torture that is used to heat or crush the foot and leg;a form of foot torture in which the feet are encased in iron and slowly crushed;the act of delivering a blow with the foot
-Hm,	NNP,	hm,	a metric unit of length equal to 100 meters
-gramma,	NNS,	gramma,	pasture grass of plains of South America and western North America
 till,	IN,	till,	--- No definition found for pos_key i ---
-bambi,	NNS,	bambi,	--- No definition found for pos_key n ---
-bambi,	NN,	bambi,	--- No definition found for pos_key n ---
 stop,	VB,	stop,	come to a halt, stop moving;put an end to a state or an activity;stop from happening or developing;interrupt a trip;cause to stop;prevent completion;hold back, as of a danger or an enemy; check the expansion or influence of;seize on its way;have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical;render unsuitable for passage;stop and wait, as if awaiting further instructions or developments
 stop,	VBG,	stopping,	come to a halt, stop moving;put an end to a state or an activity;stop from happening or developing;interrupt a trip;cause to stop;prevent completion;hold back, as of a danger or an enemy; check the expansion or influence of;seize on its way;have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical;render unsuitable for passage;stop and wait, as if awaiting further instructions or developments
 deer,	NN,	deer,	distinguished from Bovidae by the male's having solid deciduous antlers
@@ -1128,8 +1128,6 @@ dough,	NN,	dough,	a flour mixture stiff enough to knead or roll;informal terms f
 crumbly,	JJ,	crumbly,	easily broken into small fragments or reduced to powder
 crumble,	VBZ,	crumbles,	fall apart;break or fall apart into fragments;fall into decay or ruin
 grandmother,	NN,	grandmother,	the mother of your father or mother
-um,	RB,	um,	--- No definition found for pos_key a ---
-um,	NN,	um,	--- No definition found for pos_key n ---
 river,	NN,	river,	a large natural stream of water (larger than a creek
 boom,	NN,	boom,	a deep prolonged loud noise;a state of economic prosperity;a sudden happening that brings good fortune (as a sudden opportunity to make money;a pole carrying an overhead microphone projected over a film or tv set;any of various more-or-less horizontal spars or poles used to extend the foot of a sail or for handling cargo or in mooring
 boom,	VB,	boom,	make a resonant sound, like artillery;hit hard;be the case that thunder is being heard;make a deep hollow sound;grow vigorously
@@ -1154,8 +1152,6 @@ pie,	NN,	pie,	dish baked in pastry-lined pan often with a pastry top;a prehistor
 messy,	JJ,	messy,	dirty and disorderly
 eater,	NNS,	eaters,	someone who consumes food for nourishment;any green goods that are good to eat
 stomach,	NN,	stomach,	an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion;the region of the body of a vertebrate between the thorax and the pelvis;an inclination or liking for things involving conflict or difficulty or unpleasantness;an appetite for food
-yum,	NN,	yum,	--- No definition found for pos_key n ---
-goned,	JJ,	goned,	--- No definition found for pos_key j ---
 Samsom,	NNP,	Samsom,	--- No definition found for pos_key n ---
 rotten,	JJ,	rotten,	very bad;damaged by decay; hence unsound and useless;having decayed or disintegrated; usually implies foulness
 worm,	NNS,	worms,	any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae;a person who has a nasty or unethical character undeserving of respect;a software program capable of reproducing itself that can spread from one computer to the next over a network;screw thread on a gear with the teeth of a worm wheel or rack
@@ -1184,13 +1180,17 @@ puppet,	NNS,	puppets,	a small figure of a person operated from above with string
 Elaina,	NNP,	Elaina,	--- No definition found for pos_key n ---
 froggie,	NN,	froggie,	--- No definition found for pos_key n ---
 number,	NN,	number,	the property possessed by a sum or total or indefinite quantity of units or individuals;a concept of quantity involving zero and units;a short performance that is part of a longer program;the number is used in calling a particular telephone;a symbol used to represent a number;one of a series published periodically;a select company of people;a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc.;a clothing measurement;a numbered item in a series;the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural;an item of clothing
+
+
+
+
+
 napkin,	NNS,	napkins,	a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing;garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement
 napkin,	NN,	napkin,	a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing;garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement
 fold,	VBP,	fold,	bend or lay so that one part covers the other;incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating;cease to operate or cause to cease operating;confine in a fold, like sheep;become folded or folded up
 straighten,	VB,	straighten,	straighten up or out; make straight;make straight;get up from a sitting or slouching position;put (things or places;straighten by unrolling;make straight or straighter
 tennis,	NN,	tennis,	a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court
 square,	NN,	square,	(geometry;the product of two equal terms;an open area at the meeting of two or more streets;something approximating the shape of a square;someone who doesn't understand what is going on;a formal and conservative person with old-fashioned views;any artifact having a shape similar to a plane geometric figure with four equal sides and four right angles;a hand tool consisting of two straight arms at right angles; used to construct or test right angles
-Mandm,	NNS,	Mandms,	--- No definition found for pos_key n ---
 person,	NN,	person,	a human being;a human body (usually including the clothing;a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party
 remember,	VB,	remember,	recall knowledge from memory; have a recollection;keep in mind for attention or consideration;recapture the past; indulge in memories;show appreciation to;mention favorably, as in prayer;mention as by way of greeting or to indicate friendship;exercise, or have the power of, memory;call to remembrance; keep alive the memory of someone or something, as in a ceremony
 remember,	VBP,	remember,	recall knowledge from memory; have a recollection;keep in mind for attention or consideration;recapture the past; indulge in memories;show appreciation to;mention favorably, as in prayer;mention as by way of greeting or to indicate friendship;exercise, or have the power of, memory;call to remembrance; keep alive the memory of someone or something, as in a ceremony
@@ -1258,16 +1258,12 @@ yell,	VBZ,	yells,	utter a sudden loud cry;utter or declare in a very loud voice
 yell,	VB,	yell,	utter a sudden loud cry;utter or declare in a very loud voice
 wake,	NN,	wake,	the consequences of an event (especially a catastrophic event;an island in the western Pacific between Guam and Hawaii;the wave that spreads behind a boat as it moves forward;a vigil held over a corpse the night before burial
 haunted,	JJ,	haunted,	having or showing excessive or compulsive concern with something;showing emotional affliction or disquiet;inhabited by or as if by apparitions
-graham,	NN,	graham,	United States evangelical preacher famous as a mass evangelist (born in 1918;United States dancer and choreographer whose work was noted for its austerity and technical rigor (1893-1991;flour made by grinding the entire wheat berry including the bran; (`whole meal flour' is British usage
 daytime,	NN,	daytime,	the time after sunrise and before sunset while it is light outside
 leaf,	NN,	leaf,	the main organ of photosynthesis and transpiration in higher plants;a sheet of any written or printed material (especially in a manuscript or book;hinged or detachable flat section (as of a table or door
 pet,	VBP,	pet,	stroke or caress gently;stroke or caress in an erotic manner, as during lovemaking
-lily,	NN,	lily,	any liliaceous plant of the genus Lilium having showy pendulous flowers
-pad,	NNS,	pads,	a number of sheets of paper fastened together along one edge;the large floating leaf of an aquatic plant (as the water lily;a block of absorbent material saturated with ink; used to transfer ink evenly to a rubber stamp;a flat mass of soft material used for protection, stuffing, or comfort;a platform from which rockets or space craft are launched;temporary living quarters;the fleshy cushion-like underside of an animal's foot or of a human's finger
+lilypad,	NN,	lily,	any liliaceous plant of the genus Lilium having showy pendulous flowers
 day,	NN,	day,	time for Earth to make a complete rotation on its axis;some point or period in time;a day assigned to a particular purpose or observance;the time after sunrise and before sunset while it is light outside;the recurring hours when you are not sleeping (especially those when you are working;an era of existence or influence;the period of time taken by a particular planet (e.g. Mars;the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day;a period of opportunity;United States writer best known for his autobiographical works (1874-1935
 nope,	NN,	nope,	--- No definition found for pos_key n ---
-Max,	NNP,	Max,	street names for gamma hydroxybutyrate
-Davenport,	NNP,	Davenport's,	a city in eastern Iowa on the Mississippi River across from Moline and Rock Island;a small decorative writing desk;a large sofa usually convertible into a bed
 helper,	NN,	helper,	a person who contributes to the fulfillment of a need or furtherance of an effort or purpose;a person who helps people or institutions (especially with financial help
 half,	NN,	half,	one of two equal parts of a divisible whole;one of two divisions into which some games or performances are divided: the two divisions are separated by an interval
 decorate,	VB,	decorate,	make more attractive by adding ornament, colour, etc.;be beautiful to look at;award a mark of honor, such as a medal, to;provide with decoration
@@ -1277,19 +1273,19 @@ checkers,	NNS,	checkers,	an attendant who checks coats or baggage;one who checks
 checkers,	NN,	checkers,	an attendant who checks coats or baggage;one who checks the correctness of something;one of the flat round pieces used in playing the game of checkers;a checkerboard game for two players who each have 12 pieces; the object is to jump over and so capture the opponent's pieces
 sand,	NN,	sand,	a loose material consisting of grains of rock or coral;French writer known for works concerning women's rights and independence (1804-1876;fortitude and determination
 cough,	VB,	cough,	exhale abruptly, as when one has a chest cold or congestion
-Zap,	NNP,	Zap,	a sudden event that imparts energy or excitement, usually with a dramatic impact
 track,	NN,	track,	a line or route along which something travels or moves;evidence pointing to a possible solution;a pair of parallel rails providing a runway for wheels;a course over which races are run;a distinct selection of music from a recording or a compact disc;an endless metal belt on which tracked vehicles move over the ground;(computer science;a groove on a phonograph recording;a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll;any road or path affording passage especially a rough one;the act of participating in an athletic competition involving running on a track
 track,	NNS,	tracks,	a line or route along which something travels or moves;evidence pointing to a possible solution;a pair of parallel rails providing a runway for wheels;a course over which races are run;a distinct selection of music from a recording or a compact disc;an endless metal belt on which tracked vehicles move over the ground;(computer science;a groove on a phonograph recording;a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll;any road or path affording passage especially a rough one;the act of participating in an athletic competition involving running on a track
 race,	NN,	race,	any competition;a contest of speed;people who are believed to belong to the same genetic stock;(biology;the flow of air that is driven backwards by an aircraft propeller;a canal for a current of water
-Zapzap,	NNP,	Zapzap,	--- No definition found for pos_key n ---
 radio,	NN,	radio,	medium for communication;an electronic receiver that detects and demodulates and amplifies transmitted signals;a communication system based on broadcasting electromagnetic waves
 football,	NN,	football,	any of various games played with a ball (round or oval;the inflated oblong ball used in playing American football
 helmet,	NN,	helmet,	armor plate that protects the head;a protective headgear made of hard material to resist blows
+
+
+
 strawberrys,	NNP,	strawberrys,	sweet fleshy red fruit;any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry;a soft red birthmark
 middle,	NN,	middle,	an area that is approximately central within some larger region;an intermediate part or section;the middle area of the human torso (usually in front;time between the beginning and the end of a temporal period
 catched,	VBD,	catched,	--- No definition found for pos_key v ---
 store,	NN,	store,	a mercantile establishment for the retail sale of goods or services;a supply of something available for future use;an electronic memory device;a depository for goods
-alrightie,	NN,	alrightie,	--- No definition found for pos_key n ---
 brown,	NN,	brown,	an orange of low brightness and saturation;Scottish botanist who first observed the movement of small particles in fluids now known a Brownian motion (1773-1858;abolitionist who was hanged after leading an unsuccessful raid at Harper's Ferry, Virginia (1800-1859;a university in Rhode Island
 bumpy,	JJ,	bumpy,	causing or characterized by jolts and irregular movements;covered with or full of bumps
 backwards,	RB,	backwards,	at or to or toward the back or rear;in a manner or order or direction the reverse of normal
@@ -1312,7 +1308,6 @@ hose,	NN,	hose,	socks and stockings and tights collectively (the British include
 bench,	NN,	bench,	a long seat for more than one person;a level shelf of land interrupting a declivity (with steep slopes above and below;persons who administer justice;a strong worktable for a carpenter or mechanic;the magistrate or judge or judges sitting in court in judicial capacity to compose the court collectively;the reserve players on a team
 quite,	RB,	quite,	to a degree (not used with a negative;to the greatest extent; completely;of an unusually noticeable or exceptional or remarkable kind (not used with a negative;actually or truly or to an extreme
 lovable,	JJ,	lovable,	having characteristics that attract love or affection
-mm.,	NN,	mm,	--- No definition found for pos_key n ---
 tricky,	JJ,	tricky,	not to be trusted;having concealed difficulty;marked by skill in deception
 figure,	VBD,	figured,	judge to be probable;be or play a part of or in;imagine; conceive of; see in one's mind;make a mathematical calculation or computation;understand
 figure,	VB,	figure,	judge to be probable;be or play a part of or in;imagine; conceive of; see in one's mind;make a mathematical calculation or computation;understand
@@ -1322,13 +1317,11 @@ bang,	NN,	bang,	a vigorous blow;a sudden very loud noise;a border of hair that i
 whip,	VBD,	whipped,	beat severely with a whip or rod;defeat thoroughly;thrash about flexibly in the manner of a whiplash;strike as if by whipping;whip with or as if with a wire whisk;subject to harsh criticism
 piece,	NNS,	pieces,	a separate part of a whole;an item that is an instance of some type;a portion of a natural object;a musical work that has been created;an instance of some kind;an artistic or literary composition;a portable gun;a serving that has been cut from a larger portion;a distance;a work of art of some artistic value;a period of indeterminate length (usually short;a share of something;game equipment consisting of an object used in playing certain board games
 piece,	NN,	piece,	a separate part of a whole;an item that is an instance of some type;a portion of a natural object;a musical work that has been created;an instance of some kind;an artistic or literary composition;a portable gun;a serving that has been cut from a larger portion;a distance;a work of art of some artistic value;a period of indeterminate length (usually short;a share of something;game equipment consisting of an object used in playing certain board games
-Jen,	NNP,	Jen,	--- No definition found for pos_key n ---
 rubber,	NN,	rubber,	an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus;any of various synthetic elastic materials whose properties resemble natural rubber;a contest consisting of a series of successive matches between the same sides;an eraser made of rubber (or of a synthetic material with properties similar to rubber;contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse;a waterproof overshoe that protects shoes from water or snow
 duckie,	NN,	duckie,	--- No definition found for pos_key n ---
 Bert,	NNP,	Bert,	--- No definition found for pos_key n ---
 sesame,	NN,	sesame,	East Indian annual erect herb; source of sesame seed or benniseed and sesame oil
 street,	NN,	street,	a thoroughfare (usually including sidewalks;the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel;the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction;a situation offering opportunities;people living or working on the same street
-Ernie,	NNP,	Ernie,	--- No definition found for pos_key n ---
 fish,	NN,	fish,	any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills;the flesh of fish used as food;(astrology;the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20
 salmon,	NN,	salmon,	any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn;a tributary of the Snake River in Idaho;flesh of any of various marine or freshwater fish of the family Salmonidae;a pale pinkish orange color
 tease,	VBG,	teasing,	annoy persistently;harass with persistent criticism or carping;to arouse hope, desire, or curiosity without satisfying them;tear into pieces;raise the nap of (fabrics;disentangle and raise the fibers of;separate the fibers of;mock or make fun of playfully;ruffle (one's hair
@@ -1360,7 +1353,6 @@ early,	JJ,	early,	at or near the beginning of a period of time or course of even
 deal,	NN,	deal,	a particular instance of buying or selling;an agreement between parties (usually arrived at after discussion;a plank of softwood (fir or pine board;wood that is easy to saw (from conifers such as pine or fir;the cards held in a card game by a given player at any given time;the type of treatment received (especially as the result of an agreement;the act of distributing playing cards;the act of apportioning or distributing something
 life,	NN,	life,	a characteristic state or mode of living;the experience of being alive; the course of human events and activities;the course of existence of an individual; the actions and events that occur in living;the condition of living or the state of being alive;the period during which something is functional (as between birth and death;the period between birth and the present time;the period from the present until death;a living person;animation and energy in action or expression;living things collectively;the organic phenomenon that distinguishes living organisms from nonliving ones;an account of the series of events making up a person's life;a motive for living;a prison term lasting as long as the prisoner lives
 kefir,	NN,	kefir,	--- No definition found for pos_key n ---
-Jenny,	NNP,	Jenny,	United States architect who designed the first skyscraper in which a metal skeleton was used (1832-1907;female donkey
 snack,	NN,	snack,	a light informal meal
 lego,	NNS,	legos,	(trademark
 count,	VB,	count,	determine the number or amount of;have weight; have import, carry weight;show consideration for; take into account;name or recite the numbers in ascending order;put into a group;include as if by counting;have a certain value or carry a certain weight;have faith or confidence in;take account of
@@ -1380,20 +1372,19 @@ building,	NNS,	buildings,	a structure that has a roof and walls and stands more 
 alphabet,	NN,	alphabet,	a character set that includes letters and is used to write a language;the elementary stages of any subject (usually plural
 abc,	NN,	abc,	the elementary stages of any subject (usually plural
 tummy,	NN,	tummy,	slang for a paunch;an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion
-blaach,	NN,	blaach,	--- No definition found for pos_key n ---
 drop,	NN,	drop,	a shape that is spherical and small;a small indefinite quantity (especially of a liquid;a sudden sharp decrease in some quantity;a steep high face of rock;a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property;a free and rapid descent by the force of gravity;a curtain that can be lowered and raised onto a stage from the flies; often used as background scenery;a central depository where things can be left or picked up;the act of dropping something
 drop,	VBD,	dropped,	let fall to the ground;to fall vertically;go down in value;fall or descend to a lower place or level;terminate an association with;utter with seeming casualness;stop pursuing or acting;remove (cargo, people, etc.;cause to fall by or as if by delivering a blow;lose (a game;pay out;lower the pitch of (musical notes;hang freely;stop associating with;let or cause to fall in drops;get rid of;take (a drug, especially LSD;omit (a letter or syllable;leave undone or leave out;change from one level to another;fall or sink into a state of exhaustion or death;grow worse;give birth; used for animals
 plenty,	NN,	plenty,	a full supply
 repeat,	VB,	repeat,	to say, state, or perform again;make or do or perform again;happen or occur again;to say again or imitate;do over;repeat an earlier theme of a composition
-Grover,	NNP,	Grover's,	--- No definition found for pos_key n ---
-crack,	VB,	crack,	become fractured; break or crack on the surface only;make a very sharp explosive sound;make a sharp sound;hit forcefully; deal a hard blow, making a cracking noise;pass through (a barrier;break partially but keep its integrity;break suddenly and abruptly, as under tension;gain unauthorized access computers with malicious intentions;suffer a nervous breakdown;tell spontaneously;cause to become cracked;reduce (petroleum;break into simpler molecules by means of heat
-Jessie,	NNP,	Jessie,	--- No definition found for pos_key n ---
+
+
+
+
+crack,	VB,	crack,	become fractured; break or crack on the surface only;make a very sharp explosive sound;make a sharp sound;hit forcefully; deal a hard blow, making a cracking noise;
 chunky,	JJ,	chunky,	like or containing small sticky lumps;short and thick; as e.g. having short legs and heavy musculature
-without,	IN,	without,	--- No definition found for pos_key i ---
 gobble,	NN,	gobble,	the characteristic sound made by a turkey cock
 flavor,	NN,	flavor,	the general atmosphere of a place or situation and the effect that it has on people;the taste experience when a savoury condiment is taken into the mouth;(physics
 cherry,	NN,	cherry,	wood of any of various cherry trees especially the black cherry;any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood;a red fruit with a single hard stone;a red the color of ripe cherries
-ho,	NN,	ho,	a trivalent metallic element of the rare earth group; occurs together with yttrium; forms highly magnetic compounds
 wreck,	VBD,	wrecked,	smash or break forcefully
 line,	NN,	line,	a formation of people or things one beside another;a mark that is long relative to its width;a formation of people or things one behind another;a length (straight or curved;text consisting of a row of words written across a page or computer screen;a single frequency (or very narrow band;a fortified position (especially one marking the most forward position of troops;a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning;a conductor for transmitting electrical or optical signals or electric power;a connected series of events or actions or developments;a spatial location defined by a real or imaginary unidimensional extent;a slight depression or fold in the smoothness of a surface;a pipe used to transport liquids or gases;the road consisting of railroad track and roadbed;a telephone connection;acting in conformity;the descendants of one individual;something (as a cord or rope;the principal activity in your life that you do to earn money;in games or sports; a mark indicating positions or bounds of the playing area;(often plural;a particular kind of product or merchandise;a commercial organization serving as a common carrier;space for one line of print (one column wide and 1/14 inch deep;the maximum credit that a customer is allowed;a succession of notes forming a distinctive sequence;persuasive but insincere talk that is usually intended to deceive or impress;a short personal letter;a conceptual separation or distinction;mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it
 week,	NNS,	weeks,	any period of seven consecutive days;hours or days of work in a calendar week;a period of seven consecutive days starting on Sunday
@@ -1403,14 +1394,11 @@ syrup,	VB,	syrup,	--- No definition found for pos_key v ---
 tomorrow,	RB,	tomorrow,	the next day, the day after, following the present day
 salad,	NN,	salad,	food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens
 hour,	NN,	hour,	a period of time equal to 1/24th of a day;clock time;a special and memorable period;distance measured by the time taken to cover it
-Jessica,	NNP,	Jessica,	--- No definition found for pos_key n ---
-awfully,	RB,	awfully,	used as intensifiers;of a dreadful kind;in a terrible manner
 busy,	JJ,	busy,	actively or fully engaged or occupied;overcrowded or cluttered with detail;intrusive in a meddling or offensive manner;crowded with or characterized by much activity;(of facilities such as telephones or lavatories;`engaged' is a British term for a busy telephone line
 frisbee,	NN,	frisbee,	a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
 peekaboo,	NN,	peekaboo,	a game played with young children; you hide your face and suddenly reveal it as you say boo!
 sock,	NNS,	socks,	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee;a truncated cloth cone mounted on a mast; used (e.g., at airports
 glove,	NNS,	gloves,	the handwear used by fielders in playing baseball;handwear: covers the hand and wrist;boxing equipment consisting of big and padded coverings for the fists of the fighters; worn for the sport of boxing
-sash,	VBP,	sash,	--- No definition found for pos_key v ---
 sash,	NN,	sash,	a framework that holds the panes of a window in the window frame;a band of material around the waist that strengthens a skirt or trousers
 scarf,	NN,	scarf,	a garment worn around the head or neck or shoulders for warmth or decoration;a joint made by notching the ends of two pieces of timber or metal so that they will lock together end-to-end
 britches,	NN,	britches,	(used in the plural
@@ -1419,18 +1407,16 @@ foot,	NN,	foot,	the part of the leg of a human being below the ankle joint;a lin
 laugh,	VBG,	laughing,	produce laughter
 laugh,	VBP,	laugh,	produce laughter
 stubborn,	JJ,	stubborn,	tenaciously unwilling or marked by tenacious unwillingness to yield;not responding to treatment
-Eric,	NNP,	Eric,	--- No definition found for pos_key n ---
-Erica,	NNP,	Erica,	any plant of the genus Erica
 snap,	VBP,	snap,	utter in an angry, sharp, or abrupt tone;separate or cause to separate abruptly;break suddenly and abruptly, as under tension;move or strike with a noise;close with a snapping motion;make a sharp sound;move with a snapping sound;to grasp hastily or eagerly;put in play with a snap;cause to make a snapping sound;lose control of one's emotions;bring the jaws together;record on photographic film
 wet,	JJ,	wet,	covered or soaked with a liquid such as water;containing moisture or volatile components;supporting or permitting the legal production and sale of alcoholic beverages;producing or secreting milk;consisting of or trading in alcoholic liquor;very drunk
 tie,	VB,	tie,	fasten or secure with a rope, string, or cord;finish a game with an equal number of points, goals, etc.;limit or restrict to;connect, fasten, or put together two or more pieces;form a knot or bow in;create social or emotional ties;perform a marriage ceremony;make by tying pieces together;unite musical notes by a tie
 rabbit,	NN,	rabbit,	any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food;the fur of a rabbit;flesh of any of various rabbits or hares (wild or domesticated
 pizza,	NN,	pizza,	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+awful,	RB,	awfully,	used as intensifiers;of a dreadful kind;in a terrible manner
 awful,	JJ,	awful,	exceptionally bad or displeasing;causing fear or dread or terror;offensive or even (of persons;inspired by a feeling of fearful wonderment or reverence;extreme in degree or extent or amount or impact;inspiring awe or admiration or wonder
 napper,	NN,	napper,	--- No definition found for pos_key n ---
 cute,	JJ,	cute,	attractive especially by means of smallness or prettiness or quaintness;obviously contrived to charm
 hilarious,	JJ,	hilarious,	marked by or causing boisterous merriment or convulsive laughter
-oughta,	NNS,	oughta,	--- No definition found for pos_key n ---
 teacher,	NN,	teacher,	a person whose occupation is teaching;a personified abstraction that teaches
 front,	NN,	front,	the side that is forward or prominent;the line along which opposing armies face each other;the outward appearance of a person;the side that is seen or that goes first;a person used as a cover for some questionable activity;a sphere of activity involving effort;(meteorology;the immediate proximity of someone or something;the part of something that is nearest to the normal viewer;a group of people with a common ideology who try together to achieve certain general goals
 grow,	VBN,	grown,	pass into a condition gradually, take on a specific property or attribute; become;become larger, greater, or bigger; expand or gain;increase in size by natural process;cause to grow or develop;develop and reach maturity; undergo maturation;come into existence; take on form or shape;cultivate by growing, often involving improvements by means of agricultural techniques;come to have or undergo a change of (physical features and attributes;grow emotionally or mature;become attached by or as if by the process of growth
@@ -1439,17 +1425,11 @@ lie,	VBD,	lied,	be located or situated somewhere; occupy a certain position;be l
 pillow,	VBP,	pillow,	rest on or as if on a pillow
 stink,	VBP,	stink,	be extremely bad in quality or in one's performance;smell badly and offensively
 jewelry,	NN,	jewelry,	an adornment (as a bracelet or ring or necklace;or imitation gems
-Bubba,	NNP,	Bubba's,	--- No definition found for pos_key n ---
-Justin,	NNP,	Justin,	--- No definition found for pos_key n ---
 alligator,	NNS,	alligators,	leather made from alligator's hide;either of two amphibious reptiles related to crocodiles but with shorter broader snouts
 forever,	RB,	forever,	for a limitless time;for a very long or seemingly endless time;without interruption
 slick,	JJ,	slick,	made slick by e.g. ice or grease;superficially impressive, but lacking depth and attention to the true complexities of a subject;having only superficial plausibility;having a smooth, gleaming surface reflecting light;marked by skill in deception
-
-
-
-
-Gwagwa,	NNP,	Gwagwa's,	--- No definition found for pos_key n ---
 chief,	NN,	chief,	a person who is in charge;a person who exercises control over workers;the head of a tribe or clan
+
 
 cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain,   is that cool?;How cool is my idea?;This place is so cool.
 gosh,	UH,	gosh,	used to express surprise or give emphasis,  gosh,you are a good cook;gosh you play well
