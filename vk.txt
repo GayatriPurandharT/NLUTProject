@@ -55,7 +55,7 @@
 *CHI:	white .
 %mor:	adj|white .
 %gra:	1|0|INCROOT 2|1|PUNCT
-*ADU:	(20.) I make balls .
+*ADU:	I make balls .
 %mor:	pro:sub|I v|make n|ball-PL .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
 *CHI:	xxx .
@@ -123,7 +123,7 @@
 *CHI:	hi .
 %mor:	co|hi .
 %gra:	1|0|INCROOT 2|1|PUNCT
-*ADU:	hi (6.) are you gonna come to my party today ?
+*ADU:	hi are you gonna come to my party today ?
 %mor:	co|hi aux|be&PRES pro:per|you part|go-PRESP~inf|to v|come prep|to det:poss|my n|party adv:tem|today ?
 %gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET 9|7|POBJ 10|6|JCT 11|4|PUNCT
 *ADU:	will you play at my party ?

@@ -1470,10 +1470,8 @@ alligator,	NNS,	alligators,	leather made from alligator's hide;either of two amp
 forever,	RB,	forever,	for a limitless time;for a very long or seemingly endless time;without interruption
 slick,	JJ,	slick,	made slick by e.g. ice or grease;superficially impressive, but lacking depth and attention to the true complexities of a subject;having only superficial plausibility;having a smooth, gleaming surface reflecting light;marked by skill in deception
 Gwagwa,	NNP,	Gwagwa's,	--- No definition found for pos_key n ---
-chief,	NN,	chief,	a person who is in charge;a person who exercises control over workers;the head of a tribe or clan
-cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain
 
-
+cool,	NN,	cool,	the quality of being at a refreshingly low temperature;great coolness and composure under strain,   is that cool?;How cool is my idea?;This place is so cool.
 gosh,	UH,	gosh,	used to express surprise or give emphasis,  gosh,you are a good cook;gosh you play well
 turtle,	NN,	turtle,	any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming,   this one looks like a turtle;a turtle can live in water and on land;turtle walks slowly
 guy,    NN, guy,    a man,  who is this guy?;he is a dumb guy

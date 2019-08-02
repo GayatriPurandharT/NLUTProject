@@ -15,7 +15,7 @@ def phonebank_gra_to_stanford_gra(words, gra):
             'CONJ': 'conj',
             'OBJ': 'dobj',
             'MOD': 'nmod', # xmod amod
-            'POBJ': 'call', # ?
+            'POBJ': 'case', # ?
             'INF': 'mark', 
             'LP': 'punct', # ?
             'INCROOT': 'root',
@@ -25,6 +25,7 @@ def phonebank_gra_to_stanford_gra(words, gra):
             'NEG': 'neg',
             'ENUM': 'nummod',
             'NAME': 'name', 
+            'COM': 'discourse',
 
             # TODO
             'PUNCT': 'punct',
